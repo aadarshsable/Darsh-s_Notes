@@ -87,7 +87,7 @@ For Ex,
 - The set of Isometries of a regular n-Gon is called the **Dihedral Group $(D_{n})$ of order $2n$ **
 
 --------------
-[[Symmetry#Isometries]]| 
+[Isometries]
 
 
 
