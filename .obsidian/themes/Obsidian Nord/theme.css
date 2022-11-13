@@ -39,7 +39,7 @@
     --purple_x: 180,142,173; /* #b48ead */
     --purple:   rgb(var(--purple_x));
 
-    --purple1_x: 183, 98, 204;
+    --purple1_x: 239, 122, 250;
     --purple1: rgb(var(--purple1_x));
     --cyan1_x: 98, 204, 204;
     --cyan1: rbg(var(--cyan1_x));
@@ -49,6 +49,10 @@
     --lgreen: rgb(var(--lgreen_x));
     --lyellow_x: 253, 253, 189;
     --lyellow: rgb(var(--lyellow_x));
+    --cyan3_x: 150, 235, 209;
+    --cyan3: rgb(var(--cyan3_x));
+    --lime_x: 174, 235, 150;
+    --lime: rgb(var(--lime_x));
 
 }
 
@@ -111,15 +115,15 @@ body
 
     --h1-color:                      var(--purple1);
     --h2-color:                      var(--cyan1);
-    --h3-color:                      var(--cyan2);
-    --h4-color:                      var(--purple);
-    --h5-color:                      var(--frost0);
+    --h3-color:                      var(--purple1);
+    --h4-color:                      var(--cyan2);
+    --h5-color:                      var(--cyan3);
     --h6-color:                      var(--frost2);
 
     --text-highlight-bg:             var(--frost1);
     --text-highlight-fg:             var(--dark0);
 
-    --text-accent:                   var(--orange);
+    --text-accent:                   var(--lime);
     --text-accent-hover:             var(--frost2);
 
     --tag-color:                     var(--frost0);
@@ -154,10 +158,10 @@ body
     --mermaid-note:                  var(--frost3);
     --mermaid-loopline:              var(--frost1);
 
-    --icon-color-hover:              var(--red);
+    --icon-color-hover:              var(--lime);
     --icon-color-focused:            var(--frost2);
 
-    --nav-item-color-hover:          var(--red);
+    --nav-item-color-hover:          var(--lime);
     --nav-item-color-active:         var(--frost2);
     --nav-file-tag:                  rgba(var(--yellow_x), 0.9);
 
@@ -177,7 +181,7 @@ body
     --dataview-value-background:     rgba(var(--red_x), 0.3);
 
     --tab-text-color-focused-active:         var(--frost2);
-    --tab-text-color-focused-active-current: var(--red);
+    --tab-text-color-focused-active-current: var(--lime);
 }
 
 .theme-light
