@@ -1,0 +1,12 @@
+{
+  "choices": [],
+  "macros": [
+    {
+      "name": "Log",
+      "id": "58cd3305-88c2-4c5e-a37c-0cc9f074639f",
+      "commands": [],
+      "runOnStartup": true
+    }
+  ],
+  "inputPrompt": "single-line"
+}

@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "d1ac8d76d4f25584",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8a2a8654f6cac62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77c7127ab122ded4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH101/Group Theory/Symmetry.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "8f99fa75617dc9d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH101/Group Theory/Groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e7ea13bf4f092de",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a38464dbb3b15dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1d76f4a440a9aea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3a32b05078690b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "856a1527e0f18e51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "606d56d6c4388c1f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ea4b12653eb92a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a2ddb7bf8d40eaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "300a2cc661126d66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MATH101/Group Theory/Groups.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a70c60e3100e8e85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MATH101/Group Theory/Groups.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c0f17390e624e91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe0fa11daf7c88f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MATH101/Group Theory/Groups.md"
+              }
+            }
+          },
+          {
+            "id": "77740d1398a87009",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8f99fa75617dc9d1",
+  "lastOpenFiles": [
+    "MATH101/Group Theory/Symmetry.md",
+    "MATH101/Group Theory/Groups.md",
+    "MATH101/data/Isometry-1.md",
+    "MATH101/data/Cases for n-gon Symmetry.md",
+    "MATH101/data/Images/Drawing 2022-11-12 12.41.56.excalidraw.png",
+    "MATH101/data/Images/Drawing 2022-11-12 12.41.56.excalidraw.md",
+    "MATH101/data/Images/Drawing 2022-11-12 12.14.42.excalidraw.png",
+    "MATH101/data/Images/Drawing 2022-11-12 12.14.42.excalidraw.md",
+    "MATH101/data/Images/Untitled-2022-11-12-1155.png",
+    "MATH101/data/Images/Drawing 2022-11-12 11.50.55.excalidraw.md"
+  ]
+}
