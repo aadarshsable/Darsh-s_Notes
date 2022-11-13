@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO101/Cell Biology/lalal.md",
+                "file": "BIO101/Cell Biology/Scientific Study of Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO101/Cell Biology/lalal.md",
+                "file": "BIO101/Cell Biology/Scientific Study of Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO101/Cell Biology/lalal.md",
+                "file": "BIO101/Cell Biology/Scientific Study of Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO101/Cell Biology/lalal.md"
+                "file": "BIO101/Cell Biology/Scientific Study of Life.md"
               }
             }
           },
@@ -150,7 +150,7 @@
   "lastOpenFiles": [
     "MATH101/Group Theory/Symmetry.md",
     "MATH101/Group Theory/Groups.md",
-    "BIO101/Cell Biology/lalal.md",
+    "BIO101/Cell Biology/Scientific Study of Life.md",
     "BIO101/Untitled.md",
     "MATH101/data/Isometry-1.md",
     "MATH101/data/Cases for n-gon Symmetry.md",
