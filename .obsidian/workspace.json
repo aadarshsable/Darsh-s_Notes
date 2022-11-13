@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -138,8 +137,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3a32b05078690b7",
+  "active": "bd26c712139964e2",
   "lastOpenFiles": [
+    "BIO101/Untitled.md",
     "MATH101/Group Theory/Symmetry.md",
     "MATH101/Group Theory/Groups.md",
     "MATH101/data/Isometry-1.md",
@@ -148,7 +148,6 @@
     "MATH101/data/Images/Drawing 2022-11-12 12.41.56.excalidraw.md",
     "MATH101/data/Images/Drawing 2022-11-12 12.14.42.excalidraw.png",
     "MATH101/data/Images/Drawing 2022-11-12 12.14.42.excalidraw.md",
-    "MATH101/data/Images/Untitled-2022-11-12-1155.png",
-    "MATH101/data/Images/Drawing 2022-11-12 11.50.55.excalidraw.md"
+    "MATH101/data/Images/Untitled-2022-11-12-1155.png"
   ]
 }
