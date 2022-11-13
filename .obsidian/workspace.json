@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8a2a8654f6cac62",
+        "id": "e6b299ce22c77b75",
         "type": "tabs",
         "children": [
           {
-            "id": "4d637261c9bbf850",
+            "id": "f3e63720ea0a86d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO101/Cell Biology/Process of Science.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "115709da519a47a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIO101/Sub-Topics/Lifes Heirarchy.md",
+                "file": "MATH101/Group Theory/Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO101/Cell Biology/Process of Science.md",
+                "file": "MATH101/Group Theory/Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO101/Cell Biology/Process of Science.md",
+                "file": "MATH101/Group Theory/Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO101/Cell Biology/Process of Science.md"
+                "file": "MATH101/Group Theory/Groups.md"
               }
             }
           },
@@ -158,17 +146,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4d637261c9bbf850",
+  "active": "f3e63720ea0a86d1",
   "lastOpenFiles": [
+    "MATH101/Group Theory/Groups.md",
+    "MATH101/Group Theory/Symmetry.md",
+    "MATH101/data/Cases for n-gon Symmetry.md",
+    "BIO101/Cell Biology/Scientific Study of Life.md",
     "BIO101/Sub-Topics/Lifes Heirarchy.md",
     "BIO101/Cell Biology/Process of Science.md",
     "BIO101/data/images/Drawing 2022-11-13 21.57.47.excalidraw.md",
     "BIO101/Sub-Topics/Domain Eukarya.md",
-    "BIO101/Cell Biology/Scientific Study of Life.md",
-    "MATH101/Group Theory/Symmetry.md",
-    "MATH101/Group Theory/Groups.md",
     "BIO101/Untitled.md",
-    "MATH101/data/Isometry-1.md",
-    "MATH101/data/Cases for n-gon Symmetry.md"
+    "MATH101/data/Isometry-1.md"
   ]
 }
