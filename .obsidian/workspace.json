@@ -10,20 +10,6 @@
           {
             "id": "77c7127ab122ded4",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH101/Group Theory/Symmetry.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8f99fa75617dc9d1",
-            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -32,17 +18,26 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f3d17ecd83b9adf4",
+        "type": "tabs",
+        "children": [
           {
             "id": "4e7ea13bf4f092de",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MATH101/Group Theory/Groups.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH101/Group Theory/Symmetry.md",
+                "file": "MATH101/Group Theory/Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH101/Group Theory/Symmetry.md",
+                "file": "MATH101/Group Theory/Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH101/Group Theory/Symmetry.md"
+                "file": "MATH101/Group Theory/Groups.md"
               }
             }
           },
@@ -168,10 +163,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8f99fa75617dc9d1",
+  "active": "4e7ea13bf4f092de",
   "lastOpenFiles": [
-    "MATH101/Group Theory/Groups.md",
     "MATH101/Group Theory/Symmetry.md",
+    "MATH101/Group Theory/Groups.md",
     "MATH101/data/Isometry-1.md",
     "MATH101/data/Cases for n-gon Symmetry.md",
     "MATH101/data/Images/Drawing 2022-11-12 12.41.56.excalidraw.png",
