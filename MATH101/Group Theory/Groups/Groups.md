@@ -89,6 +89,115 @@ For Ex,
 --------------
 
 
+### Relalted Ideas:
+
+We know a Group is a pair of $(G, \ast)$
+- There Exists an element $1_{G}$ such that 
+  $f \ast 1_{G} = 1_{G} \ast f = f$
+  for all $f$ in $G$
+  
+- For all $f$ in $G$ , there exists an element $f^{-1}$ such that 
+  $f \ast f^{-1} = f^{-1} \ast f = 1_{G}$
+
+- For any $f, g, h$ in $G$ (Associativity)
+	  $(f \ast g) \ast h = f \ast (g \ast h)$
+	
+
+##### Cancellation Property
+
+Let $a, b, c$ be elements of a group $G$
+If, $ab = ac$ or $ba = ca$
+	then, $b = c$
+***Proof***
+> Suppose $ab = ac$
+> Then, 
+> 	$a^{-1}(ab) = a^{-1}(ac)$
+> So,
+> 	$1_{G} \cdot b = 1_{G} \cdot c$ 
+> i.e, $b = c$
+
+***Note***
+> In general the above property is not true.
+> $ab = ca \implies b = c$
+> For Ex,
+> 	In $D_{3}$, $\varphi ^{2}\tau =  \tau \varphi$
+> 	However, we cannot cancel $\tau$ to get $\varphi ^{2} = \varphi$ 
+> 	(which is false)
+
+---------------------------------------
+
+### More on Identity Element:
+
+The axioms say that there exists some element $1_{G}$ such that 
+	$f \ast 1_{G} = 1_{G} \ast f = f$ 
+They d not explicitly say that thre is only one such element 
+However, we can deduce this 
+
+##### Uniqueness of Identity
+
+Let $G$ be a group and let $f$ be an element of $G$ such that $f x = x$ for some $x$ in $G$.
+Then, $f = 1_{G}$
+
+***Proof***:
+> $f x = x \implies f = 1_{G}$
+> (By cancelling $X$ on the right)
+
+Notice that we only needed to assume that $f x = x$ for some $x$, not necessarily all $x$ 
+Also, we did not need to assume $xf = x$
+
+--------------------------------
+
+### Inverses:
+
+Similarly, the axioms states that for any $f$ in $G$, there exists some $f^{-1}$, Such that
+	$f \ast f^{-1} = f^{-1} \ast f = 1_{G}$
+However we can deduce a stronger statement.
+
+##### Uniqueness of Inverses:
+
+Let $G$ be a group and let $f$ be an element of $G$.
+If $h$ is an element such that $fh = 1_{G}$, then $h = f^{-1}$.
+Similarly,
+	if $h$ satisfies $hf = 1_{G}$, then
+	$h = f^{-1}$.
+
+***Proof***
+> $$
+\begin{align}
+h &= 1_{G}\cdot h \\
+&=(f^{-1}f) \cdot h \\
+&=f^{-1}(fh) \\
+&= f^{-1}1_{G} \\
+&= f^{-1}
+\end{align}
+$$
+    The proof in the case of $hf = 1_{G}$ is similar 
+
+
+#### Inverses of a Product:
+
+Note that if $a,b$ are in group $G$,
+$(ab)^{-1}$ is not the same as $a^{-1}\cdot b^{-1}$
+But we claim that
+$$
+(ab)^{-1} = b^{-1}\cdot a^{-1}
+$$
+
+***Proof:***
+> $$
+\begin{align}
+ab\cdot(b^{-1}a^{-1}) &= a(bb^{-1})a^{-1} \\
+&= a\cdot 1_{G} \cdot a^{-1} \\
+&= aa^{-1} \\
+&= 1_{G}
+\end{align}
+$$
+
+----------------------------------------
+
+
+
+
 
 
 

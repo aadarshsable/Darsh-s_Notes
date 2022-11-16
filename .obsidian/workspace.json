@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bebbc1cb4a3b3a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH101/Group Theory/Groups/Groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "108d6a646faad4c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH101/Group Theory/Groups/Isomorphism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8638f326a7357471",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH101/Group Theory/Symmetry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extra/Profs.md",
+                "file": "MATH101/Group Theory/Groups/Isomorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extra/Profs.md",
+                "file": "MATH101/Group Theory/Groups/Isomorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extra/Profs.md"
+                "file": "MATH101/Group Theory/Groups/Isomorphism.md"
               }
             }
           },
@@ -146,17 +183,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19d85771eb2470de",
+  "active": "108d6a646faad4c8",
   "lastOpenFiles": [
+    "MATH101/Group Theory/Groups/Groups.md",
+    "MATH101/Group Theory/Groups/Isomorphism.md",
+    "MATH101/Group Theory/Symmetry.md",
+    "Extra/Profs.md",
     "Classes.md",
     "BIO101/Cell Biology/Process of Science.md",
-    "MATH101/Group Theory/Symmetry.md",
     "MATH101/data/Cases for n-gon Symmetry.md",
     "MATH101/data/Isometry-1.md",
     "BIO101/Cell Biology/Scientific Study of Life.md",
-    "BIO101/Sub-Topics/Lifes Heirarchy.md",
-    "MATH101/Group Theory/Groups.md",
-    "BIO101/data/images/Drawing 2022-11-13 21.57.47.excalidraw.md",
-    "BIO101/Sub-Topics/Domain Eukarya.md"
+    "BIO101/Sub-Topics/Lifes Heirarchy.md"
   ]
 }
