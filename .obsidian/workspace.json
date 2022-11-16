@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f173484a7553ad50",
+        "id": "bab4607fac7a8e33",
         "type": "tabs",
         "children": [
           {
-            "id": "19d85771eb2470de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extra/Profs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bebbc1cb4a3b3a9e",
+            "id": "8d9c1950febbc4d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "108d6a646faad4c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH101/Group Theory/Groups/Isomorphism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8638f326a7357471",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH101/Group Theory/Symmetry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH101/Group Theory/Groups/Isomorphism.md",
+                "file": "MATH101/Group Theory/Groups/Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH101/Group Theory/Groups/Isomorphism.md",
+                "file": "MATH101/Group Theory/Groups/Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH101/Group Theory/Groups/Isomorphism.md"
+                "file": "MATH101/Group Theory/Groups/Groups.md"
               }
             }
           },
@@ -183,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "108d6a646faad4c8",
+  "active": "8d9c1950febbc4d4",
   "lastOpenFiles": [
-    "MATH101/Group Theory/Groups/Groups.md",
-    "MATH101/Group Theory/Groups/Isomorphism.md",
+    "BIO101/Cell Biology/Process of Science.md",
+    "BIO101/data/images/Process of Science.md",
     "MATH101/Group Theory/Symmetry.md",
+    "MATH101/Group Theory/Groups/Isomorphism.md",
+    "MATH101/Group Theory/Groups/Groups.md",
     "Extra/Profs.md",
     "Classes.md",
-    "BIO101/Cell Biology/Process of Science.md",
     "MATH101/data/Cases for n-gon Symmetry.md",
     "MATH101/data/Isometry-1.md",
-    "BIO101/Cell Biology/Scientific Study of Life.md",
-    "BIO101/Sub-Topics/Lifes Heirarchy.md"
+    "BIO101/Cell Biology/Scientific Study of Life.md"
   ]
 }

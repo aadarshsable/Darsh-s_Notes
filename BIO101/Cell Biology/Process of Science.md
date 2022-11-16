@@ -36,3 +36,6 @@ $Q.$ In some studies, researchers try to match the sex, age, and general health 
 
 
 
+![[Process of Science.png]]
+
+$Q.$ How do science and 
