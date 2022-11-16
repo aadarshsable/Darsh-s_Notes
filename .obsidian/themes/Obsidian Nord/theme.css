@@ -53,6 +53,10 @@
     --cyan3: rgb(var(--cyan3_x));
     --lime_x: 174, 235, 150;
     --lime: rgb(var(--lime_x));
+    --red1_X: 250, 85, 112;
+    --red1: rgb(var(--red_x));
+    --purple3_x: 184, 85, 250;
+    --purple3: rbg(var(--purple3_x));
 
 }
 
@@ -113,8 +117,8 @@ body
     --text-faint:                    var(--light0);
     --text-muted:                    var(--light1);
 
-    --h1-color:                      var(--purple1);
-    --h2-color:                      var(--cyan1);
+    --h1-color:                      var(--red1);
+    --h2-color:                      var(--purple3);
     --h3-color:                      var(--purple1);
     --h4-color:                      var(--cyan2);
     --h5-color:                      var(--cyan3);
