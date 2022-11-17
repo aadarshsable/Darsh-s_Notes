@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bab4607fac7a8e33",
+        "id": "83c6e0390eeb5425",
         "type": "tabs",
         "children": [
           {
-            "id": "8d9c1950febbc4d4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MATH101/Notes/Groups/Tutorials/Tutorial01.pdf"
-              }
-            }
-          },
-          {
-            "id": "b74361d7e53bc213",
+            "id": "fb7c62a16bb9b023",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH101/Group Theory/Groups/Discussion/Tutorial-2-Q1.md",
+                "file": "MATH101/Group Theory/Discussion/Tutorial-2-Q1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH101/Group Theory/Groups/Discussion/Tutorial-2-Q1.md",
+                "file": "MATH101/Group Theory/Discussion/Tutorial-2-Q1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH101/Group Theory/Groups/Discussion/Tutorial-2-Q1.md",
+                "file": "MATH101/Group Theory/Discussion/Tutorial-2-Q1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH101/Group Theory/Groups/Discussion/Tutorial-2-Q1.md"
+                "file": "MATH101/Group Theory/Discussion/Tutorial-2-Q1.md"
               }
             }
           },
@@ -156,10 +145,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b74361d7e53bc213",
+  "active": "fb7c62a16bb9b023",
   "lastOpenFiles": [
-    "MATH101/Notes/Groups/Tutorials/Tutorial02.pdf",
     "MATH101/Group Theory/Groups/Discussion/Tutorial-2-Q1.md",
+    "MATH101/Notes/Groups/Tutorials/Tutorial02.pdf",
     "MATH101/Notes/Groups/Tutorials/Tutorial01.pdf",
     "MATH101/Notes/Groups/Notes/Lecture01.pdf",
     "MATH101/Group Theory/Groups/Groups.md",
