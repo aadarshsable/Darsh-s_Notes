@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2c1631e1c09bc1a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHY101/Newton Laws.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH101/Group Theory/Discussion/Tutorial-2-Q1.md",
+                "file": "PHY101/Newton Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH101/Group Theory/Discussion/Tutorial-2-Q1.md",
+                "file": "PHY101/Newton Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH101/Group Theory/Discussion/Tutorial-2-Q1.md"
+                "file": "PHY101/Newton Laws.md"
               }
             }
           },
@@ -145,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb7c62a16bb9b023",
+  "active": "2c1631e1c09bc1a1",
   "lastOpenFiles": [
+    "BIO101/data/images/Pasted Image 20221116131726_524.png",
+    "Pasted image 20221118230113.png",
+    "PHY101/Newton Laws.md",
+    "PHY101/Newton Laws/Untitled.md",
+    "MATH101/Group Theory/Discussion/Tutorial-2-Q1.md",
     "MATH101/Group Theory/Groups/Discussion/Tutorial-2-Q1.md",
     "MATH101/Notes/Groups/Tutorials/Tutorial02.pdf",
     "MATH101/Notes/Groups/Tutorials/Tutorial01.pdf",
     "MATH101/Notes/Groups/Notes/Lecture01.pdf",
-    "MATH101/Group Theory/Groups/Groups.md",
-    "BIO101/Cell Biology/Process of Science.md",
-    "BIO101/data/images/Process of Science.md",
-    "MATH101/Group Theory/Symmetry.md",
-    "MATH101/Group Theory/Groups/Isomorphism.md",
-    "Extra/Profs.md"
+    "MATH101/Group Theory/Groups/Groups.md"
   ]
 }
