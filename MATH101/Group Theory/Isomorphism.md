@@ -26,6 +26,52 @@ We say that two groups are isomorphic if there exists a group isomorpism from on
 > $$
 \begin{align}
 \phi(x+y)  & = a^{x+y} \\
-&=a^{ }
+&=a^{x}\cdot a^{y} \\
+&=\phi(x)\cdot \phi(y)
 \end{align}
 $$
+
+Thus, $\phi$ is a group isomorphism. So $(\mathbb{R}_{+}, \cdot)$ is a isomorphic to $(\mathbb{R}, +)$.
+
+***Note: Isomorphism preserves identity and inverses***
+>If $\phi: G \rightarrow H$ be an isomorphism. Then,
+>
+>	1. $\phi(1_{G}) = 1_{H}$
+>	2. For any $x \in G$ , $\phi(x^{-1}) = \phi(x)^{-1}$
+>	
+>	***Proof:***
+>	
+>		$\phi(1_{G}) = \phi(1_{G}\cdot 1_{G}) = \phi(1_{G})\cdot \phi(1_{G})$
+>		By cancellation property we get
+>			 $\phi(1_{G}) = 1_{H}$
+>		
+>		Let $x$ be any element of $G$
+>		Then
+>			$\phi(x\cdot x^{-1}) = \phi(x)\cdot \phi(x^{-1})$
+>			But,
+>			$\phi(x\cdot x^{-1}) = \phi(1_{G})=1_{H}$
+>			So,
+>			$\phi(x^{-1}) = \phi(x)^{-1}$
+>
+
+
+***Theorem:***
+> Let $G$ and $H$ be groups. Let $\phi:G \rightarrow H$ be a group isomorphism.
+> Then, the function $\phi ^{-1}: H \rightarrow G$ is also a group isomorphism
+> 
+> ***Proof:***
+> 	We know $\phi ^{-1}$ is a $1-1$ correspondence.
+> 	We need to verify that if $x, y$ are in $H$, then,
+> 		$\phi ^{-1}(xy) = \phi(x)\cdot \phi(y)$
+> 	
+> 	We observe that
+$$
+\begin{align}
+\phi[\phi ^{-1}(x)\cdot \phi ^{-1}(y)] &= \phi[\phi ^{-1}(x)] \cdot \phi[\phi ^{-1}(y)] \\
+&=xy
+\end{align} 
+$$
+>	But we also have,
+>		$\phi[\phi ^{-1}(xy)] = xy$
+>	 
+>

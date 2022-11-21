@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be1582e8637cf4d1",
+            "id": "da67cd2f7c4b26b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH101/Group Theory/Groups.md",
+                "file": "MATH101/Group Theory/Sub-Groups.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7c4c4a8a352f9bc5",
+            "id": "e3c9e12c2fd14828",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,16 +35,16 @@
         "currentTab": 1
       },
       {
-        "id": "6fa46d6f14bc1d4c",
+        "id": "ec13434f4fdcb21a",
         "type": "tabs",
         "children": [
           {
-            "id": "ae842b0a7f17c371",
+            "id": "80c157e819193c85",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture04.pdf"
+                "file": "MATH101/Notes/Notes/Lecture05.pdf"
               }
             }
           }
@@ -175,17 +175,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c4c4a8a352f9bc5",
+  "active": "e3c9e12c2fd14828",
   "lastOpenFiles": [
+    "MATH101/Notes/Notes/Lecture05.pdf",
+    "MATH101/Group Theory/Sub-Groups.md",
+    "MATH101/Discussion/Tutorial-2-Q1.md",
+    "MATH101/Group Theory/Isomorphism.md",
     "MATH101/Group Theory/Groups.md",
     "Extra/Profs.md",
-    "MATH101/Group Theory/Isomorphism.md",
     "MATH101/Notes/Notes/Lecture04.pdf",
     "MATH101/Notes/Notes/Lecture03.pdf",
     "PHY101/Newton Laws.md",
-    "MATH101/Group Theory/Discussion/Tutorial-2-Q1.md",
-    "BIO101/data/images/Pasted Image 20221116131726_524.png",
-    "Pasted image 20221118230113.png",
-    "PHY101/Newton Laws/Untitled.md"
+    "BIO101/data/images/Pasted Image 20221116131726_524.png"
   ]
 }
