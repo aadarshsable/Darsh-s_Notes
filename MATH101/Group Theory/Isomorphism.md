@@ -15,4 +15,17 @@ for all $x,y$ in $G$
 
 We say that two groups are isomorphic if there exists a group isomorpism from one to the other
 
-> In simple words, when two multiplication table of two function ar
+> In simple words, when two multiplication table of two function are similar or in some sense the same
+
+***For Ex.***
+>Let $\mathbb{R}_{+}$ be the set of positive real numbers.
+>where it is a group under binary operation of multiplication.
+>We denote this group by $(\mathbb{R}_{+}, \cdot)$
+>
+>Let $\phi(x)=a^{x}$.
+> $$
+\begin{align}
+\phi(x+y)  & = a^{x+y} \\
+&=a^{ }
+\end{align}
+$$

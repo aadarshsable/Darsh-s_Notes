@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "f1ac6bbf23456227",
+            "id": "7c4c4a8a352f9bc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,9 +175,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f1ac6bbf23456227",
+  "active": "7c4c4a8a352f9bc5",
   "lastOpenFiles": [
     "MATH101/Group Theory/Groups.md",
+    "Extra/Profs.md",
     "MATH101/Group Theory/Isomorphism.md",
     "MATH101/Notes/Notes/Lecture04.pdf",
     "MATH101/Notes/Notes/Lecture03.pdf",
@@ -185,7 +186,6 @@
     "MATH101/Group Theory/Discussion/Tutorial-2-Q1.md",
     "BIO101/data/images/Pasted Image 20221116131726_524.png",
     "Pasted image 20221118230113.png",
-    "PHY101/Newton Laws/Untitled.md",
-    "MATH101/Group Theory/Groups/Discussion/Tutorial-2-Q1.md"
+    "PHY101/Newton Laws/Untitled.md"
   ]
 }
