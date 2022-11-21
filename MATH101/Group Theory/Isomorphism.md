@@ -62,7 +62,7 @@ Thus, $\phi$ is a group isomorphism. So $(\mathbb{R}_{+}, \cdot)$ is a isomorphi
 > ***Proof:***
 > 	We know $\phi ^{-1}$ is a $1-1$ correspondence.
 > 	We need to verify that if $x, y$ are in $H$, then,
-> 		$\phi ^{-1}(xy) = \phi(x)\cdot \phi(y)$
+> 		$\phi ^{-1}(xy) = \phi ^{-1}(x)\cdot \phi ^{-1}(y)$
 > 	
 > 	We observe that
 $$
@@ -73,5 +73,11 @@ $$
 $$
 >	But we also have,
 >		$\phi[\phi ^{-1}(xy)] = xy$
+>	 As $\phi ^{-1}(xy)$ and $\phi ^{-1}(x)\cdot \phi ^{-1}(y)$
+>	 have the same image under $\phi$, they must be equal
 >	 
+>	 This completes the proofs
 >
+
+
+---------------------------------------------------
