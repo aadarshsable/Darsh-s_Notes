@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "83c6e0390eeb5425",
+        "id": "b1af2ca0f5f6b494",
         "type": "tabs",
         "children": [
           {
-            "id": "fb7c62a16bb9b023",
+            "id": "be1582e8637cf4d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH101/Group Theory/Discussion/Tutorial-2-Q1.md",
+                "file": "MATH101/Group Theory/Groups.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2c1631e1c09bc1a1",
+            "id": "f1ac6bbf23456227",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHY101/Newton Laws.md",
+                "file": "MATH101/Group Theory/Isomorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,6 +33,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "6fa46d6f14bc1d4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae842b0a7f17c371",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MATH101/Notes/Notes/Lecture04.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY101/Newton Laws.md",
+                "file": "MATH101/Group Theory/Isomorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHY101/Newton Laws.md",
+                "file": "MATH101/Group Theory/Isomorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHY101/Newton Laws.md"
+                "file": "MATH101/Group Theory/Isomorphism.md"
               }
             }
           },
@@ -159,17 +175,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2c1631e1c09bc1a1",
+  "active": "f1ac6bbf23456227",
   "lastOpenFiles": [
+    "MATH101/Group Theory/Groups.md",
+    "MATH101/Group Theory/Isomorphism.md",
+    "MATH101/Notes/Notes/Lecture04.pdf",
+    "MATH101/Notes/Notes/Lecture03.pdf",
+    "PHY101/Newton Laws.md",
+    "MATH101/Group Theory/Discussion/Tutorial-2-Q1.md",
     "BIO101/data/images/Pasted Image 20221116131726_524.png",
     "Pasted image 20221118230113.png",
-    "PHY101/Newton Laws.md",
     "PHY101/Newton Laws/Untitled.md",
-    "MATH101/Group Theory/Discussion/Tutorial-2-Q1.md",
-    "MATH101/Group Theory/Groups/Discussion/Tutorial-2-Q1.md",
-    "MATH101/Notes/Groups/Tutorials/Tutorial02.pdf",
-    "MATH101/Notes/Groups/Tutorials/Tutorial01.pdf",
-    "MATH101/Notes/Groups/Notes/Lecture01.pdf",
-    "MATH101/Group Theory/Groups/Groups.md"
+    "MATH101/Group Theory/Groups/Discussion/Tutorial-2-Q1.md"
   ]
 }
