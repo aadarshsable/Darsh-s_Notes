@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e3c9e12c2fd14828",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH101/Group Theory/Isomorphism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ec13434f4fdcb21a",
@@ -115,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH101/Group Theory/Isomorphism.md",
+                "file": "MATH101/Group Theory/Sub-Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH101/Group Theory/Isomorphism.md",
+                "file": "MATH101/Group Theory/Sub-Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH101/Group Theory/Isomorphism.md"
+                "file": "MATH101/Group Theory/Sub-Groups.md"
               }
             }
           },
@@ -175,12 +162,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e3c9e12c2fd14828",
+  "active": "da67cd2f7c4b26b2",
   "lastOpenFiles": [
+    "MATH101/Group Theory/Isomorphism.md",
     "MATH101/Notes/Notes/Lecture05.pdf",
     "MATH101/Group Theory/Sub-Groups.md",
     "MATH101/Discussion/Tutorial-2-Q1.md",
-    "MATH101/Group Theory/Isomorphism.md",
     "MATH101/Group Theory/Groups.md",
     "Extra/Profs.md",
     "MATH101/Notes/Notes/Lecture04.pdf",
