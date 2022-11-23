@@ -54,4 +54,7 @@ The element $xy^{-1}$ is in $H$
 > Suppose $x,y$ are in $H$
 > Then, $y^{-1}$ is also in $H$
 > Thus $xy^{-1}$ is in $H$
+> Conversely,
+
+
 
