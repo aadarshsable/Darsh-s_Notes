@@ -201,4 +201,25 @@ Thus now our list is
 >    1. For $xy$
 >       $xy=1 \implies y=x^{-1}$
 >       But, $x^{2}=1 \implies x=x^{-1}$
->       Thus $xy \ne 1$                                   ----contr
+>       Thus $xy \ne 1$                                   ----contradiction
+>       $xy = x \implies y=1$                         ----contradiction
+>       $xy=y \implies x=1$                         ----contradiction
+>       Thus,
+> 	      $xy=yx$
+$$
+\begin{align}
+(xy)(xy) &= x(yx)y \\
+&= x(xy)y \\
+&= x^{2}\cdot y^{2} \\
+&=1
+\end{align}
+$$
+|      | 1    | $x$  | $y$  | $yx$ |
+| 1    | 1    | $x$  | $y$  | $yx$ |
+| $x$  | $x$  | $1$  | $yx$ | $y$  |
+| $y$  | $y$  | $yx$ | $1$  | $x$  |
+| $yx$ | $yx$ | $y$  | $x$  | $1$     |
+
+
+
+
