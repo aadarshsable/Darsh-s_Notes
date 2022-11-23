@@ -102,3 +102,99 @@ d &\leq r
 $$
 
 --------------------------------------
+#### Groups of small Order:
+
+Listing all grops of order $n$ upto isomorphism
+
+***For n=1***
+	{$1_{G}$ } is the only group
+
+------------------------
+
+***For n=2***
+	$G$ contains $1_{G}$ and some element $x$
+	We know
+$$
+\begin{align}
+x \cdot 1_{G} &= 1 \cdot x \\
+&= x
+\end{align}
+$$
+	For $x^{2}=x$
+		By cancellation property, it comes to be $x=1_{G}$
+		But we assumed $x \ne 1_{G}$ 
+	For $x^{2} = 1_{G}$
+		Everything holds
+	The multiplication table comes to be
+
+|     | 1   | $x$     |
+| --- | --- | ------- |
+| 1   | 1   | $x$     |
+| $x$ | $x$ | $x^{2}$ |
+
+-------------------------------------------
+
+***For n=3***
+	$\{1, x,y\}$
+	
+>	1. By our previous argument 
+		$x^{2} = 1$
+		So, 
+			$\{1, x^{2}\}$ is a subgroup
+	  For $yx$
+	  1. If $yx=1 \implies y=x^{-1}$
+		  but $x^{2}=1 \implies x^{-1}=x \implies x=y$
+		  which is wrong, Thus $yx \ne 1$
+	  2. if $yx=x$ we get $y=1$
+	     which is wrong thus, $yx \ne x$
+	  3. Similarly $yx \ne y$
+	  *Thus $x^{2} \ne 1$*
+
+>  2. For $x^{2} = y$
+>     which makes our list as $\{1,x, x^{2}\}$
+>     
+>     1. what is $x \cdot x^{2}$
+>        $x \cdot x^{2}=x \implies x^{2} = 1$   ---- contradiction
+>        $x \cdot x^{2} = x^{2} \implies x=1$   ---- contradiction
+>        Thus,
+> 	       $x \cdot x^{2} = 1$
+
+Hence there are only one group of order $3$
+
+|      | 1       | $x$     | $x^{2}$ |
+| ------- | ------- | ------- | ------- |
+| 1       | 1       | $x$     | $x^{2}$ |
+| $x$       | $x$     | $x^{2}$ | $1$     |
+| $x^{2}$ | $x^{2}$ | $1$     | $x$     |
+
+------------------------------------------
+
+***For n=4***
+
+Our List: $\{1, x, y, z\}$
+
+We have seen that $yx$ cannot be equal to $1,x$ or $y$ so $yx=z$
+Thus now our list is 
+	$\{1,x,y,yx\}$
+
+>1. For $y^{2}$
+>   1. $y^{2}=yx \implies y=x$    ------contradiction
+>   2. $y^{2}=x$
+>      Thus our List becomes
+>      $\{1,y^{2}, y, y^{3}\}$      (Since $x^{2}=y$ & $x^{2}\cdot x= y^{3}$)
+>      $y^{4}$ is some element of this set
+> 	     $y^{4}=y \implies y^{3}=1$                     ----contradiciton
+> 	     $y^{4}=y^{2} \implies y^{2}=1$                    ----contradiciton
+> 	     $y^{4}=y^{3} \implies y=1$                     ----contradiciton
+> 	     So,
+> 		     $y^{4}=1$
+
+|         | 1   | $y$ | $y^{2}$ | $y^{3}$ |
+| ------- | --- | --- | ------- | ------- |
+| 1       | 1 | $y$ | $y^{2}$| $y^{3}$ |
+| $y$     |    $y$ |  $y^{2}$   |   $y^{3}$      |    1     |
+| $y^{2}$ |   $y^{2}$  |  $y^{3}$   |       1  |     $y$    |
+| $y^{3}$ |   $y^{3}$  |   1  |      $y$ |      $y^{2}$   |
+
+> 2. For $y^{2} = 1$
+>    
