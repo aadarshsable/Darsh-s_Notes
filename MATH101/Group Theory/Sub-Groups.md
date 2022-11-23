@@ -88,7 +88,7 @@ then, $<x>$ (the subset of $G$) will also be a finite set.
 ***Proof***
 > Let $|G| = r$
 > In {$1, x, x^{2}\dots x^{r}$} all elements cannot be distinct.
-> So, for some positive integers 
+> So, for some positive integers $m$ and $n$
 $$
 \begin{align}
 m&<n \\ \\
@@ -96,6 +96,9 @@ m&<n \\ \\
 x^{m} &= x^{n} \\
 x^{n-m} &= 1_{G} \\ \\
 
-n \leq r &\implies n-m \leq r
+n \leq r &\implies n-m \leq r \\
+d &\leq r
 \end{align}
 $$
+
+--------------------------------------
