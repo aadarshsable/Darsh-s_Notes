@@ -75,4 +75,27 @@ Then $H$ is a subgroup of $G$ $iff$ for any $x, y$ in $H$
 
 ### Order of a Group:
 
-Let $G$ be a group. The car
+Let $G$ be a group. The cardinality of the set $G$ (number of elements) is called the order of $G$
+
+#### Finite Groups:
+
+Let $G$ be a finite group.
+then, $<x>$ (the subset of $G$) will also be a finite set.
+
+***Theorem***
+> Let $G$ be a finite group. Then, for any element $x$ of $G$, there exists a positive integer $d \leq |G|$ such that $x^{d} = 1$
+
+***Proof***
+> Let $|G| = r$
+> In {$1, x, x^{2}\dots x^{r}$} all elements cannot be distinct.
+> So, for some positive integers 
+$$
+\begin{align}
+m&<n \\ \\
+
+x^{m} &= x^{n} \\
+x^{n-m} &= 1_{G} \\ \\
+
+n \leq r &\implies n-m \leq r
+\end{align}
+$$
