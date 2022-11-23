@@ -197,4 +197,8 @@ Thus now our list is
 | $y^{3}$ |   $y^{3}$  |   1  |      $y$ |      $y^{2}$   |
 
 > 2. For $y^{2} = 1$
->    
+>    $\{1,x,y,yx\}$
+>    1. For $xy$
+>       $xy=1 \implies y=x^{-1}$
+>       But, $x^{2}=1 \implies x=x^{-1}$
+>       Thus $xy \ne 1$                                   ----contr
