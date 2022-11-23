@@ -214,11 +214,19 @@ $$
 &=1
 \end{align}
 $$
-|      | 1    | $x$  | $y$  | $yx$ |
-| 1    | 1    | $x$  | $y$  | $yx$ |
+
+
+|      | $1$  | $x$  | $y$  | $yx$ |
+| ---- | ---- | ---- | ---- | ---- |
+| $1$  | $1$  | $x$  | $y$  | $yx$ |
 | $x$  | $x$  | $1$  | $yx$ | $y$  |
 | $y$  | $y$  | $yx$ | $1$  | $x$  |
-| $yx$ | $yx$ | $y$  | $x$  | $1$     |
+| $yx$ | $yx$ | $y$  | $x$  | $1$  | 
+
+Hnece we are done with the $x^{2}=1$ cases
+
+Lets look at cases for $x^{3}=1$
+
 
 
 
