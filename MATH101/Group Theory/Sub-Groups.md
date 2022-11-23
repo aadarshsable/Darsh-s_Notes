@@ -229,7 +229,19 @@ Lets look at cases for $x^{3}=1$
 
 > For $yx$ , 
 > 	$yx=1 \implies y=x^{-1}=x^{2}$                  ----contradiction
-> 	$yx=x $
+> 	$yx=x \implies y=1$                              ----contradiction
+> 	$yx=x^{2} \implies y=x$                            ----contradiction
+> Thus $yx$ cannot be defined
+> And $x^{3}=1$ is not possible
+
+Now for $x^{4}=1$
+	This gives a group isomorphic to one we already have in the case of $x^{2}=1 \rightarrow y^{2}=x$
+
+**Thus there are 2 groups of order 4.**
+
+---------------------------------------------
+
+
 
 
 
