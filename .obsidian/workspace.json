@@ -34,8 +34,19 @@
                 "file": "MATH101/Notes/Notes/Lecture06.pdf"
               }
             }
+          },
+          {
+            "id": "20a54138a715c7b8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MATH101/Notes/Notes/Lecture07.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH101/Group Theory/Lagrange's Theorem.md",
+                "file": "MATH101/Notes/Notes/Lecture07.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH101/Group Theory/Lagrange's Theorem.md",
+                "file": "MATH101/Notes/Notes/Lecture07.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH101/Group Theory/Lagrange's Theorem.md"
+                "file": "MATH101/Notes/Notes/Lecture07.pdf"
               }
             }
           },
@@ -162,10 +173,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5352acf6e4c19e73",
+  "active": "20a54138a715c7b8",
   "lastOpenFiles": [
-    "MATH101/Group Theory/Sub-Groups.md",
     "MATH101/Group Theory/Lagrange's Theorem.md",
+    "MATH101/Group Theory/Sub-Groups.md",
     "MATH101/Group Theory/Isomorphism.md",
     "MATH101/Notes/Notes/Lecture06.pdf",
     "MATH101/Notes/Notes/Lecture05.pdf",
