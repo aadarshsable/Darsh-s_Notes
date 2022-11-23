@@ -227,7 +227,9 @@ Hnece we are done with the $x^{2}=1$ cases
 
 Lets look at cases for $x^{3}=1$
 
-
+> For $yx$ , 
+> 	$yx=1 \implies y=x^{-1}=x^{2}$                  ----contradiction
+> 	$yx=x $
 
 
 
