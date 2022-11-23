@@ -48,13 +48,31 @@ $$
 
 Let $G$ be group. Let $H$ be a non-empty subset of $G$. 
 Then $H$ is a subgroup of $G$ $iff$ for any $x, y$ in $H$
-The element $xy^{-1}$ is in $H$
 
 ***Proof:***
 > Suppose $x,y$ are in $H$
 > Then, $y^{-1}$ is also in $H$
 > Thus $xy^{-1}$ is in $H$
-> Conversely,
+> 
+> 1. For $1_{g}$:
+> 	   Let $x$ be any element of $H$.
+> 	   Thus, $x\cdot x^{-1} = 1_{g}$ is in $H$
+> 2. For Inverses:
+> 	   As $1_{G}$ and $x$ are in $H$
+> 	   Then, 
+> 		   $1_{G}\cdot x^{-1} = x^{-1}$ 
+> 	   is in $H$
+> 3. For Products (binary operation):
+>    We know $y^{-1}$ is in $H$
+>    So, 
+> 	   $x\cdot (y^{-1})^{-1} = xy$
+> 	Is in $H$.
+> 	
+> Thus $H$ is subgroup of $G$
 
 
+---------------------------------------------------
 
+### Order of a Group:
+
+Let $G$ be a group. The car
