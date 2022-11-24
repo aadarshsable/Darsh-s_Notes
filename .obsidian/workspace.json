@@ -20,33 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0b25bd224c272afc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6d582add3d86e2bc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MATH101/Notes/Notes/Lecture06.pdf"
-              }
-            }
-          },
-          {
-            "id": "20a54138a715c7b8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MATH101/Notes/Notes/Lecture07.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -113,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture07.pdf",
+                "file": "MATH101/Group Theory/Lagrange's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture07.pdf",
+                "file": "MATH101/Group Theory/Lagrange's Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture07.pdf"
+                "file": "MATH101/Group Theory/Lagrange's Theorem.md"
               }
             }
           },
@@ -173,8 +145,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "20a54138a715c7b8",
+  "active": "5352acf6e4c19e73",
   "lastOpenFiles": [
+    "MATH101/Notes/Notes/Lecture07.pdf",
     "MATH101/Group Theory/Lagrange's Theorem.md",
     "MATH101/Group Theory/Sub-Groups.md",
     "MATH101/Group Theory/Isomorphism.md",
@@ -183,7 +156,6 @@
     "MATH101/Group Theory/Symmetry.md",
     "MATH101/Discussion/Tutorial-2-Q1.md",
     "MATH101/Group Theory/Groups.md",
-    "Extra/Profs.md",
-    "MATH101/Notes/Notes/Lecture04.pdf"
+    "Extra/Profs.md"
   ]
 }
