@@ -45,5 +45,19 @@ Then, $2 \leq ord(x) \leq 5$
   > The list should also contain $yx$ as theres $x$ and $y$
   > Thus now it becomes
   > Our List:  $1$  $x$  $x^{2}$
-  >                
+  >                $y$  $yx$
+  > 
+  > For $yx^{2}$
+  > $yx^{2}=x^{n} \rightarrow y=x^{n-2}$                ----contradiction
+  > $yx^{2}=y \implies x^{2}=1$                 ----contradiction
+  > $yx^{2}=y \implies x=1$                  ----contradiction
+  > So, $yx$ has to be a new element
+  > But $|G|=5$ thus its not possible and
+  > $ord(x) \neq 3$
+  
+- If $ord(x)=4$
+  > Our List:  $1$  $x$  $x^{2}$  $x^{3}$
+  >                 $y$  
+  > $yx=x^{n} \rightarrow y=x^{n-1}$               ----contradiction
+  > $yx=y \implies$
 
