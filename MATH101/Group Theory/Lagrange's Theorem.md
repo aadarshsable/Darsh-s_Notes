@@ -70,5 +70,14 @@ So There only exists one group of order $5$ (upto isomorphism)
 
 --------------------------------------
 
+### Generalizing/Proving the Theorem:
+
+Let $G$ be a group
+Let $x \in G$ such that $ord(x)=d$
+Our List: $1, x,x^{2}\dots x^{d-1}$
+being the distinct elements
+
+
+
 
 
