@@ -2,16 +2,16 @@ Let $d$ be the smallest +ve integer such that $x^{d}=1$.
 If there doesnt exists any such $d$ 
 Then, we say that $x$ has **infinite order**
 
-Order is denoted as:  $ord(x)$ or $|x|$
+[Order](<Sub-Groups#Order of a Group>) is denoted as:  $ord(x)$ or $|x|$
 
 ***Theorem***
-> Let $G$ be a finite group. Then , for any $x \in G$, 
+> Let $G$ be a [finite group.](<Sub-Groups#Order of a Group#Finite Groups>) Then , for any $x \in G$, 
 > $ord(x) \leq |G|$
 
 
 #### Langrange's Theorem:
 
-Let $G$ be a finite group.
+Let $G$ be a [finite group.](<Sub-Groups#Order of a Group#Finite Groups>)
 Then, for any $x \in G$ , $ord(x)$ divides $|G|$
 
 
