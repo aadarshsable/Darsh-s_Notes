@@ -8,6 +8,13 @@ Order is denoted as:  $ord(x)$ or $|x|$
 > Let $G$ be a finite group. Then , for any $x \in G$, 
 > $ord(x) \leq |G|$
 
+
+#### Langrange's Theorem:
+
+Let $G$ be a finite group.
+Then, for any $x \in G$ , $ord(x)$ divides $|G|$
+
+
 -----------------------------------
 
 ***Exercise***
@@ -81,12 +88,25 @@ If $<x> = G$ we have listed all elements of $G$
 But if theres a $y$ such that $y \in G$ , $y \notin <x>$
 Then, we could write another row 
 $y$  $yx$  $\dots$  $yx^{d-1}$
-	1. Are all elements in this row distinct
+	**1. Are all elements in this row distinct**
 	   If $yx^{i}=yx^{j}$ for $i<j\leq d-1$
 	   then $x^{i}=x^{j}$
 	   but we know $<x>$ has distinct elements
-	2. Is there some overlap with the first row
-	   
+	**2. Is there some overlap with the first row**
+	   No.
+	   if $x^{i}=yx^{j}$ 
+	      $y=x^{j-i}$
+	      But we already assumed $y \notin <x>$
+
+Thus we see that if $G \neq <x>$ , we can add a complete row of $y<x>$ under the first one
+We can also check for some $z \in G$ such that $z \notin <x>$ and $z \notin y<x>$
+
+This process will continue until we exhaust the group and will end if $|G|$ is finite.
+Then we see that $d$ divides $|G|$
+
+----------------------------------
+
+
 
 
 
