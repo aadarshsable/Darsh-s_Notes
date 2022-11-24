@@ -74,8 +74,20 @@ So There only exists one group of order $5$ (upto isomorphism)
 
 Let $G$ be a group
 Let $x \in G$ such that $ord(x)=d$
-Our List: $1, x,x^{2}\dots x^{d-1}$
+Our List: $1, x,x^{2}\dots x^{d-1}$      $:<x>$
 being the distinct elements
+
+If $<x> = G$ we have listed all elements of $G$
+But if theres a $y$ such that $y \in G$ , $y \notin <x>$
+Then, we could write another row 
+$y$  $yx$  $\dots$  $yx^{d-1}$
+	1. Are all elements in this row distinct
+	   If $yx^{i}=yx^{j}$ for $i<j\leq d-1$
+	   then $x^{i}=x^{j}$
+	   but we know $<x>$ has distinct elements
+	2. Is there some overlap with the first row
+	   
+
 
 
 
