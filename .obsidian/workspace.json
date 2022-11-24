@@ -6,7 +6,7 @@
       {
         "id": "b1af2ca0f5f6b494",
         "type": "tabs",
-        "dimension": 54.289544235924936,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "508ffed596ddd8ca",
@@ -17,25 +17,19 @@
                 "file": "MATH101/Notes/Tutorials/Tutorial03.pdf"
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "d854e864ad6828e4",
-        "type": "tabs",
-        "dimension": 45.71045576407507,
-        "children": [
+          },
           {
             "id": "5352acf6e4c19e73",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture01.pdf"
+                "file": "books/Kleppner - Mechanics.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -102,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture01.pdf",
+                "file": "books/Kleppner - Mechanics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture01.pdf",
+                "file": "books/Kleppner - Mechanics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture01.pdf"
+                "file": "books/Kleppner - Mechanics.pdf"
               }
             }
           },
@@ -162,10 +155,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5352acf6e4c19e73",
+  "active": "f3a32b05078690b7",
   "lastOpenFiles": [
-    "MATH101/Notes/Tutorials/Tutorial03.pdf",
     "MATH101/Notes/Notes/Lecture01.pdf",
+    "MATH101/Notes/Tutorials/Tutorial03.pdf",
     "MATH101/Notes/Notes/Lecture03.pdf",
     "MATH101/Notes/Notes/Lecture02.pdf",
     "MATH101/Group Theory/Groups.md",
