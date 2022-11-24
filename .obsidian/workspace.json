@@ -6,7 +6,6 @@
       {
         "id": "b1af2ca0f5f6b494",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "508ffed596ddd8ca",
@@ -17,19 +16,8 @@
                 "file": "MATH101/Notes/Tutorials/Tutorial03.pdf"
               }
             }
-          },
-          {
-            "id": "5352acf6e4c19e73",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "books/Kleppner - Mechanics.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "MATH101/Notes/Tutorials/Tutorial03.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "MATH101/Notes/Tutorials/Tutorial03.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf"
+                "file": "MATH101/Notes/Tutorials/Tutorial03.pdf"
               }
             }
           },
