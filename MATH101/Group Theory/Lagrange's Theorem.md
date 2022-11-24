@@ -30,6 +30,20 @@ Then, $2 \leq ord(x) \leq 5$
   >                        $z$
   >$z$ exists as $|G|=5$ 
   >
-  >$zx=1 \implies z=x^{-1}=x$
-  >$zx=x \implies $
+  >$zx=1 \implies z=x^{-1}=x$                ----contradiction
+  >$zx=x \implies z=1$                          ----contradiction
+  >$zx = y \implies z=yx^{-1}=yx$            ----contradiction
+  >$zx=yx \implies z=y$                        ----contradiction
+  >$zx=z \implies x=1$                         ----contradiction
+  >
+  >So $zx$ needs to be a new element but $|G|$
+  >Thus $ord(x)\neq 2$
+
+- If $ord(x)=3$
+  >Our List: $1$  $x$  $x^{2}$
+  >              $y$
+  > The list should also contain $yx$ as theres $x$ and $y$
+  > Thus now it becomes
+  > Our List:  $1$  $x$  $x^{2}$
+  >                
 
