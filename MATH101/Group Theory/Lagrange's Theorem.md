@@ -98,6 +98,7 @@ $y$  $yx$  $\dots$  $yx^{d-1}$
 	      $y=x^{j-i}$
 	      But we already assumed $y \notin <x>$
 
+##### An important Observation
 Thus we see that if $G \neq <x>$ , we can add a complete row of $y<x>$ under the first one
 We can also check for some $z \in G$ such that $z \notin <x>$ and $z \notin y<x>$
 
