@@ -11,11 +11,19 @@
             "id": "93ea5a7ff62377a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MATH101/Group Theory/Cosets.md",
-                "mode": "source",
-                "source": false
+                "file": "books/Kleppner - Mechanics.pdf"
+              }
+            }
+          },
+          {
+            "id": "eb893764120d6509",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MATH101/Notes/Notes/Lecture07.pdf"
               }
             }
           },
@@ -28,22 +36,6 @@
                 "file": "MATH101/Group Theory/Isomorphism.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "d58108ab06aa199d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eb893764120d6509",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MATH101/Notes/Notes/Lecture07.pdf"
               }
             }
           }
@@ -97,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -113,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH101/Group Theory/Cosets.md",
+                "file": "books/Kleppner - Mechanics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH101/Group Theory/Cosets.md",
+                "file": "books/Kleppner - Mechanics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH101/Group Theory/Cosets.md"
+                "file": "books/Kleppner - Mechanics.pdf"
               }
             }
           },
@@ -175,15 +168,15 @@
   },
   "active": "93ea5a7ff62377a5",
   "lastOpenFiles": [
-    "MATH101/Group Theory/Isomorphism.md",
+    "books/Campbell Biology Concepts Connections.pdf",
     "MATH101/Group Theory/Cosets.md",
+    "MATH101/Group Theory/Isomorphism.md",
     "MATH101/Group Theory/Lagrange's Theorem.md",
     "MATH101/Notes/Notes/Lecture07.pdf",
     "MATH101/Group Theory/Sub-Groups.md",
     "Order.md",
     "MATH101/Notes/Notes/Lecture06.pdf",
     "MATH101/Notes/Notes/Lecture05.pdf",
-    "MATH101/Notes/Tutorials/Tutorial03.pdf",
-    "MATH101/Notes/Notes/Lecture01.pdf"
+    "MATH101/Notes/Tutorials/Tutorial03.pdf"
   ]
 }

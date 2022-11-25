@@ -20,12 +20,14 @@ Thus the function
 $$
 \Phi : S \rightarrow yS 
 $$
-defined by $\Phi(s)=y$ for $s \in S$ is a $1-1$ function
+defined by $\Phi(s)=y$ for $s \in S$ is a one-one function
 
 Any element of $yS$ is of the form $ys$ for some $s \in S$ 
 So, $\Phi(s)=ys$
 
 Thus, the function $\Phi$ is a Bijective Function from $S$ to $yS$
+>This explains why the element $y, yx,\dots yx^{d-1}$ were all distinct
+
 
 
 
