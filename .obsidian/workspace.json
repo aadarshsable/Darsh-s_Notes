@@ -28,6 +28,16 @@
             }
           },
           {
+            "id": "458f77f8a4db7349",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PHY101/Papers & Stuff/MID-SEM Solution.pdf"
+              }
+            }
+          },
+          {
             "id": "eb893764120d6509",
             "type": "leaf",
             "state": {
@@ -100,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -179,6 +188,8 @@
   },
   "active": "03bc07b76549a8e9",
   "lastOpenFiles": [
+    "PHY101/Papers & Stuff/MID-SEM Solution.pdf",
+    "PHY101/Papers & Stuff/MidsemExam2022Locked.pdf",
     "books/Kleppner - Mechanics.pdf",
     "books/Campbell Biology Concepts Connections.pdf",
     "MATH101/Group Theory/Cosets.md",
@@ -186,8 +197,6 @@
     "MATH101/Group Theory/Lagrange's Theorem.md",
     "MATH101/Notes/Notes/Lecture07.pdf",
     "MATH101/Group Theory/Sub-Groups.md",
-    "Order.md",
-    "MATH101/Notes/Notes/Lecture06.pdf",
-    "MATH101/Notes/Notes/Lecture05.pdf"
+    "Order.md"
   ]
 }
