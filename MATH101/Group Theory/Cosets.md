@@ -31,6 +31,19 @@ Thus, the function $\Phi$ is a Bijective Function from $S$ to $yS$
 ------------------------------------
 ### Disjointness Arguments:
 
+Suppse $y,x$ are two elements of $G$. When can we say that 
+$$
+y<x> \cap \: z<x> \: = \phi
+$$
+Suppose its not true
+Then, $yx^{i}=zx^{j}$ for some $i$ and $j$. So $z=yx^{i-j}$
+But, $yx^{i-j} \in y<x> \implies z \in y<x>$
+
+Thus we can say that 
+```ad-note
+title: Conlusion
+If $z \notin y<x>$ , then the sets $y<x>$ and $z<x>$ are disjoints
+```
 
 
 
