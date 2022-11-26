@@ -8,22 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93ea5a7ff62377a5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "books/Kleppner - Mechanics.pdf"
-              }
-            }
-          },
-          {
             "id": "03bc07b76549a8e9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "PHY101/Papers & Stuff/MidsemExam2022Locked.pdf"
+                "file": "MATH101/Group Theory/Cosets.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -43,12 +35,12 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture07.pdf"
+                "file": "MATH101/Notes/Tutorials/Tutorial01.pdf"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -115,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHY101/Papers & Stuff/MidsemExam2022Locked.pdf",
+                "file": "MATH101/Notes/Tutorials/Tutorial01.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHY101/Papers & Stuff/MidsemExam2022Locked.pdf",
+                "file": "MATH101/Notes/Tutorials/Tutorial01.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHY101/Papers & Stuff/MidsemExam2022Locked.pdf"
+                "file": "MATH101/Notes/Tutorials/Tutorial01.pdf"
               }
             }
           },
@@ -175,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03bc07b76549a8e9",
+  "active": "eb893764120d6509",
   "lastOpenFiles": [
-    "MATH101/Group Theory/Isomorphism.md",
-    "PHY101/Papers & Stuff/MidsemExam2022Locked.pdf",
-    "PHY101/Papers & Stuff/MID-SEM Solution.pdf",
-    "books/Kleppner - Mechanics.pdf",
-    "books/Campbell Biology Concepts Connections.pdf",
-    "MATH101/Group Theory/Cosets.md",
-    "MATH101/Group Theory/Lagrange's Theorem.md",
+    "MATH101/Notes/Tutorials/Tutorial03.pdf",
     "MATH101/Notes/Notes/Lecture07.pdf",
-    "MATH101/Group Theory/Sub-Groups.md",
-    "Order.md"
+    "MATH101/Group Theory/Cosets.md",
+    "books/Kleppner - Mechanics.pdf",
+    "MATH101/Notes/Notes/Lecture08.pdf",
+    "MATH101/Group Theory/Lagrange's Theorem.md",
+    "PHY101/Papers & Stuff/MidsemExam2022Locked.pdf",
+    "MATH101/Group Theory/Isomorphism.md",
+    "PHY101/Papers & Stuff/MID-SEM Solution.pdf",
+    "books/Campbell Biology Concepts Connections.pdf"
   ]
 }
