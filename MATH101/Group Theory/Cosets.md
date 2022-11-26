@@ -45,5 +45,14 @@ title: Conlusion
 If $z \notin y<x>$ , then the sets $y<x>$ and $z<x>$ are disjoints
 ```
 
+Taking elements of  $z<x>$
+	$zx^{i} = yx^{r}\cdot x^{i} = yx^{r+i} \in y<x>$
+	So, $z<x> \subseteq y<x>$
+Taking elements of $y<x>$
+	$yx^{i}=zx^{-r}\cdot x^{i} = zx^{i-r} \in z<x>$
+	So, $y<x> \subseteq z<x>$
+Hence
+	$y<x> = z<x>$
+
 
 
