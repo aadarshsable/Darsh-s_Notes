@@ -46,18 +46,6 @@
                 "file": "MATH101/Notes/Notes/Lecture07.pdf"
               }
             }
-          },
-          {
-            "id": "97222c314165ad88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH101/Group Theory/Isomorphism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -110,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -188,12 +177,12 @@
   },
   "active": "03bc07b76549a8e9",
   "lastOpenFiles": [
-    "PHY101/Papers & Stuff/MID-SEM Solution.pdf",
+    "MATH101/Group Theory/Isomorphism.md",
     "PHY101/Papers & Stuff/MidsemExam2022Locked.pdf",
+    "PHY101/Papers & Stuff/MID-SEM Solution.pdf",
     "books/Kleppner - Mechanics.pdf",
     "books/Campbell Biology Concepts Connections.pdf",
     "MATH101/Group Theory/Cosets.md",
-    "MATH101/Group Theory/Isomorphism.md",
     "MATH101/Group Theory/Lagrange's Theorem.md",
     "MATH101/Notes/Notes/Lecture07.pdf",
     "MATH101/Group Theory/Sub-Groups.md",
