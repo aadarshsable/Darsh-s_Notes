@@ -56,9 +56,12 @@ Hence
 
 Thus we have proved that 
 ```ad-note
-For any two elements $y$, $z$ in $G$ we have either
-$y<x> \subseteq \: z<x> \: = \phi$
-OR
-$y<x> = z<x>$
+title: Conclusion
+collapse: open
+color: 255, 92, 51
+For any two elements $y$, $z$ in $G$ we have either  
+$y<x> \subseteq \: z<x> \: = \phi$  
+OR  
+$y<x> = z<x>$  
 ```
 
