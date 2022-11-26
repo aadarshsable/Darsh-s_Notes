@@ -82,7 +82,7 @@ For Ex,
 #### Some Important Properties:
 
 - Let $A$ be any set with a *distance function*
-  Then, the set of [Isometries](Symmetry#Isometries) of $A$ is a Group
+  Then, the set of [Isometries](Symmetry.md#Isometries) of $A$ is a Group
 
 - The set of Isometries of a regular n-Gon is called the **Dihedral Group $(D_{n})$ of order $2n$ **
 

@@ -18,19 +18,24 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9c2e48e4c85cc3ba",
+        "type": "tabs",
+        "children": [
           {
-            "id": "458f77f8a4db7349",
+            "id": "240ed27a831c81fa",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "PHY101/Papers & Stuff/MID-SEM Solution.pdf"
+                "file": "MATH101/Notes/Notes/Lecture07.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -49,7 +54,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -80,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -96,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH101/Notes/Tutorials/Tutorial01.pdf",
+                "file": "MATH101/Group Theory/Cosets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH101/Notes/Tutorials/Tutorial01.pdf",
+                "file": "MATH101/Group Theory/Cosets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH101/Notes/Tutorials/Tutorial01.pdf"
+                "file": "MATH101/Group Theory/Cosets.md"
               }
             }
           },
@@ -156,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3a32b05078690b7",
+  "active": "03bc07b76549a8e9",
   "lastOpenFiles": [
-    "MATH101/Notes/Tutorials/Tutorial03.pdf",
     "MATH101/Notes/Notes/Lecture07.pdf",
     "MATH101/Group Theory/Cosets.md",
-    "books/Kleppner - Mechanics.pdf",
-    "MATH101/Notes/Notes/Lecture08.pdf",
+    "MATH101/Group Theory/Symmetry.md",
     "MATH101/Group Theory/Lagrange's Theorem.md",
-    "PHY101/Papers & Stuff/MidsemExam2022Locked.pdf",
-    "MATH101/Group Theory/Isomorphism.md",
-    "PHY101/Papers & Stuff/MID-SEM Solution.pdf",
-    "books/Campbell Biology Concepts Connections.pdf"
+    "MATH101/Group Theory/Sub-Groups.md",
+    "MATH101/Group Theory/Groups.md",
+    "MATH101/Notes/Tutorials/Tutorial01.pdf",
+    "MATH101/Notes/Tutorials/Tutorial03.pdf",
+    "books/Kleppner - Mechanics.pdf",
+    "MATH101/Notes/Notes/Lecture08.pdf"
   ]
 }
