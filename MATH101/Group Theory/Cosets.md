@@ -59,9 +59,20 @@ Thus we have proved that
 title: Conclusion
 collapse: open
 color: 255, 92, 51
-For any two elements $y$, $z$ in $G$ we have either  
-$y<x> \subseteq \: z<x> \: = \phi$  
-OR  
-$y<x> = z<x>$  
+For any two elements $y$, $z$ in $G$ we have either 
+$$
+\begin{align}
+y<x> \subseteq &\: z<x> \: = \phi\\ 
+&OR\\
+y<x> &= z<x>\\
+\end{align}
+$$
 ```
+
+***Note***
+> The properties of $<x>$ we used here
+> 1. A product of two powers of $x$ is a power of $x$
+> 2. The inverse of a power of $x$ is a power of $x$
+
+
 
