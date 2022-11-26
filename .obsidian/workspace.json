@@ -28,19 +28,9 @@
                 "file": "PHY101/Papers & Stuff/MID-SEM Solution.pdf"
               }
             }
-          },
-          {
-            "id": "eb893764120d6509",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MATH101/Notes/Tutorials/Tutorial01.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +156,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb893764120d6509",
+  "active": "f3a32b05078690b7",
   "lastOpenFiles": [
     "MATH101/Notes/Tutorials/Tutorial03.pdf",
     "MATH101/Notes/Notes/Lecture07.pdf",
