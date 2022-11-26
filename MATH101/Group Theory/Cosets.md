@@ -54,5 +54,11 @@ Taking elements of $y<x>$
 Hence
 	$y<x> = z<x>$
 
-
+Thus we have proved that 
+```ad-note
+For any two elements $y$, $z$ in $G$ we have either
+$y<x> \subseteq \: z<x> \: = \phi$
+OR
+$y<x> = z<x>$
+```
 
