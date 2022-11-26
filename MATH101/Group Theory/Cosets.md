@@ -22,5 +22,3 @@ is called a **Right Coset** of $H$
 >So,
 >	$g_{1}H \subseteq g_{2}H$
 >
->
->
