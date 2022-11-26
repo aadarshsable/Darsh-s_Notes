@@ -28,6 +28,9 @@ So, $\Phi(s)=ys$
 Thus, the function $\Phi$ is a Bijective Function from $S$ to $yS$
 >This explains why the element $y, yx,\dots yx^{d-1}$ were all distinct
 
+------------------------------------
+### Disjointness Arguments:
+
 
 
 
