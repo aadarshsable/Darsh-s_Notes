@@ -34,6 +34,16 @@
                 "file": "MATH101/Notes/Notes/Lecture07.pdf"
               }
             }
+          },
+          {
+            "id": "d3675e0c1b18e540",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MATH101/Notes/Notes/Lecture08.pdf"
+              }
+            }
           }
         ]
       }
@@ -85,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -164,15 +173,15 @@
   },
   "active": "03bc07b76549a8e9",
   "lastOpenFiles": [
-    "MATH101/Group Theory/Lagrange's Theorem.md",
-    "MATH101/Group Theory/Cosets.md",
     "MATH101/Notes/Notes/Lecture07.pdf",
+    "MATH101/Notes/Notes/Lecture08.pdf",
+    "MATH101/Group Theory/Cosets.md",
+    "MATH101/Group Theory/Lagrange's Theorem.md",
     "MATH101/Group Theory/Symmetry.md",
     "MATH101/Group Theory/Sub-Groups.md",
     "MATH101/Group Theory/Groups.md",
     "MATH101/Notes/Tutorials/Tutorial01.pdf",
     "MATH101/Notes/Tutorials/Tutorial03.pdf",
-    "books/Kleppner - Mechanics.pdf",
-    "MATH101/Notes/Notes/Lecture08.pdf"
+    "books/Kleppner - Mechanics.pdf"
   ]
 }

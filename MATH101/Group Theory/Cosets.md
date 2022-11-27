@@ -60,4 +60,11 @@ for any $g \in G$
 >	$|G| = |G/H| \cdot |H|$
 > So, $|H|$ divides $|G|$
 
+-------------------------
 
+### Corallary
+
+Let $G$ be a finite group. Then, for any $x \in G$ , $ord(x)$ divides $|G|$
+
+***Proof***
+>
