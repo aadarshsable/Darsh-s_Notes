@@ -1,10 +1,12 @@
 Let $H$ be a a subgroup of $G$. If $g$ is any element of $G$, the set
 $gH = \{ \:gh  \: | \: h \in H \: \}$
-is called a **Left Coset** of $H$ or $G/H$
+is called a **Left Coset** of $H$
+The set of all the Left cosets is denoted by $G/H$
 
 Similarly, the set 
 $Hg = \{\: hg \: | \: h \in H \: \}$
-is called a **Right Coset** of $H$ or $H/G$
+is called a **Right Coset** of $H$ 
+The set of all Right cosets is denoted by $H/G$
 
 ***Theorem***
 > Given Left Cosets $g_{1}H$ and $g_{2}H$ of H,
