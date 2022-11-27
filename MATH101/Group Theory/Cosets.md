@@ -62,9 +62,13 @@ for any $g \in G$
 
 -------------------------
 
-### Corallary
+### Visualizing Cosets
 
-Let $G$ be a finite group. Then, for any $x \in G$ , $ord(x)$ divides $|G|$
+Let $G=D_{6}$
+The elements are
+$$\begin{align}
+1 \: \rho \: \rho ^{2} \: \rho ^{3}& \: \rho ^{4} \rho ^{5}  \\
+\tau \:\:\rho \tau \:\: \rho ^{2}\tau \:\: \rho ^{3}\tau & \:\: \rho ^{4}\tau \:\:\rho ^{5}\tau
+\end{align}
 
-***Proof***
->
+$$
