@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CHEM101/Notes/chm101_4th class.pdf",
+                "file": "MATH101/Group Theory/Lagrange's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CHEM101/Notes/chm101_4th class.pdf",
+                "file": "MATH101/Group Theory/Lagrange's Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CHEM101/Notes/chm101_4th class.pdf"
+                "file": "MATH101/Group Theory/Lagrange's Theorem.md"
               }
             }
           },
@@ -155,8 +156,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03bc07b76549a8e9",
+  "active": "7c1af182393491e3",
   "lastOpenFiles": [
+    "MATH101/Notes/Notes/Lecture09.pdf",
+    "CHEM101/Notes/chm101_4th class.pdf",
     "CHEM101/Notes/chm101_3rd class.pdf",
     "CHEM101/Notes/chm101_2nd and 3rd class.pdf",
     "MATH101/Group Theory/Cosets.md",
@@ -164,8 +167,6 @@
     "MATH101/Group Theory/Lagrange's Theorem.md",
     "MATH101/Notes/Notes/Lecture07.pdf",
     "MATH101/Group Theory/Symmetry.md",
-    "MATH101/Group Theory/Sub-Groups.md",
-    "MATH101/Group Theory/Groups.md",
-    "MATH101/Notes/Tutorials/Tutorial01.pdf"
+    "MATH101/Group Theory/Sub-Groups.md"
   ]
 }
