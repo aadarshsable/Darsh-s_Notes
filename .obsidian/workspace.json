@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -184,7 +185,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03bc07b76549a8e9",
+  "active": "f3a32b05078690b7",
   "lastOpenFiles": [
     "MATH101/Notes/Notes/Lecture08.pdf",
     "MATH101/Group Theory/Cosets.md",
