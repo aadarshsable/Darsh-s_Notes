@@ -72,3 +72,20 @@ $$\begin{align}
 \end{align}
 
 $$
+We also have
+$\rho ^{6}=1$ , $\tau ^{2}=1$ , $\rho \tau = \tau \rho ^{-1}$
+
+Left Cosets of $H=\{1, \tau \}$
+
+![[Pasted image 20221127145434.png]]
+
+Right cosets of $H=\{1 , \tau \}$
+
+![[Pasted image 20221127145534.png]]
+
+***NOTE***
+> 1. Both left and right cosets five partitions of the group.
+> 2. Right cosets of a group may be bery different from the left cosets
+
+
+-----------------------------
