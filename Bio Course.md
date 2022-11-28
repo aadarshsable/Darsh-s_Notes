@@ -7,10 +7,10 @@ Overview: Inquiring About the World of Life
  - [ ] Emergent properties
  - [ ] The power an limitations of reductionism
  - [ ] Systems Biology
- - [ ] Theme: Organisms interect with their environments, exchanging matter and energy
+ - [ ] Theme: Organisms interect with their environments, exchanging matter and energy (**1.13**)
  - [ ] Ecosystem Dynamics
  - [ ] Energy Conversion
- - [ ] Theme: Structure and function are correlated at all levels of biological organization
+ - [ ] Theme: Structure and function are correlated at all levels of biological organization (**1.12**)
  - [ ] Theme: Cells are an organisms basic unit of structure and function
  - [ ] Theme: The continuity of life is based on heritable information in the form of DNA
  - [ ] DNA Structure and Function
@@ -25,7 +25,7 @@ Overview: Inquiring About the World of Life
 - [ ] Charles Darwin and Theory of Natural Selection
 - [ ] The Tree of Life
 
-#### 1.3 Scientists use two main forms of inquiry in their study of nature
+#### 1.3 Scientists use two main forms of inquiry in their study of nature (**1.9**)
 - [ ] Discovery of Science
 - [ ] Types of Data
 - [ ] Induction in Discovery Science
@@ -41,5 +41,7 @@ Overview: Inquiring About the World of Life
 - [ ] Theories in Science
 - [ ] Model Building in Science
 - [ ] The Culture of Science
-- [ ] Science, Technology and Society
+- [ ] Science, Technology and Society **1.8**
+
+--------------------------------------
 
