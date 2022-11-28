@@ -38,4 +38,5 @@ $Q.$ In some studies, researchers try to match the sex, age, and general health 
 
 ![[Process of Science.png]]
 
-$Q.$ How do science and technology int
+$Q.$ How do science and technology interact?
+> New Scientific discovery may lead to new technologies : new techonoogies may increase the ability of scientists to discover new knowledge
