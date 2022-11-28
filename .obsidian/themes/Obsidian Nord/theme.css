@@ -57,6 +57,8 @@
     --red1: rgb(var(--red_x));
     --purple3_x: 184, 85, 250;
     --purple3: rbg(var(--purple3_x));
+    --someblue_x: 111, 252, 201;
+    --someblue: rgb(var(--someblue_x));
 
 }
 
@@ -118,7 +120,7 @@ body
     --text-muted:                    var(--light1);
 
     --h1-color:                      var(--red1);
-    --h2-color:                      var(--lyellow);
+    --h2-color:                      var(--someblue);
     --h3-color:                      var(--purple1);
     --h4-color:                      var(--cyan2);
     --h5-color:                      var(--cyan3);
