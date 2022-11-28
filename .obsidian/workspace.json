@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rough.md",
+                "file": "Bio Course.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rough.md",
+                "file": "books/Campbell Biology Concepts Connections.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rough.md",
+                "file": "books/Campbell Biology Concepts Connections.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rough.md"
+                "file": "books/Campbell Biology Concepts Connections.pdf"
               }
             }
           },
@@ -194,10 +193,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "824406c3aad7ca35",
+  "active": "7c1af182393491e3",
   "lastOpenFiles": [
+    "Bio Course.md",
     "BIO101/Cell Biology/Process of Science.md",
-    "Rough.md",
     "BIO101/Notes/Bio101-Topic 1-.pdf",
     "books/Campbell Biology Concepts Connections.pdf",
     "CHEM101/Notes/chm101_4th class.pdf",
