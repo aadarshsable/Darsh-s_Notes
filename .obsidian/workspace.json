@@ -177,16 +177,24 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "824406c3aad7ca35",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "9f47f09cfa6c57b2",
+  "active": "824406c3aad7ca35",
   "lastOpenFiles": [
     "BIO101/Cell Biology/Process of Science.md",
     "Rough.md",
