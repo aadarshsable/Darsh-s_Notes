@@ -7,7 +7,7 @@ Overview: Inquiring About the World of Life
  - [ ] Emergent properties
  - [ ] The power an limitations of reductionism
  - [ ] Systems Biology
- - [ ] Theme: Organisms interect with their environments, exchanging matter and energy (**1.13**)
+ - [ ] Theme: Organisms interect with their environments, exchanging matter and energy (**1.13+1.14**)
  - [ ] Ecosystem Dynamics
  - [ ] Energy Conversion
  - [ ] Theme: Structure and function are correlated at all levels of biological organization (**1.12**)

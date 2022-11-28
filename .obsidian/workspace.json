@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bio Course.md",
+                "file": "BIO101/Cell Biology/Process of Science.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bio Course.md",
+                "file": "BIO101/Cell Biology/Process of Science.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bio Course.md",
+                "file": "BIO101/Cell Biology/Process of Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bio Course.md"
+                "file": "BIO101/Cell Biology/Process of Science.md"
               }
             }
           },
@@ -195,8 +195,8 @@
   },
   "active": "9f47f09cfa6c57b2",
   "lastOpenFiles": [
-    "books/Campbell Biology Concepts Connections.pdf",
     "Bio Course.md",
+    "books/Campbell Biology Concepts Connections.pdf",
     "BIO101/Cell Biology/Process of Science.md",
     "BIO101/Notes/Bio101-Topic 1-.pdf",
     "CHEM101/Notes/chm101_4th class.pdf",
