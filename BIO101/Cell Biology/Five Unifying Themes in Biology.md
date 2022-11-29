@@ -78,5 +78,22 @@ There the sequence of Nucleotides in the RNA is **Translated** into a chain of P
 The chain forms a specific protein with a unique shape and function
 This Process is called ***GENE EXPRESSION***
 
+All forms of life use essentially the same chemical language to translate the information stored in DNA into Proties called the **Genetic Code**.
+
+----------------------------------
+
+### Signaling Information
+
+The flow of genetic Information from DNA to RNA to Protien is liked with information from the external and internal environment.
+(For example - Stimulus)
+
+```ad-note
+title: Note
+All Body cells have the same genetic information, but the gene for some specific function (Ex Insulin in Pancreas) is only "expressed" in those specific areas/organs.
+```
+
+Information Signaling in Pancreas in case of sugar intake
+- After a meal, the level of glucose in blood rises $\rightarrow$
+- This internal signal stimulates cells in your pancreas to secrete insulin 
 
 
