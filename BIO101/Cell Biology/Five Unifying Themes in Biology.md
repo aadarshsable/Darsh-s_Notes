@@ -39,3 +39,16 @@ $Q.$ Explain the cause and effect of unequal repoductive success.
 
 ## Evolution is connected to our everday lives:
 
+But humans also affect evolution **unintentionally**. The impact of habitat loss and climate change can be seen in the loss of species.
+It is estimated that the current rate of extinction is 100-1000 times the rate seen in fossil record
+
+For Example,
+Our widespread use of anti-biotics and pesticides has led to the evolution of antibiotics resistance in bacteria and pesticide restistance in insects.
+
+$Q.$ Explain how humans are agents of both artificial selection and natural selection
+> We use artificial selection when choosing species traits or genes in organisms that we breed. Our intentional and unintentional manipulations change the environment and thus affect natural selection.
+
+----------------------------------
+
+## Theme: Life depends on the flow of information
+
