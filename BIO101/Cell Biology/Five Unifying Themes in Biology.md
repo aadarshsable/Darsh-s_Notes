@@ -1,7 +1,7 @@
 
 ## Evolution is the Core Theme of Biology
 
-### Darwins Theory of Evolution
+### Darwins Theory of Evolution:
 
 Darwin published *On the Origin of Species by Means of Natural Selction.* in November 1859
 
@@ -18,5 +18,15 @@ He also proposed a Mechanism for evolution which he called ***Natural Selection*
 
 1. ***Individual Variation***: Individuals in a population vary in their traits, many of which seem to be heritable
 	   **Inference:** 
-	   ***Unequal Reproductive Success:*** Indivuduals with
+	   ***Unequal Reproductive Success:*** Indivuduals with inherited traits best suited to the local environment are more likely to survive and reproduce than are less well-suited individuals
+ 
+ 2. ***Overproduction of offspring:*** All species can produce far more offspring than the environment can support. Competition for resources is thus inevitable, and many of these offspring fail to survive and reproduce
+	   **Inference:**
+	   ***Accumulation of favourable traits over time:*** As a result of this unequal reproductive success over many generations, a higher and higher proportion of individuals in the population will have the advantageous traits.
+
+>He proposed that new species could evolve as a result of the gradual accumlation of changes ove rlong periods of time.
+
+--------------------------------------
+
+### The Tree of Life:
 
