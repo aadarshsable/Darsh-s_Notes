@@ -30,3 +30,12 @@ He also proposed a Mechanism for evolution which he called ***Natural Selection*
 
 ### The Tree of Life:
 
+---Not Important?---
+
+$Q.$ Explain the cause and effect of unequal repoductive success.
+> Those individuals with heritable traits best suited to the local environment produce the greatest number of offspring. Over many generations, the proportion of these adaptive traits increase in the population
+
+-------------------------------------
+
+## Evolution is connected to our everday lives:
+
