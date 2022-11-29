@@ -55,32 +55,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "9dc4630b2ee2138c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7c1af182393491e3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "books/Campbell Biology Concepts Connections.pdf"
-              }
-            }
-          },
-          {
-            "id": "341e178d389ce8e7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "BIO101/Notes/Bio101-Topic 1-.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
