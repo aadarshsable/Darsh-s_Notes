@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
+                "file": "BIO101/Sub-Topics/Lifes Heirarchy.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
+                "file": "BIO101/Sub-Topics/Lifes Heirarchy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
+                "file": "BIO101/Sub-Topics/Lifes Heirarchy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md"
+                "file": "BIO101/Sub-Topics/Lifes Heirarchy.md"
               }
             }
           },
@@ -183,9 +182,9 @@
   },
   "active": "937558873aec0716",
   "lastOpenFiles": [
+    "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
     "BIO101/Cell Biology/Process of Science.md",
     "BIO101/Bio Course.md",
-    "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
     "Annotations.md",
     "books/Campbell Biology Concepts Connections.pdf",
     "MATH101/Group Theory/Cosets.md",
