@@ -69,4 +69,14 @@ DNA provides all the instructions for the cell function and it also carries the 
 Specific sequences of these four chemical letters encode precise information in units of inheritance called ***Genes***
 Genes provide the blueprint for making ***Protiens***
 
+Making a Protien Involves Sequincial Flow of Information
+
+![[Pasted image 20221130034455.png]]
+
+A gene's Information is **Transcribed** from DNA to RNA which carries it to the protien-manufacturing machinery in the cell.
+There the sequence of Nucleotides in the RNA is **Translated** into a chain of Protien building blocks
+The chain forms a specific protein with a unique shape and function
+This Process is called ***GENE EXPRESSION***
+
+
 
