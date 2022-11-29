@@ -18,43 +18,24 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "6f8ccc1d4fbf30ee",
+        "type": "tabs",
+        "children": [
           {
-            "id": "78f13a4a40ac5249",
+            "id": "5c0bf3c83428dde5",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "pdf",
               "state": {
-                "file": "MATH101/Notes/Notes/Annotations.md"
-              }
-            }
-          },
-          {
-            "id": "49fe6430f86717f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH101/Group Theory/Cosets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "760f07427c20d6ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH101/Notes/Notes/DOUBTS.md",
-                "mode": "source",
-                "source": false
+                "file": "books/Campbell Biology Concepts Connections.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH101/Group Theory/Cosets.md",
+                "file": "books/Campbell Biology Concepts Connections.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH101/Group Theory/Cosets.md",
+                "file": "books/Campbell Biology Concepts Connections.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH101/Group Theory/Cosets.md"
+                "file": "books/Campbell Biology Concepts Connections.pdf"
               }
             }
           },
@@ -188,17 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49fe6430f86717f4",
+  "active": "5c0bf3c83428dde5",
   "lastOpenFiles": [
+    "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
+    "MATH101/Group Theory/Cosets.md",
+    "MATH101/Notes/Notes/Lecture08.pdf",
     "MATH101/Notes/Notes/Annotations.md",
     "MATH101/Notes/Notes/DOUBTS.md",
-    "MATH101/Notes/Notes/Lecture08.pdf",
-    "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
     "BIO101/Cell Biology/Process of Science.md",
     "Bio Course.md",
     "books/Campbell Biology Concepts Connections.pdf",
     "BIO101/Notes/Bio101-Topic 1-.pdf",
-    "CHEM101/Notes/chm101_4th class.pdf",
-    "BIO101/Sub-Topics/Lifes Heirarchy.md"
+    "CHEM101/Notes/chm101_4th class.pdf"
   ]
 }
