@@ -48,6 +48,10 @@ Our widespread use of anti-biotics and pesticides has led to the evolution of an
 $Q.$ Explain how humans are agents of both artificial selection and natural selection
 > We use artificial selection when choosing species traits or genes in organisms that we breed. Our **intentional** and **unintentional**manipulations change the environment and thus affect natural selection.
 
+**Polygentic Tree**
+
+![[Drawing 2022-11-30 03.38.33.excalidraw.png]]
+
 ----------------------------------
 
 ## Theme: Life depends on the flow of information
@@ -63,6 +67,6 @@ DNA provides all the instructions for the cell function and it also carries the 
    A $\rightarrow$ T   &   C $\rightarrow$ G
 
 Specific sequences of these four chemical letters encode precise information in units of inheritance called ***Genes***
-Genes provide the blueprint for making 
+Genes provide the blueprint for making ***Protiens***
 
 

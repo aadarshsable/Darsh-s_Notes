@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO101/Sub-Topics/Lifes Heirarchy.md",
+                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,19 +34,8 @@
                 "file": "books/Campbell Biology Concepts Connections.pdf"
               }
             }
-          },
-          {
-            "id": "d171407e24894ad0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "Annotations.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -112,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO101/Sub-Topics/Lifes Heirarchy.md",
+                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO101/Sub-Topics/Lifes Heirarchy.md",
+                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO101/Sub-Topics/Lifes Heirarchy.md"
+                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md"
               }
             }
           },
@@ -182,15 +172,15 @@
   },
   "active": "937558873aec0716",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-11-30 03.38.33.excalidraw.png",
+    "Pasted Image 20221130033841_399.png",
+    "Excalidraw/Drawing 2022-11-30 03.38.33.excalidraw.md",
+    "Annotations.md",
     "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
+    "BIO101/Sub-Topics/Lifes Heirarchy.md",
     "BIO101/Cell Biology/Process of Science.md",
     "BIO101/Bio Course.md",
-    "Annotations.md",
     "books/Campbell Biology Concepts Connections.pdf",
-    "MATH101/Group Theory/Cosets.md",
-    "MATH101/Notes/Notes/Lecture08.pdf",
-    "MATH101/Notes/Notes/Annotations.md",
-    "MATH101/Notes/Notes/DOUBTS.md",
-    "BIO101/Notes/Bio101-Topic 1-.pdf"
+    "MATH101/Group Theory/Cosets.md"
   ]
 }
