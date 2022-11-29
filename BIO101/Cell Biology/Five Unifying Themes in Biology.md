@@ -109,5 +109,21 @@ $Q.$ How is signaling Information involved in the expression of genetic informat
 At the molecular level, the structure of a protein correlates with its function, whether it is part of the strong ligaments holding your bones together or the hemoglobin molecules transporting oxygen in your blood.
 
 ***Example-2***
+On the cellular level, the long extensions of nerve cells enable them to transmit impulses from your spinal cord to your toes.
+
+***Example-3***
+The long, thin cells of fungi enable them to extend through their food source and absorb nutrients.
+
+***Example-4***
+The thick walls surrounding plant cells provide structural support to the plant leaf, just as the tough exoskeleton of the beetle supports its body.
+
+***Example-5***
+A Red Panda has a small bone protruding from its wrist caled the **Radial Sesamoi** (or the "false thumb").
+It helps them to grasp bamboo. This evoled in the red panda's carnivorous ancestor as an adaptation that enabled it to move along branches in trees.
+Secondarily, it enabled the plant-eating Red Panda to hold onto bamboo.
+
+
+
+
 
 
