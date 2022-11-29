@@ -46,9 +46,18 @@ For Example,
 Our widespread use of anti-biotics and pesticides has led to the evolution of antibiotics resistance in bacteria and pesticide restistance in insects.
 
 $Q.$ Explain how humans are agents of both artificial selection and natural selection
-> We use artificial selection when choosing species traits or genes in organisms that we breed. Our intentional and unintentional manipulations change the environment and thus affect natural selection.
+> We use artificial selection when choosing species traits or genes in organisms that we breed. Our **intentional** and **unintentional**manipulations change the environment and thus affect natural selection.
 
 ----------------------------------
 
 ## Theme: Life depends on the flow of information
+
+### Genetic Information
+
+DNA provides all the instructions for the cell function and it also carries the heritable information that is to be passed from one generation to the other.
+
+#### The Struction of DNA
+- Double Helix
+- The Strands are made up of Four kinds of Nucleotide Bonds
+- 
 
