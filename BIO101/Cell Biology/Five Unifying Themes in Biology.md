@@ -8,7 +8,7 @@ Darwin published *On the Origin of Species by Means of Natural Selction.* in Nov
 He collected documented plants animnals and fossil data from the isolated Galápagos Islands to the heights of the Anded Mountains to the Rain Forest in Brazel
 
 Darwin's first two points in his work were:
-##### First p
+##### F
 The species living today arose from a succession of ancestors that we 
 different from them.
 Which he called **Descent with Modification** (modification that evoled as species diverged from their ancestors)
