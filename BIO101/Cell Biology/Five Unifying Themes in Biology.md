@@ -58,6 +58,11 @@ DNA provides all the instructions for the cell function and it also carries the 
 
 #### The Struction of DNA
 - Double Helix
-- The Strands are made up of Four kinds of Nucleotide Bonds
-- 
+- The Strands are made up of Four kinds of Nucleotide Bonds (A,T,C,G)
+- The Nucleotides have fixed pairing 
+   A $\rightarrow$ T   &   C $\rightarrow$ G
+
+Specific sequences of these four chemical letters encode precise information in units of inheritance called ***Genes***
+Genes provide the blueprint for making 
+
 
