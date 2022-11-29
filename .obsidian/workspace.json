@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78f13a4a40ac5249",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MATH101/Notes/Notes/Lecture08.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "9dc4630b2ee2138c",
@@ -120,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -137,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
+                "file": "MATH101/Notes/Notes/Lecture08.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
+                "file": "MATH101/Notes/Notes/Lecture08.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md"
+                "file": "MATH101/Notes/Notes/Lecture08.pdf"
               }
             }
           },
@@ -205,8 +214,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "937558873aec0716",
+  "active": "78f13a4a40ac5249",
   "lastOpenFiles": [
+    "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
     "BIO101/Cell Biology/Process of Science.md",
     "Bio Course.md",
     "books/Campbell Biology Concepts Connections.pdf",
@@ -215,7 +225,6 @@
     "BIO101/Sub-Topics/Lifes Heirarchy.md",
     "MATH101/Group Theory/Lagrange's Theorem.md",
     "MATH101/Notes/Notes/Lecture09.pdf",
-    "CHEM101/Notes/chm101_3rd class.pdf",
-    "CHEM101/Notes/chm101_2nd and 3rd class.pdf"
+    "CHEM101/Notes/chm101_3rd class.pdf"
   ]
 }
