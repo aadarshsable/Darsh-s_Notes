@@ -94,6 +94,20 @@ All Body cells have the same genetic information, but the gene for some specific
 
 Information Signaling in Pancreas in case of sugar intake
 - After a meal, the level of glucose in blood rises $\rightarrow$
-- This internal signal stimulates cells in your pancreas to secrete insulin 
+- This internal signal stimulates cells in your pancreas to secrete insulin which travels through blood $\rightarrow$ 
+- Insulin binds to receptors on body cell causing them to take up glucose $\rightarrow$
+- The lowered glucose level removes the signal and insulin secretion decreases
+
+$Q.$ How is signaling Information involved in the expression of genetic information?
+> Information from the internal and external environment affect gene expression, where and when particular genes are activated and proteins made
+
+------------------------------------
+
+## Theme: Structure and Function are Related
+
+***Example-1***
+At the molecular level, the structure of a protein correlates with its function, whether it is part of the strong ligaments holding your bones together or the hemoglobin molecules transporting oxygen in your blood.
+
+***Example-2***
 
 
