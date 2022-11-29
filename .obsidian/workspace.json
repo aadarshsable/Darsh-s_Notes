@@ -52,9 +52,21 @@
                 "file": "MATH101/Notes/Notes/Lecture08.pdf"
               }
             }
+          },
+          {
+            "id": "e055bcb0deafaa55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH101/Notes/Notes/Annotations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -120,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture08.pdf",
+                "file": "MATH101/Notes/Notes/Annotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture08.pdf",
+                "file": "MATH101/Notes/Notes/Annotations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture08.pdf"
+                "file": "MATH101/Notes/Notes/Annotations.md"
               }
             }
           },
@@ -188,8 +200,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "78f13a4a40ac5249",
+  "active": "e055bcb0deafaa55",
   "lastOpenFiles": [
+    "MATH101/Notes/Notes/Lecture08.pdf",
+    "MATH101/Notes/Notes/Annotations.md",
     "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
     "BIO101/Cell Biology/Process of Science.md",
     "Bio Course.md",
@@ -197,8 +211,6 @@
     "BIO101/Notes/Bio101-Topic 1-.pdf",
     "CHEM101/Notes/chm101_4th class.pdf",
     "BIO101/Sub-Topics/Lifes Heirarchy.md",
-    "MATH101/Group Theory/Lagrange's Theorem.md",
-    "MATH101/Notes/Notes/Lecture09.pdf",
-    "CHEM101/Notes/chm101_3rd class.pdf"
+    "MATH101/Group Theory/Lagrange's Theorem.md"
   ]
 }
