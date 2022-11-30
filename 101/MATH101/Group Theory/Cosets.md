@@ -90,3 +90,23 @@ Right cosets of $H=\{1 , \tau \}$
 -------------------------------
 
 #### SubGroups of $\mathbb{Z}$
+
+We know that if $m$ is any integer, the set 
+	$m\mathbb{Z} = \{ \:mx \: | \: x\in \mathbb{Z} \}$
+is a subgroup of $\mathbb{Z}$
+
+----------------------------------------------
+
+### Well Ordering Principle
+
+Any non-empty set of positive integers has a smallest member
+
+***Non-Examples***
+	1. $\mathbb{R}$ has no smallest element
+	2. $\mathbb{R}_{+}$ has a lower bound but no smallest element
+
+#### Generalization
+
+Let $S \subseteq \mathbb{Z}$ be a non-empty subset that has a lower bound
+i.e, there exists some $x_{o} \in \mathbb{Z}$ such that $x \geq x_{o} \forall x \in S$ 
+Then $S$ has a smallest el
