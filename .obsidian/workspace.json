@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4be1a53024adcd49",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3130d8dfcc083e1f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/MATH101/Notes/Notes/Lecture08.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "f10c83636ae6c3bc",
         "type": "tabs",
         "children": [
@@ -29,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MATH101/Group Theory/Cosets.md",
+                "file": "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -102,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MATH101/Group Theory/Cosets.md",
+                "file": "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MATH101/Group Theory/Cosets.md",
+                "file": "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MATH101/Group Theory/Cosets.md"
+                "file": "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md"
               }
             }
           },
@@ -172,15 +155,15 @@
   },
   "active": "73c81f1c948a2311",
   "lastOpenFiles": [
-    "books/Kleppner - Mechanics.pdf",
-    "101/MATH101/Group Theory/Cosets.md",
-    "101/MATH101/Notes/Notes/Lecture08.pdf",
-    "101/MATH101/Notes/Notes/Lecture09.pdf",
+    "101/BIO101/_Index_of_BIO101.md",
     "101/BIO101/Cell Biology/Untitled.md",
-    "_Index_of_Ardo.md",
-    "Template.md",
+    "101/BIO101/Cell Biology/_Index_of_Cell Biology.md",
+    "Annotations.md",
+    "Drawing 2022-11-30 22.45.52.excalidraw.md",
     "101/_Index_of_101.md",
-    "books/Campbell Biology Concepts Connections.pdf",
-    "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md"
+    "101/MATH101/Group Theory/Cosets.md",
+    "books/Kleppner - Mechanics.pdf",
+    "101/MATH101/Notes/Notes/Lecture08.pdf",
+    "101/MATH101/Notes/Notes/Lecture09.pdf"
   ]
 }
