@@ -131,7 +131,12 @@ The Close match of form and function in structures of life can be explained by n
 
 ## Theme: Life depends on the transfer and transformation of energy and matter
 
+The dynamics of ecosystem can be summarized with two major processes-
+***The flow of Energy*** and ***Cycling of Matter***
+An ecosystem gains and loses energy constantly.
+Energy flows through an ecosystem in one direction, generally entering as light and exiting as heat (In our case) 
 
+#### The Chemical 
 
 
 
