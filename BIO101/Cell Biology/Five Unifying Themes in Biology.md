@@ -150,7 +150,15 @@ Such a combination of components forms a more complex organization is called a *
 	The human body is a system with interactions between the organs,tissues... that allow it to maintain a relatively stable internal environment
 
 Disruption in the components can lead to disease.
-Example - 
+**Example** - 
+Type1 Diabetes is the result of pancreatic cells no longer producing insulin
+Type2 Diabetes develops when body cells no longer respong to insulin
+
+Using ***Systems Biology*** , a model for behavior of biological systems by analyzing the interaction among their parts was made.
+**Example** - 
+Researchers have produced a complex systems map of the interactions among 2,346 proteins in a fruit fly cell, based on huge database of known proteins and their actions.
+One of the goal for such model is to predict how a change in one component will affect the other parts of the system.
+
 
 
 
