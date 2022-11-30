@@ -109,4 +109,13 @@ Any non-empty set of positive integers has a smallest member
 
 Let $S \subseteq \mathbb{Z}$ be a non-empty subset that has a lower bound
 i.e, there exists some $x_{o} \in \mathbb{Z}$ such that $x \geq x_{o} \forall x \in S$ 
-Then $S$ has a smallest el
+Then $S$ has a smallest element.
+
+***Proof:***
+> Let $T = \{x-x_{o}+1 \: | \: x \in S \}$
+> Then $T$ consists of positive integers. Also, $T$ is a non-empty.
+> $T$ has a smallest element $z$. Then $z=y-x_{o}+1$ for some $y \in S$
+> We claim that $y$ is the smalleset element of $S$
+> If not then there exists some $x \in S \rightarrow x <y$
+> But $x-x_{o}+1 \in T$ and $z$ is the smallest element of $T$ 
+
