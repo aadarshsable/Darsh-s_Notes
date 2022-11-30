@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
+                "file": "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,10 +29,18 @@
             "id": "a2e0cd26d903bdc8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "pdf-annotator",
               "state": {
-                "file": "books/Campbell Biology Concepts Connections.pdf"
+                "file": "Annotations.md"
               }
+            }
+          },
+          {
+            "id": "2a86aef7d1799e4a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -41,13 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BIO101/Bio Course.md",
+                "file": "101/BIO101/Bio Course.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -114,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Campbell Biology Concepts Connections.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Campbell Biology Concepts Connections.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "books/Campbell Biology Concepts Connections.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -182,17 +186,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a2e0cd26d903bdc8",
+  "active": "f3a32b05078690b7",
   "lastOpenFiles": [
-    "BIO101/Bio Course.md",
-    "BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
+    "Annotations.md",
     "books/Campbell Biology Concepts Connections.pdf",
-    "MATH101/Group Theory/Cosets.md",
-    "MATH101/Notes/Notes/Lecture10.pdf",
+    "101/BIO101/Bio Course.md",
+    "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
+    "101/MATH101/Group Theory/Cosets.md",
+    "101/MATH101/Notes/Notes/Lecture10.pdf",
     "Pasted Image 20221130033841_399.png",
     "Pasted image 20221130034455.png",
-    "MATH101/Notes/Notes/Lecture09.pdf",
-    "Excalidraw/Drawing 2022-11-30 03.38.33.excalidraw.png",
-    "Excalidraw/Drawing 2022-11-30 03.38.33.excalidraw.md"
+    "101/MATH101/Notes/Notes/Lecture09.pdf",
+    "Excalidraw/Drawing 2022-11-30 03.38.33.excalidraw.png"
   ]
 }
