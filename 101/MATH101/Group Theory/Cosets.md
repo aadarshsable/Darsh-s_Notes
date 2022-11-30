@@ -144,4 +144,12 @@ $r$ is strictly less than $b$ and greater than equal to $0$
 > Case-1
 > 	$a \geq 0$
 > 	$a=a-b \cdot 0 \in S$
-> Case
+>  Case-2
+> 	 $a <0$
+> 	 Then $a-b(2a)=a(1-2b)$
+> 	 As $b\geq1 \implies 1-2b < 0$
+> 	 Thus, $a(1-2b) > 0$
+> 	 So $a-b(2a) \in S$
+> 	 Hence $S$ is non-empty here
+> 	 So, $S$ has a smallest element, which we denote by $r$.
+> 	 As $r \in S$,
