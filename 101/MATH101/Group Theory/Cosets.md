@@ -84,8 +84,9 @@ Right cosets of $H=\{1 , \tau \}$
 ![[Pasted image 20221127145534.png]]
 
 ***NOTE***
-> 1. Both left and right cosets five partitions of the group.
-> 2. Right cosets of a group may be bery different from the left cosets
-
+> 1. Both left and right cosets give partitions of the group.
+> 2. Right cosets of a group may be very different from the left cosets.
 
 -------------------------------
+
+#### SubGroups of $\mathbb{Z}$
