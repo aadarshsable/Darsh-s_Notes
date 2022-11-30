@@ -28,6 +28,18 @@
                 "file": "MATH101/Notes/Notes/Lecture10.pdf"
               }
             }
+          },
+          {
+            "id": "476d1a250edb6fdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MATH101/Group Theory/Cosets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -166,15 +178,15 @@
   },
   "active": "eef721d6ff0c76e7",
   "lastOpenFiles": [
+    "MATH101/Group Theory/Cosets.md",
+    "MATH101/Notes/Notes/Lecture10.pdf",
+    "Pasted Image 20221130033841_399.png",
+    "Pasted image 20221130034455.png",
     "MATH101/Notes/Notes/Lecture09.pdf",
     "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
     "Excalidraw/Drawing 2022-11-30 03.38.33.excalidraw.png",
-    "Pasted Image 20221130033841_399.png",
     "Excalidraw/Drawing 2022-11-30 03.38.33.excalidraw.md",
     "Annotations.md",
-    "BIO101/Sub-Topics/Lifes Heirarchy.md",
-    "BIO101/Cell Biology/Process of Science.md",
-    "BIO101/Bio Course.md",
-    "books/Campbell Biology Concepts Connections.pdf"
+    "BIO101/Sub-Topics/Lifes Heirarchy.md"
   ]
 }
