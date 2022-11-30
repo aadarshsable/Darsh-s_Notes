@@ -6,7 +6,6 @@
       {
         "id": "11631956b97ad89d",
         "type": "tabs",
-        "dimension": 51.87667560321715,
         "children": [
           {
             "id": "937558873aec0716",
@@ -19,25 +18,19 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "6f8ccc1d4fbf30ee",
-        "type": "tabs",
-        "dimension": 48.12332439678285,
-        "children": [
+          },
           {
-            "id": "5c0bf3c83428dde5",
+            "id": "eef721d6ff0c76e7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "books/Campbell Biology Concepts Connections.pdf"
+                "file": "MATH101/Notes/Notes/Lecture10.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -104,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
+                "file": "MATH101/Notes/Notes/Lecture10.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
+                "file": "MATH101/Notes/Notes/Lecture10.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md"
+                "file": "MATH101/Notes/Notes/Lecture10.pdf"
               }
             }
           },
@@ -172,17 +164,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "937558873aec0716",
+  "active": "eef721d6ff0c76e7",
   "lastOpenFiles": [
+    "MATH101/Notes/Notes/Lecture09.pdf",
+    "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
     "Excalidraw/Drawing 2022-11-30 03.38.33.excalidraw.png",
     "Pasted Image 20221130033841_399.png",
     "Excalidraw/Drawing 2022-11-30 03.38.33.excalidraw.md",
     "Annotations.md",
-    "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
     "BIO101/Sub-Topics/Lifes Heirarchy.md",
     "BIO101/Cell Biology/Process of Science.md",
     "BIO101/Bio Course.md",
-    "books/Campbell Biology Concepts Connections.pdf",
-    "MATH101/Group Theory/Cosets.md"
+    "books/Campbell Biology Concepts Connections.pdf"
   ]
 }
