@@ -22,24 +22,6 @@
         ]
       },
       {
-        "id": "8a9c49df8c217458",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "18ba4506aed357b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "1d5e5d955bc754c9",
         "type": "tabs",
         "children": [

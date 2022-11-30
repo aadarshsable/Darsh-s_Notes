@@ -122,6 +122,16 @@ A Red Panda has a small bone protruding from its wrist caled the **Radial Sesamo
 It helps them to grasp bamboo. This evoled in the red panda's carnivorous ancestor as an adaptation that enabled it to move along branches in trees.
 Secondarily, it enabled the plant-eating Red Panda to hold onto bamboo.
 > The giant panda also has a "flase thumb" just much larger
+> This with the bamboo diet led biologists to clasify the red panda and giant panda as close relatives
+> However, fossil and DNA evidence indicate that these similar structural adaptation evolved separately in the two distinct lineages
+
+The Close match of form and function in structures of life can be explained by natural selection
+
+------------------------------------------
+
+## Theme: Life depends on the transfer and transformation of energy and matter
+
+
 
 
 
