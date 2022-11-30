@@ -8,28 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "937558873aec0716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eef721d6ff0c76e7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MATH101/Notes/Notes/Lecture10.pdf"
-              }
-            }
-          },
-          {
             "id": "476d1a250edb6fdf",
             "type": "leaf",
             "state": {
@@ -41,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture10.pdf",
+                "file": "MATH101/Group Theory/Cosets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture10.pdf",
+                "file": "MATH101/Group Theory/Cosets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH101/Notes/Notes/Lecture10.pdf"
+                "file": "MATH101/Group Theory/Cosets.md"
               }
             }
           },
@@ -176,14 +153,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eef721d6ff0c76e7",
+  "active": "476d1a250edb6fdf",
   "lastOpenFiles": [
-    "MATH101/Group Theory/Cosets.md",
     "MATH101/Notes/Notes/Lecture10.pdf",
+    "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
+    "MATH101/Group Theory/Cosets.md",
     "Pasted Image 20221130033841_399.png",
     "Pasted image 20221130034455.png",
     "MATH101/Notes/Notes/Lecture09.pdf",
-    "BIO101/Cell Biology/Five Unifying Themes in Biology.md",
     "Excalidraw/Drawing 2022-11-30 03.38.33.excalidraw.png",
     "Excalidraw/Drawing 2022-11-30 03.38.33.excalidraw.md",
     "Annotations.md",
