@@ -121,7 +121,7 @@ The thick walls surrounding plant cells provide structural support to the plant 
 A Red Panda has a small bone protruding from its wrist caled the **Radial Sesamoi** (or the "false thumb").
 It helps them to grasp bamboo. This evoled in the red panda's carnivorous ancestor as an adaptation that enabled it to move along branches in trees.
 Secondarily, it enabled the plant-eating Red Panda to hold onto bamboo.
-
+> The giant panda also has a "flase thumb" just much larger
 
 
 
