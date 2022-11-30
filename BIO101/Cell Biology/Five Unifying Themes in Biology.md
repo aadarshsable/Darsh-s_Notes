@@ -136,8 +136,21 @@ The dynamics of ecosystem can be summarized with two major processes-
 An ecosystem gains and loses energy constantly.
 Energy flows through an ecosystem in one direction, generally entering as light and exiting as heat (In our case) 
 
-#### The Chemical 
+#### The Chemical Square dance
+In which molecules swap chemical partners as they recieve, convert and release energy is never-ending in all forms of life
 
+
+------------------------------------
+
+## Theme: Life depends on interactions within and between systems
+
+As we move up through the heirarchy, we see that novel properties emerge at each higher level.
+The emergent properties of each level result from the specific arrangement and interactions of its part.
+Such a combination of components forms a more complex organization is called a ***SYSTEM***
+	The human body is a system with interactions between the organs,tissues... that allow it to maintain a relatively stable internal environment
+
+Disruption in the components can lead to disease.
+Example - 
 
 
 
