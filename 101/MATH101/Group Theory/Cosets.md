@@ -117,5 +117,31 @@ Then $S$ has a smallest element.
 > $T$ has a smallest element $z$. Then $z=y-x_{o}+1$ for some $y \in S$
 > We claim that $y$ is the smalleset element of $S$
 > If not then there exists some $x \in S \rightarrow x <y$
-> But $x-x_{o}+1 \in T$ and $z$ is the smallest element of $T$ 
+> But $x-x_{o}+1 \in T$ and $z$ is the smallest element of $T$  ---- contradiction
+> 
 
+Thus the well-ordering principle applies to non-empty subsets of  non-negative integers as well
+
+-----------------------------------------
+
+### Division Algorithm
+
+Let $a,b \in \mathbb{Z}$ , $b > 0$ 
+Then there exists a unique integers $q,r$ such that
+$$a=bq+r
+$$
+and
+$$
+0 \leq r < b
+$$
+***Note:*** 
+$r$ is strictly less than $b$ and greater than equal to $0$
+
+***Proof***
+> $S= \{ a-bm \: | \: m \in \mathbb{Z} , \: a-bm \geq 0\}$
+> We claim that $S$ is non-empty
+> 
+> Case-1
+> 	$a \geq 0$
+> 	$a=a-b \cdot 0 \in S$
+> Case
