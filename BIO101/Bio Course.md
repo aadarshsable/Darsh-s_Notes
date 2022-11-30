@@ -2,12 +2,12 @@ Overview: Inquiring About the World of Life
 
 #### 1.1 Themes connect the concepts of biology
  - [ ] Evolution, the overarching theme of biology
- - [ ] Theme: New properties emerge at each level in the biological hierachy
- - [ ] The biosphere
- - [ ] Emergent properties
+ - [x] Theme: New properties emerge at each level in the biological hierachy
+ - [x] The biosphere
+ - [x] Emergent properties
  - [ ] The power an limitations of reductionism
  - [ ] Systems Biology
- - [ ] Theme: Organisms interect with their environments, exchanging matter and energy (**1.13+1.14**)
+ - [x] Theme: Organisms interect with their environments, exchanging matter and energy (**1.13+1.14**)
  - [ ] Ecosystem Dynamics
  - [ ] Energy Conversion
  - [ ] Theme: Structure and function are correlated at all levels of biological organization (**1.12**)

@@ -151,15 +151,33 @@ Such a combination of components forms a more complex organization is called a *
 
 Disruption in the components can lead to disease.
 **Example** - 
-Type1 Diabetes is the result of pancreatic cells no longer producing insulin
-Type2 Diabetes develops when body cells no longer respong to insulin
+	Type1 Diabetes is the result of pancreatic cells no longer producing insulin
+	Type2 Diabetes develops when body cells no longer respong to insulin
 
 Using ***Systems Biology*** , a model for behavior of biological systems by analyzing the interaction among their parts was made.
 **Example** - 
-Researchers have produced a complex systems map of the interactions among 2,346 proteins in a fruit fly cell, based on huge database of known proteins and their actions.
+	Researchers have produced a complex systems map of the interactions among 2,346 proteins in a fruit fly cell, based on huge database of known proteins and their actions.
 One of the goal for such model is to predict how a change in one component will affect the other parts of the system.
 
+Life is characterized by interconnections and interactions.
 
+$Q.$ A box of bicycle parts won't do anything, but if the parts are properly asembled, you can take a ride. What does this illustrate.
+> Emergent properties of the interacting components of a system.
+
+
+------------------------------------
+
+```ad-note
+title: Conclusion
+Five Themes:
+- Evolution
+- Information
+- Structure and Function
+- Energy and Matter
+- Interactions
+```
+
+------------------------------------------------
 
 
 
