@@ -11,9 +11,11 @@
             "id": "73c81f1c948a2311",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "101/MATH101/Notes/Notes/Lecture10.pdf"
+                "file": "101/MATH101/Group Theory/Sub-Groups.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MATH101/Notes/Notes/Lecture10.pdf",
+                "file": "101/MATH101/Group Theory/Sub-Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MATH101/Notes/Notes/Lecture10.pdf",
+                "file": "101/MATH101/Group Theory/Sub-Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MATH101/Notes/Notes/Lecture10.pdf"
+                "file": "101/MATH101/Group Theory/Sub-Groups.md"
               }
             }
           },
@@ -153,8 +155,8 @@
   },
   "active": "73c81f1c948a2311",
   "lastOpenFiles": [
-    "101/MATH101/Notes/Notes/Lecture09.pdf",
     "101/MATH101/Notes/Notes/Lecture10.pdf",
+    "101/MATH101/Notes/Notes/Lecture09.pdf",
     "101/PHY101/Papers & Stuff/Assignment -2.pdf",
     "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
     "101/BIO101/_Index_of_BIO101.md",
