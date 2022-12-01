@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "101/MATH101/Notes/Notes/Lecture08.pdf"
+                "file": "101/MATH101/Notes/Notes/Lecture10.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MATH101/Notes/Notes/Lecture08.pdf",
+                "file": "101/MATH101/Notes/Notes/Lecture10.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MATH101/Notes/Notes/Lecture08.pdf",
+                "file": "101/MATH101/Notes/Notes/Lecture10.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MATH101/Notes/Notes/Lecture08.pdf"
+                "file": "101/MATH101/Notes/Notes/Lecture10.pdf"
               }
             }
           },
@@ -153,15 +153,15 @@
   },
   "active": "73c81f1c948a2311",
   "lastOpenFiles": [
-    "101/MATH101/Group Theory/Sub-Groups.md",
+    "101/MATH101/Notes/Notes/a.pdf",
     "101/MATH101/Notes/Notes/Lecture10.pdf",
+    "101/MATH101/Notes/Notes/DOUBTS.md",
     "101/MATH101/Notes/Notes/Lecture09.pdf",
+    "101/MATH101/Notes/Notes/Lecture08.pdf",
+    "101/MATH101/Group Theory/Sub-Groups.md",
     "101/PHY101/Papers & Stuff/Assignment -2.pdf",
     "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
     "101/BIO101/_Index_of_BIO101.md",
-    "101/BIO101/Cell Biology/Untitled.md",
-    "101/BIO101/Cell Biology/_Index_of_Cell Biology.md",
-    "Annotations.md",
-    "Drawing 2022-11-30 22.45.52.excalidraw.md"
+    "101/BIO101/Cell Biology/Untitled.md"
   ]
 }
