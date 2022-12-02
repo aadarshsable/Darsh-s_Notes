@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf"
+                "file": "101/PHY101/Papers & Stuff/Assignment -2.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
+                "file": "101/PHY101/Papers & Stuff/Assignment -2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
+                "file": "101/PHY101/Papers & Stuff/Assignment -2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf"
+                "file": "101/PHY101/Papers & Stuff/Assignment -2.pdf"
               }
             }
           },
@@ -153,6 +153,7 @@
   },
   "active": "3b4c9f7991d1c150",
   "lastOpenFiles": [
+    "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
     "101/CHEM101/Notes/chm101_8-12 class.pdf",
     "101/PHY101/Papers & Stuff/Assignment -2.pdf",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
@@ -161,7 +162,6 @@
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MATH101/Notes/Notes/a.pdf",
     "101/MTH101/Notes/Notes/DOUBTS.md",
-    "101/MTH101/Notes/Notes/Lecture08.pdf",
-    "101/MTH101/Group Theory/Sub-Groups.md"
+    "101/MTH101/Notes/Notes/Lecture08.pdf"
   ]
 }
