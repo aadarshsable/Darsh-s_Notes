@@ -242,6 +242,4 @@ Now for $x^{4}=1$
 ---------------------------------------------
 
 
-kJSNDFJDNFSNJDFALKFLKANSDAnsjkdnansdnaSNDJqnqwdoiqnwoi qhdhnCASUISDHLIASSDKJSDBCZKJDBCKJLsd cSHKUDFI WHoih er
-
 
