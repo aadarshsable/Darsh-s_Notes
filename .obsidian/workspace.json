@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/Cosets.md",
+                "file": "101/MTH101/Group Theory/6.Cosets.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/Lagrange's Theorem.md",
+                "file": "101/MTH101/Group Theory/Theorems.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/Lagrange's Theorem.md",
+                "file": "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/Lagrange's Theorem.md",
+                "file": "101/MTH101/Group Theory/Theorems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/Lagrange's Theorem.md",
+                "file": "101/MTH101/Group Theory/Theorems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/Lagrange's Theorem.md"
+                "file": "101/MTH101/Group Theory/Theorems.md"
               }
             }
           },
@@ -219,14 +219,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3a32b05078690b7",
+  "active": "4cc27e2bf145eb05",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/2.Symmetry.md",
+    "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
     "101/MTH101/Group Theory/Theorems.md",
+    "101/MTH101/Group Theory/2.Symmetry.md",
     "101/MTH101/Group Theory/1.Groups.md",
-    "101/MTH101/Group Theory/Cosets.md",
+    "101/MTH101/Group Theory/6.Cosets.md",
     "101/MTH101/Group Theory/4.Sub-Groups.md",
-    "101/MTH101/Group Theory/Lagrange's Theorem.md",
     "101/MTH101/Group Theory/3.Isomorphism.md",
     "101/MTH101/Notes/Notes/Lecture09.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial04 solutions.pdf",

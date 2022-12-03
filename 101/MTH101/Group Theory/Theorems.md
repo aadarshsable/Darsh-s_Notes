@@ -13,12 +13,10 @@
 	Let $G$ be a group. Let $H$ be a non-empty subset of $G$.
 	Then $H$ is a subgroup of $G$ $\iff$ for any $x,y$ in $H$
 
-
 [Theorem 3.2](<Sub-Groups#Order of a Group:#Finite Groups:#Theorem>)
 	Let $G$ be a finite group. Then, for any element $x$ of $G$, there exists a positive integer $d \leq |G|$ such that $x^{d} = 1$
 
-
-[Theorem 4.1](<Lagrange's Theorem#Theorem>)
+[Theorem 4.1](5.Lagrange's%20Theorem.md#Theorem Theorem#Theorem>)
 	Let $G$ be a [finite group.](Sub-Groups.md#Order%20of%20a%20Group#Finite%20Groups of a Group#Finite Groups>) Then , for any $x \in G$, 
 	$ord(x) \leq |G|$
 
