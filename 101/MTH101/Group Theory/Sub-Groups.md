@@ -46,6 +46,7 @@ $$
 
 ### A Test for Subgroups
 
+#### Theorem
 Let $G$ be group. Let $H$ be a non-empty subset of $G$. 
 Then $H$ is a subgroup of $G$ $iff$ for any $x, y$ in $H$
 

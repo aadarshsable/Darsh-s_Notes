@@ -11,29 +11,23 @@
             "id": "65efc4ec0f03c7c2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture09.pdf"
+                "file": "101/MTH101/Group Theory/Cosets.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "103f2aca1b008ccc",
+            "id": "4cc27e2bf145eb05",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Tutorial04 solutions.pdf"
-              }
-            }
-          },
-          {
-            "id": "ac1b73189cbb6de9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "books/Kleppner - Mechanics.pdf"
+                "file": "101/MTH101/Group Theory/Theorems.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -46,19 +40,27 @@
                 "file": "101/MTH101/Notes/Notes/Lecture08.pdf"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "ffe2ff0d9a8d0925",
+        "type": "tabs",
+        "children": [
           {
-            "id": "43008e80f0cb3118",
+            "id": "2d9321215ab78c66",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Solutions To Kleppner.pdf"
+                "file": "101/MTH101/Group Theory/Sub-Groups.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
+                "file": "101/MTH101/Group Theory/Theorems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
+                "file": "101/MTH101/Group Theory/Theorems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md"
+                "file": "101/MTH101/Group Theory/Theorems.md"
               }
             }
           },
@@ -192,17 +194,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3a32b05078690b7",
+  "active": "4cc27e2bf145eb05",
   "lastOpenFiles": [
+    "101/MTH101/Group Theory/Sub-Groups.md",
+    "101/MTH101/Group Theory/Theorems.md",
+    "101/MTH101/Group Theory/Symmetry.md",
+    "101/MTH101/Group Theory/Cosets.md",
+    "101/MTH101/Notes/Notes/Lecture09.pdf",
+    "101/MTH101/Notes/Tutorials/Tutorial04 solutions.pdf",
+    "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
     "books/Solutions To Kleppner.pdf",
     "books/Kleppner - Mechanics.pdf",
-    "101/MTH101/Notes/Tutorials/Tutorial04 solutions.pdf",
-    "101/MTH101/Notes/Notes/Lecture11.pdf",
-    "101/MTH101/Notes/Notes/Lecture10.pdf",
-    "101/MTH101/Notes/Notes/Lecture09.pdf",
-    "101/MTH101/Group Theory/Cosets.md",
-    "101/MTH101/Notes/Notes/Lecture08.pdf",
-    "101/MTH101/Group Theory/Sub-Groups.md",
-    "101/PHY101/Papers & Stuff/Assignment -2.pdf"
+    "101/MTH101/Notes/Notes/Lecture11.pdf"
   ]
 }
