@@ -83,7 +83,7 @@ Let $G$ be a group. The cardinality of the set $G$ (number of elements) is calle
 Let $G$ be a finite group.
 then, $<x>$ (the subset of $G$) will also be a finite set.
 
-***Theorem***
+##### Theorem
 > Let $G$ be a finite group. Then, for any element $x$ of $G$, there exists a positive integer $d \leq |G|$ such that $x^{d} = 1$
 
 ***Proof***
