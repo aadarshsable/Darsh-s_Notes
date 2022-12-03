@@ -28,6 +28,26 @@
             }
           },
           {
+            "id": "0ab55a78d61b774e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Notes/Lecture11.pdf"
+              }
+            }
+          },
+          {
+            "id": "3ccbaf355cad120b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Notes/Lecture10.pdf"
+              }
+            }
+          },
+          {
             "id": "4ccd73426d386e5c",
             "type": "leaf",
             "state": {
@@ -174,15 +194,15 @@
   },
   "active": "103f2aca1b008ccc",
   "lastOpenFiles": [
+    "101/MTH101/Notes/Notes/Lecture11.pdf",
+    "101/MTH101/Notes/Tutorials/Tutorial04 solutions.pdf",
+    "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Notes/Notes/Lecture09.pdf",
     "101/MTH101/Group Theory/Cosets.md",
     "101/MTH101/Notes/Notes/Lecture08.pdf",
     "books/Kleppner - Mechanics.pdf",
     "101/MTH101/Group Theory/Sub-Groups.md",
     "101/PHY101/Papers & Stuff/Assignment -2.pdf",
-    "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
-    "101/CHEM101/Notes/chm101_8-12 class.pdf",
-    "101/MTH101/Notes/Notes/Lecture11.pdf",
-    "101/MTH101/Notes/Tutorials/Tutorial04.pdf"
+    "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf"
   ]
 }
