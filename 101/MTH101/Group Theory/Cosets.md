@@ -197,7 +197,13 @@ Any subgroup of $H$ of $\mathbb{Z}$ is of the form $m\mathbb{Z}$ for some $m\geq
 ***Proof:***
 > Let $H$ be a subgroup of $\mathbb{Z}$
 > Let,
-> 	$S = \{\: x \: | \:$
+> 	$S = \{\: x \: | \: x \in H, \: x >0 \: \}$
+> 
+> CASE-1
+> 	Suppose $S=\phi$
+> 	All elements of $H$ are non-positive
+> 	if $x \in H$ such that $x <0$
+> 	
 > 
 
 
