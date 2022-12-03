@@ -152,5 +152,11 @@ $r$ is strictly less than $b$ and greater than equal to $0$
 > 	 So $a-b(2a) \in S$
 > 	 Hence $S$ is non-empty here
 > 	 So, $S$ has a smallest element, which we denote by $r$.
-> 	 As $r \in S$,
+> 	 As $r \in S$, there exists some $q \in \mathbb{Z}$ such that $a-bq=r$.
+> 		 If $r\geq b$ , $r-b \geq 0 \implies a-bq-b\geq {0}$
+> 	 But this means $a-b(q+1) \in S$
+> 	 But $a-b(q+1)<r$
+> 	 Hence Contradiction
+> 	
+> 		  
 > 	 
