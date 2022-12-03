@@ -157,6 +157,26 @@ $r$ is strictly less than $b$ and greater than equal to $0$
 > 	 But this means $a-b(q+1) \in S$
 > 	 But $a-b(q+1)<r$
 > 	 Hence Contradiction
-> 	
-> 		  
-> 	 
+> 
+
+--------------------------------------
+
+### Uniqueness
+
+Let $q_{1}, r_{1}$ and $q_{2}, r_{2}$ be such that
+$$
+\begin{align}
+a&=bq_{1}+r_{1} \\
+a&=bq_{2}+r_{2}
+\end{align}
+$$
+
+If $r_{1}=r_{2}$ then $bq_{1}=bq_{2} \implies q_{1}=q_{2}$
+But,
+
+If $r_{1}\neq r_{2}$ , $r_{1} < r_{2} \rightarrow r_{2}-r_{1} >0$
+Then,
+$bq_{1}-bq_{2}=r_{2}-r_{1}$
+As $b>0$ and $r$
+
+
