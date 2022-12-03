@@ -174,9 +174,30 @@ $$
 If $r_{1}=r_{2}$ then $bq_{1}=bq_{2} \implies q_{1}=q_{2}$
 But,
 
-If $r_{1}\neq r_{2}$ , $r_{1} < r_{2} \rightarrow r_{2}-r_{1} >0$
+If $r_{1}\neq r_{2}$ |  $r_{1} < r_{2} \rightarrow r_{2}-r_{1} >0$
 Then,
 $bq_{1}-bq_{2}=r_{2}-r_{1}$
-As $b>0$ and $r$
+As $b>0$ and $r_{2}-r_{1}>0$ $\implies q_{1}-q_{2} > 0$
+Also, $q_{1}-q_{2} \geq 1$
+Then, $r_{2}-r_{1} = b(q_{1}-q_{2}) \geq b$
+But,
+$r_{2}<b$  | $r_{1}\geq 0$
+So, $r_{2}-r_{1} < b$                      ----contradiction
+Thus
+$r_{1} \neq r_{2}$
+
+This proofs the uniqueness of $r$
+
+---------------------------------
+
+#### Theorem
+
+Any subgroup of $H$ of $\mathbb{Z}$ is of the form $m\mathbb{Z}$ for some $m\geq 0$
+
+***Proof:***
+> Let $H$ be a subgroup of $\mathbb{Z}$
+> Let,
+> 	$S = \{\: x \: | \:$
+> 
 
 
