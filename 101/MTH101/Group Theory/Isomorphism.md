@@ -33,6 +33,7 @@ $$
 
 Thus, $\phi$ is a group isomorphism. So $(\mathbb{R}_{+}, \cdot)$ is a isomorphic to $(\mathbb{R}, +)$.
 
+##### Theorem-1
 ***Note: Isomorphism preserves identity and inverses***
 >If $\phi: G \rightarrow H$ be an isomorphism. Then,
 >
@@ -55,7 +56,7 @@ Thus, $\phi$ is a group isomorphism. So $(\mathbb{R}_{+}, \cdot)$ is a isomorphi
 >
 
 
-***Theorem:***
+##### Theorem-2
 > Let $G$ and $H$ be groups. Let $\phi:G \rightarrow H$ be a group isomorphism.
 > Then, the function $\phi ^{-1}: H \rightarrow G$ is also a group isomorphism
 > 

@@ -45,11 +45,23 @@
         "currentTab": 1
       },
       {
-        "id": "ffe2ff0d9a8d0925",
+        "id": "5ec005952128ab8b",
         "type": "tabs",
         "children": [
           {
-            "id": "94f9e7f1aa0bdc22",
+            "id": "88ceba0590d79c8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/MTH101/Group Theory/Isomorphism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69a8ca17a89b8738",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,25 +72,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "1fb5bf368e2a3013",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0aebab1d29c9df04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/MTH101/Group Theory/Sub-Groups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/Theorems.md",
+                "file": "101/MTH101/Group Theory/Lagrange's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/Theorems.md",
+                "file": "101/MTH101/Group Theory/Lagrange's Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/Theorems.md"
+                "file": "101/MTH101/Group Theory/Lagrange's Theorem.md"
               }
             }
           },
@@ -212,17 +207,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4cc27e2bf145eb05",
+  "active": "69a8ca17a89b8738",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/Lagrange's Theorem.md",
     "101/MTH101/Group Theory/Theorems.md",
-    "101/MTH101/Group Theory/Sub-Groups.md",
+    "101/MTH101/Group Theory/Isomorphism.md",
     "101/MTH101/Group Theory/Symmetry.md",
     "101/MTH101/Group Theory/Cosets.md",
+    "101/MTH101/Group Theory/Lagrange's Theorem.md",
+    "101/MTH101/Group Theory/Sub-Groups.md",
     "101/MTH101/Notes/Notes/Lecture09.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial04 solutions.pdf",
     "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
-    "books/Solutions To Kleppner.pdf",
-    "books/Kleppner - Mechanics.pdf"
+    "books/Solutions To Kleppner.pdf"
   ]
 }
