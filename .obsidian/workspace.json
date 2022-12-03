@@ -69,6 +69,22 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "f650704a6bd26c91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43008e80f0cb3118",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Solutions To Kleppner.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "books/Solutions To Kleppner.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "books/Solutions To Kleppner.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf"
+                "file": "books/Solutions To Kleppner.pdf"
               }
             }
           },
@@ -203,15 +219,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ac1b73189cbb6de9",
+  "active": "43008e80f0cb3118",
   "lastOpenFiles": [
+    "books/Kleppner - Mechanics.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial04 solutions.pdf",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Notes/Notes/Lecture09.pdf",
     "101/MTH101/Group Theory/Cosets.md",
     "101/MTH101/Notes/Notes/Lecture08.pdf",
-    "books/Kleppner - Mechanics.pdf",
     "101/MTH101/Group Theory/Sub-Groups.md",
     "101/PHY101/Papers & Stuff/Assignment -2.pdf",
     "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf"
