@@ -9,7 +9,7 @@
 	Let $G$ and $H$ be groups. Let $\phi:G \rightarrow H$ be a group isomorphism.
 	Then, the function $\phi ^{-1}: H \rightarrow G$ is also a group isomorphism
 
-[Theorem 3.1](<Sub-Groups#A Test for Subgroups#Theorem>)
+[Theorem 3.1](4.Sub-Groups.md#A%20Test%20for%20Subgroups#Theorem Test for Subgroups#Theorem>)
 	Let $G$ be a group. Let $H$ be a non-empty subset of $G$.
 	Then $H$ is a subgroup of $G$ $\iff$ for any $x,y$ in $H$
 
