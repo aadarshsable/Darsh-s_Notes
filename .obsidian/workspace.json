@@ -8,84 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65efc4ec0f03c7c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/MTH101/Group Theory/6.Cosets.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4cc27e2bf145eb05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/Theorems.md",
+                "file": "101/BIO101/Cell Biology/Elements, Atoms, and Compounds.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "be31a6827739818b",
+        "type": "tabs",
+        "children": [
           {
-            "id": "4ccd73426d386e5c",
+            "id": "6692d88dbad42f8c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture08.pdf"
+                "file": "books/Campbell Biology Concepts Connections.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "5ec005952128ab8b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "88ceba0590d79c8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/MTH101/Group Theory/3.Isomorphism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69a8ca17a89b8738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5bb055be4655de2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/MTH101/Group Theory/1.Groups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -151,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/Theorems.md",
+                "file": "101/BIO101/Cell Biology/Elements, Atoms, and Compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/Theorems.md",
+                "file": "101/BIO101/Cell Biology/Elements, Atoms, and Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/Theorems.md"
+                "file": "101/BIO101/Cell Biology/Elements, Atoms, and Compounds.md"
               }
             }
           },
@@ -221,15 +172,15 @@
   },
   "active": "4cc27e2bf145eb05",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
+    "books/Campbell Biology Concepts Connections.pdf",
+    "101/BIO101/Cell Biology/Elements, Atoms, and Compounds.md",
     "101/MTH101/Group Theory/Theorems.md",
+    "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
     "101/MTH101/Group Theory/2.Symmetry.md",
     "101/MTH101/Group Theory/1.Groups.md",
     "101/MTH101/Group Theory/6.Cosets.md",
     "101/MTH101/Group Theory/4.Sub-Groups.md",
     "101/MTH101/Group Theory/3.Isomorphism.md",
-    "101/MTH101/Notes/Notes/Lecture09.pdf",
-    "101/MTH101/Notes/Tutorials/Tutorial04 solutions.pdf",
-    "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md"
+    "101/MTH101/Notes/Notes/Lecture09.pdf"
   ]
 }
