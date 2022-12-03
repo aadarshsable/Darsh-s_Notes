@@ -1,6 +1,6 @@
 
 
-[Theorem 2.1](<Isomorphism#Theorem-1>)
+[Theorem 2.1](3.Isomorphism.md#Theorem-1)
 	If $\phi: G \rightarrow H$ be an isomorphism. Then,
 		1. $\phi(1_{G}) = 1_{H}$	
 		2. For any $x \in G$ , $\phi(x^{-1}) = \phi(x)^{-1}$
