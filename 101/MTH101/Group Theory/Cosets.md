@@ -153,3 +153,4 @@ $r$ is strictly less than $b$ and greater than equal to $0$
 > 	 Hence $S$ is non-empty here
 > 	 So, $S$ has a smallest element, which we denote by $r$.
 > 	 As $r \in S$,
+> 	 

@@ -4,20 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "f10c83636ae6c3bc",
+        "id": "6528cd222d7310b3",
         "type": "tabs",
         "children": [
           {
-            "id": "fb35b6d5e17b17cb",
+            "id": "ae86b776338b354c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf"
+                "file": "101/MTH101/Group Theory/Cosets.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "ff6297cde6a66db2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65efc4ec0f03c7c2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Notes/Lecture09.pdf"
+              }
+            }
+          },
+          {
+            "id": "4ccd73426d386e5c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Notes/Lecture08.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "101/MTH101/Group Theory/Cosets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "101/MTH101/Group Theory/Cosets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf"
+                "file": "101/MTH101/Group Theory/Cosets.md"
               }
             }
           },
@@ -152,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fb35b6d5e17b17cb",
+  "active": "ae86b776338b354c",
   "lastOpenFiles": [
+    "101/MTH101/Notes/Notes/Lecture08.pdf",
+    "101/MTH101/Notes/Notes/Lecture09.pdf",
+    "101/MTH101/Group Theory/Cosets.md",
+    "books/Kleppner - Mechanics.pdf",
     "101/MTH101/Group Theory/Sub-Groups.md",
     "101/PHY101/Papers & Stuff/Assignment -2.pdf",
     "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
     "101/CHEM101/Notes/chm101_8-12 class.pdf",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
-    "101/MTH101/Notes/Tutorials/Tutorial04.pdf",
-    "101/MTH101/Notes/Notes/Lecture09.pdf",
-    "101/MTH101/Notes/Notes/Lecture10.pdf",
-    "101/MATH101/Notes/Notes/a.pdf",
-    "101/MTH101/Notes/Notes/DOUBTS.md"
+    "101/MTH101/Notes/Tutorials/Tutorial04.pdf"
   ]
 }
