@@ -1,4 +1,6 @@
-[Theorem1.1]
+[Theorem 1.1](<1.Groups#Related Ideas:#Cancellation Property>)
+
+
 
 [Theorem 3.1](3.Isomorphism.md#Theorem-1)
 	If $\phi: G \rightarrow H$ be an isomorphism. Then,

@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/Theorems.md",
+                "file": "101/MTH101/Group Theory/1.Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/Theorems.md",
+                "file": "101/MTH101/Group Theory/1.Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/Theorems.md"
+                "file": "101/MTH101/Group Theory/1.Groups.md"
               }
             }
           },
@@ -177,10 +178,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4cc27e2bf145eb05",
+  "active": "c83de4a0a30190f9",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/1.Groups.md",
     "101/MTH101/Group Theory/Theorems.md",
+    "101/MTH101/Group Theory/1.Groups.md",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
     "101/MTH101/Group Theory/4.Sub-Groups.md",
     "101/MTH101/Group Theory/3.Isomorphism.md",
