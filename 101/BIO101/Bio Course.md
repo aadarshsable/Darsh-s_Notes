@@ -13,11 +13,11 @@ Overview: Inquiring About the World of Life
  - [x] Ecosystem Dynamics
  - [x] Energy Conversion
  - [x] Theme: Structure and function are correlated at all levels of biological organization (**1.12**)
- - [ ] Theme: Cells are an organisms basic unit of structure and function
+ - [x] Theme: Cells are an organisms basic unit of structure and function
  - [x] Theme: The continuity of life is based on heritable information in the form of DNA
  - [x] DNA Structure and Function
  - [x] Systems Biology at Levels of Cells and Molecules
- - [ ] Theme: Feedback mechanisms regulate bioligcal systems
+ - [x] Theme: Feedback mechanisms regulate bioligcal systems
 
 #### 1.2 The Core Theme: Evolution accounts for the unity and diversity of life
 - [ ] Organizing the Diversity of Life
