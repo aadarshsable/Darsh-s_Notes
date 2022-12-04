@@ -155,6 +155,12 @@ Disruption in the components can lead to disease.
 	Type2 Diabetes develops when body cells no longer respong to insulin
 
 Using ***Systems Biology*** , a model for behavior of biological systems by analyzing the interaction among their parts was made.
+
+It approaches questions such as:
+	- How does a drug for blood pressure affect other organs
+	- How does increasing $CO_{2}$ alter the biosphere?
+
+
 **Example** - 
 	Researchers have produced a complex systems map of the interactions among 2,346 proteins in a fruit fly cell, based on huge database of known proteins and their actions.
 One of the goal for such model is to predict how a change in one component will affect the other parts of the system.
