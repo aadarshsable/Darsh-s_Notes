@@ -8,26 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c83de4a0a30190f9",
+            "id": "c43c40731bcb4582",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/6.Cosets.md",
+                "file": "101/CHEM101/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "807ee91cce41a251",
+        "type": "tabs",
+        "children": [
           {
-            "id": "d4eb4760816a28d4",
+            "id": "c83de4a0a30190f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "101/MTH101/Group Theory/4.Sub-Groups.md",
-                "mode": "source",
-                "source": false
+                "file": "101/CHEM101/Notes/chm101_2nd and 3rd class.pdf"
               }
             }
           }
@@ -97,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/6.Cosets.md",
+                "file": "101/CHEM101/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/6.Cosets.md",
+                "file": "101/CHEM101/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/6.Cosets.md"
+                "file": "101/CHEM101/Untitled.md"
               }
             }
           },
@@ -165,17 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c83de4a0a30190f9",
+  "active": "c43c40731bcb4582",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/1.Groups.md",
+    "101/MTH101/data/Isometry-1.md",
+    "101/MTH101/data/Cases for n-gon Symmetry.md",
+    "101/CHEM101/Untitled.md",
+    "101/CHEM101/Notes/chm101_2nd and 3rd class.pdf",
+    "101/CHEM101/Notes/chm101_5th and 6th class.pdf",
+    "101/CHEM101/Notes/CHM101_7th class.pdf",
+    "101/CHEM101/Notes/chm101_8-12 class.pdf",
+    "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
     "101/MTH101/Group Theory/6.Cosets.md",
-    "101/MTH101/Group Theory/0.Theorems.md",
-    "101/MTH101/Notes/Notes/Lecture08.pdf",
-    "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
-    "101/MTH101/Group Theory/4.Sub-Groups.md",
-    "101/MTH101/Group Theory/3.Isomorphism.md",
-    "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
-    "101/PHY101/Newton Laws.md",
-    "101/BIO101/Cell Biology/Elements, Atoms, and Compounds.md"
+    "101/MTH101/Group Theory/1.Groups.md"
   ]
 }
