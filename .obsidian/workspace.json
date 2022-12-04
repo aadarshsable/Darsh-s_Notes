@@ -18,6 +18,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "9c61f1dba1ed0f0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1af9a40fca61017b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Solutions To Kleppner.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "books/Solutions To Kleppner.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "books/Solutions To Kleppner.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf"
+                "file": "books/Solutions To Kleppner.pdf"
               }
             }
           },
@@ -151,8 +167,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5a750b4ca32b9df",
+  "active": "1af9a40fca61017b",
   "lastOpenFiles": [
+    "books/Kleppner - Mechanics.pdf",
     "101/BIO101/Notes/Bio101-Topic 1-.pdf",
     "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
     "101/BIO101/Introduction to Biology/Scientific Study of Life.md",
@@ -161,7 +178,6 @@
     "101/CHEM101/To-Do.md",
     "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
     "101/CHEM101/Notes/chm101_8-12 class.pdf",
-    "101/CHEM101/Notes/CHM101_7th class.pdf",
-    "101/CHEM101/Notes/chm101_5th and 6th class.pdf"
+    "101/CHEM101/Notes/CHM101_7th class.pdf"
   ]
 }
