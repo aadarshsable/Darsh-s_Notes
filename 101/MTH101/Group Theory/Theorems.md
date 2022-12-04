@@ -1,5 +1,18 @@
 [Theorem 1.1](<1.Groups#Related Ideas:#Cancellation Property>)
+Let $a, b, c$ be elements of a group $G$
+If, $ab = ac$ or $ba = ca$
+	then, $b = c$
 
+[Theorem 1.2](<1.Groups#More on Identity Element#Uniqueness of Identity>)
+Let $G$ be a group and let $f$ be an element of $G$ such that $f x = x$ for some $x$ in $G$.
+Then, $f = 1_{G}$
+
+[Theorem 1.3](<1.Groups#Inverses:#Uniqueness of Inverses:>)
+Let $G$ be a group and let $f$ be an element of $G$.
+If $h$ is an element such that $fh = 1_{G}$, then $h = f^{-1}$.
+Similarly,
+	if $h$ satisfies $hf = 1_{G}$, then
+	$h = f^{-1}$.
 
 
 [Theorem 3.1](3.Isomorphism.md#Theorem-1)
