@@ -11,9 +11,11 @@
             "id": "e5a750b4ca32b9df",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf"
+                "file": "101/PHY101/Newton Laws.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "101/PHY101/Newton Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "101/PHY101/Newton Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf"
+                "file": "101/PHY101/Newton Laws.md"
               }
             }
           },
@@ -154,8 +155,8 @@
   },
   "active": "e5a750b4ca32b9df",
   "lastOpenFiles": [
-    "books/Solutions To Kleppner.pdf",
     "books/Kleppner - Mechanics.pdf",
+    "books/Solutions To Kleppner.pdf",
     "101/BIO101/Notes/Bio101-Topic 1-.pdf",
     "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
     "101/BIO101/Introduction to Biology/Scientific Study of Life.md",
