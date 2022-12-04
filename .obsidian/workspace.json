@@ -13,25 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
+                "file": "101/MTH101/Group Theory/Theorems.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "be31a6827739818b",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "6692d88dbad42f8c",
+            "id": "c83de4a0a30190f9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Campbell Biology Concepts Connections.pdf"
+                "file": "101/MTH101/Group Theory/1.Groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4eb4760816a28d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/MTH101/Group Theory/4.Sub-Groups.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -102,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
+                "file": "101/MTH101/Group Theory/Theorems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
+                "file": "101/MTH101/Group Theory/Theorems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md"
+                "file": "101/MTH101/Group Theory/Theorems.md"
               }
             }
           },
@@ -172,15 +179,15 @@
   },
   "active": "4cc27e2bf145eb05",
   "lastOpenFiles": [
-    "101/PHY101/Newton Laws.md",
-    "101/BIO101/Cell Biology/Elements, Atoms, and Compounds.md",
-    "books/Campbell Biology Concepts Connections.pdf",
+    "101/MTH101/Group Theory/1.Groups.md",
     "101/MTH101/Group Theory/Theorems.md",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
-    "101/MTH101/Group Theory/2.Symmetry.md",
-    "101/MTH101/Group Theory/1.Groups.md",
-    "101/MTH101/Group Theory/6.Cosets.md",
     "101/MTH101/Group Theory/4.Sub-Groups.md",
-    "101/MTH101/Group Theory/3.Isomorphism.md"
+    "101/MTH101/Group Theory/3.Isomorphism.md",
+    "101/MTH101/Group Theory/6.Cosets.md",
+    "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
+    "101/PHY101/Newton Laws.md",
+    "101/BIO101/Cell Biology/Elements, Atoms, and Compounds.md",
+    "books/Campbell Biology Concepts Connections.pdf"
   ]
 }
