@@ -3,7 +3,7 @@ Let $a, b, c$ be elements of a group $G$
 If, $ab = ac$ or $ba = ca$
 	then, $b = c$
 
-[Theorem 1.2](<1.Groups#More on Identity Element#Uniqueness of Identity>)
+[Theorem 1.2](<1.Groups#More on Identity Element:#Uniqueness of Identity>)
 Let $G$ be a group and let $f$ be an element of $G$ such that $f x = x$ for some $x$ in $G$.
 Then, $f = 1_{G}$
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/Theorems.md",
+                "file": "101/MTH101/Group Theory/6.Cosets.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,23 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "09d3f46a55661daf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22f8758d86cd6b94",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Notes/Lecture08.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -110,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/1.Groups.md",
+                "file": "101/MTH101/Group Theory/6.Cosets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/1.Groups.md",
+                "file": "101/MTH101/Group Theory/6.Cosets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/1.Groups.md"
+                "file": "101/MTH101/Group Theory/6.Cosets.md"
               }
             }
           },
@@ -178,17 +194,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c83de4a0a30190f9",
+  "active": "4cc27e2bf145eb05",
   "lastOpenFiles": [
+    "101/MTH101/Notes/Notes/Lecture08.pdf",
+    "101/MTH101/Group Theory/6.Cosets.md",
     "101/MTH101/Group Theory/Theorems.md",
     "101/MTH101/Group Theory/1.Groups.md",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
     "101/MTH101/Group Theory/4.Sub-Groups.md",
     "101/MTH101/Group Theory/3.Isomorphism.md",
-    "101/MTH101/Group Theory/6.Cosets.md",
     "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
     "101/PHY101/Newton Laws.md",
-    "101/BIO101/Cell Biology/Elements, Atoms, and Compounds.md",
-    "books/Campbell Biology Concepts Connections.pdf"
+    "101/BIO101/Cell Biology/Elements, Atoms, and Compounds.md"
   ]
 }
