@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "40e00d313ece82f6",
@@ -110,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -127,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/BIO101/Introduction to Biology/Scientific Study of Life.md",
+                "file": "101/BIO101/Bio Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/BIO101/Introduction to Biology/Scientific Study of Life.md",
+                "file": "101/BIO101/Bio Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/BIO101/Introduction to Biology/Scientific Study of Life.md"
+                "file": "101/BIO101/Bio Course.md"
               }
             }
           },
@@ -195,10 +193,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b687bade99df8ff7",
+  "active": "c43c40731bcb4582",
   "lastOpenFiles": [
-    "101/BIO101/Bio Course.md",
     "101/BIO101/Introduction to Biology/Scientific Study of Life.md",
+    "101/BIO101/Bio Course.md",
     "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
     "101/BIO101/Introduction to Biology/Lifes Heirarchy.md",
     "101/BIO101/Notes/Bio101-Topic 1-.pdf",

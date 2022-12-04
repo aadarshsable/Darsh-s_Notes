@@ -36,6 +36,14 @@ Main goal for such classification is to reflect the evolutionary history and rel
 	 - **Kingdom Fungi** who mostly decompose organic waste and absorb the nutrients into their cells
 	 - **Kingdom Animalia** obtain their food by eating other organisms
 
+### Classifying Species
+
+Species $\rightarrow$ Genus $\rightarrow$ Family $\rightarrow$ Order $\rightarrow$ Class $\rightarrow$ Phylum $\rightarrow$ Kingdom $\rightarrow$ Domain
+
+![[Pasted image 20221204151405.png]]
+
+----------------------------------------
+
 ## In Life's heirarchy of organization, new properties emerge at each level
 
 Biosphere

@@ -20,11 +20,11 @@ Overview: Inquiring About the World of Life
  - [x] Theme: Feedback mechanisms regulate bioligcal systems
 
 #### 1.2 The Core Theme: Evolution accounts for the unity and diversity of life
-- [ ] Organizing the Diversity of Life
-- [ ] Grouping Species: The basic Idea
+- [x] Organizing the Diversity of Life
+- [x] Grouping Species: The basic Idea
 - [x] The Three Domains of Life
 - [ ] Unity in the Diversity of Life
-- [ ] Charles Darwin and Theory of Natural Selection
+- [x] Charles Darwin and Theory of Natural Selection
 - [x] The Tree of Life
 
 #### 1.3 Scientists use two main forms of inquiry in their study of nature (**1.9**)
