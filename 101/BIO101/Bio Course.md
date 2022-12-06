@@ -66,4 +66,13 @@ Overview: The molecule that supports all of life
 - [ ] Insulation of Bodies of Water by Floating Ice
 - [ ] The solvent of LIfe
 - [ ] Hydrophilic and Hydrophobic Substances
+- [ ] Solute of Concentration in Aqueous Solutions
+
+#### Concept 3.3: Acidic and Basic conditions affect living organisms
+
+- [ ] Effects of Chnages in pH
+- [ ] Acids and Bases
+- [ ] The pH Scale
+- [ ] Buffers
+- [ ] Threats to Water Quality on Earth
 - [ ] 
