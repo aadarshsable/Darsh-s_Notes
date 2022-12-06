@@ -30,6 +30,23 @@ Relating to our previous discusion about Iodine, we saw that its a common additi
 - Stratergies for addressing the challenge of iron deficiency include food foritfication, iron supplements and diet diversification and improvement.
 - In US, wheat flour has been fortified with iron since the 1940s, and iron is commonly added to processed foods such as cereal.
 
+***Note***
+	Excess of trace elements may also be sometimes harmful to oneself.
+	For example, Iron deficiency is less likely in elders than iron overload, which can damage organs and may increase the risk of certain diseases.
+	And because of the risk of accidental fatal poisoning in children, warning labels are required on iron supplements.
+
+
+#### Addition of Flourine to Water
+
+Trace elements have also been added to water to improve public health.
+One such element is Flourine.
+American Dental Association has supported flouridation of community drinking water for ages. The CDC listed flouridation as one fo the 10 great publlic health achievements of 20th century
+
+***History*** (***Flourosis***)
+> In the early 1900s, a dentist began searching for the cause of brown-strained teeth (then called colorado brown stain) called ***Flourosis***.
+> He established that the cause as a high concentration of flouride in local water supplies.
+> He also noticed that the stained teeth were correlated with a geatl
+
 
 
 
