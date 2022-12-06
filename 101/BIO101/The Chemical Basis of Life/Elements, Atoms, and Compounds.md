@@ -13,11 +13,11 @@ How many elements are essential for life? For example, Humans need 25 elements, 
    Some effects of iodine deficiency leads to miscarriages, poor growth, and mental impairment. Deficiencies are usually found in inland regions
    as Seafood, kelp, dairy products and dark leafy greens are good natural sources.
    A Global stratergy to eleminate iodine deficiency involves unviersal iodization of all salts.
-   
-   
+
 
 $Q.$ Explain how table salt illustrates the concept of emergent properties
 >The elements that make up the edible crystals of table salt, sodium and chlorine are in pure form a metal and a poisonous gas.
+
 
 -------------------------------------
 
