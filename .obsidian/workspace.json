@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "773667daca1f1e3a",
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
+                "file": "101/BIO101/Bio Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
+                "file": "101/BIO101/Bio Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md"
+                "file": "101/BIO101/Bio Course.md"
               }
             }
           },
@@ -193,10 +192,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5248f7238d5fa8c",
+  "active": "72287dda06c62c27",
   "lastOpenFiles": [
-    "books/Campbell Biology Concepts Connections.pdf",
     "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
+    "books/Campbell Biology Concepts Connections.pdf",
     "101/BIO101/Bio Course.md",
     "101/BIO101/Notes/Bio101-Topic 2.pdf",
     "books/Kleppner - Mechanics.pdf",
