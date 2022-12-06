@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/BIO101/Bio Course.md",
+                "file": "101/BIO101/Introduction to Biology/Scientific Study of Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "773667daca1f1e3a",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/BIO101/Bio Course.md",
+                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/BIO101/Bio Course.md",
+                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/BIO101/Bio Course.md"
+                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md"
               }
             }
           },
@@ -192,17 +193,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72287dda06c62c27",
+  "active": "c5248f7238d5fa8c",
   "lastOpenFiles": [
+    "101/BIO101/Introduction to Biology/Scientific Study of Life.md",
+    "101/BIO101/Introduction to Biology/Lifes Heirarchy.md",
+    "101/BIO101/Bio Course.md",
     "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "books/Campbell Biology Concepts Connections.pdf",
-    "101/BIO101/Bio Course.md",
     "101/BIO101/Notes/Bio101-Topic 2.pdf",
     "books/Kleppner - Mechanics.pdf",
     "Extra/DART.md",
     "101/PHY101/Newton Laws.md",
-    "Excalidraw/Drawing 2022-12-04 23.59.30.excalidraw.md",
-    "books/Solutions To Kleppner.pdf",
-    "101/BIO101/Notes/Bio101-Topic 1-.pdf"
+    "Excalidraw/Drawing 2022-12-04 23.59.30.excalidraw.md"
   ]
 }

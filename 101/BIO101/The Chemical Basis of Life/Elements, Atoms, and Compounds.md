@@ -12,7 +12,8 @@ How many elements are essential for life? For example, Humans need 25 elements, 
  - ***Iodine*** is essential only for vertebrates (Animal with Backbones).
    Some effects of iodine deficiency leads to miscarriages, poor growth, and mental impairment. Deficiencies are usually found in inland regions
    as Seafood, kelp, dairy products and dark leafy greens are good natural sources.
-   A Global stratergy to eleminate iodine deficiency involves unviersal iodization of all salts
+   A Global stratergy to eleminate iodine deficiency involves unviersal iodization of all salts.
+   
    
 
 $Q.$ Explain how table salt illustrates the concept of emergent properties
@@ -21,4 +22,14 @@ $Q.$ Explain how table salt illustrates the concept of emergent properties
 -------------------------------------
 
 ## Trace Elements are common additives to food and water
+
+Relating to our previous discusion about Iodine, we saw that its a common additive in salts, other such exmaple includes **Iron**
+
+##### Iron Deficiency
+ - **Iron** deficiency is the world's most common nutritional disorder.
+- Stratergies for addressing the challenge of iron deficiency include food foritfication, iron supplements and diet diversification and improvement.
+- In US, wheat flour has been fortified with iron since the 1940s, and iron is commonly added to processed foods such as cereal.
+
+
+
 
