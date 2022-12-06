@@ -43,9 +43,18 @@ One such element is Flourine.
 American Dental Association has supported flouridation of community drinking water for ages. The CDC listed flouridation as one fo the 10 great publlic health achievements of 20th century
 
 ***History*** (***Flourosis***)
+
+> Discovery:
 > In the early 1900s, a dentist began searching for the cause of brown-strained teeth (then called colorado brown stain) called ***Flourosis***.
 > He established that the cause as a high concentration of flouride in local water supplies.
-> He also noticed that the stained teeth were correlated with a geatl
+> He also noticed that the stained teeth were correlated with a greatly reduced incidence of cavaties and tooth loss.
+> Later studies showed the flourine was low enough to not cause flourosis but also reduce tooth decay
+> 
+
+----------------------------------------
+
+## Atoms consist of protons, neutrons, and electrons
+
 
 
 
