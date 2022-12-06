@@ -47,3 +47,23 @@ Overview: Inquiring About the World of Life
 
 --------------------------------------
 
+# Cell Biology
+
+Overview: The molecule that supports all of life
+
+#### Concept 3.1: The Polarity of water molecules results in hydrogen bonding
+
+- [ ] Done?
+
+#### Concept 3.2: Four emergent properties of water contribute to Earth's fitness for life
+
+- [ ] Done?
+- [ ] Cohesion
+- [ ] Moderation of Temperature
+- [ ] Heat and Temperature
+- [ ] Water's High Specific Heat
+- [ ] Evaporative Cooling
+- [ ] Insulation of Bodies of Water by Floating Ice
+- [ ] The solvent of LIfe
+- [ ] Hydrophilic and Hydrophobic Substances
+- [ ] 
