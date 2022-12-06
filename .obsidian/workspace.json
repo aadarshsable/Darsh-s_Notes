@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "91771c1cc498e530",
+        "id": "0d33bde5a7c2871c",
         "type": "tabs",
         "children": [
           {
-            "id": "e5a750b4ca32b9df",
+            "id": "bc67116444f624d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Extra/DART.md",
-                "mode": "source",
-                "source": false
+                "file": "books/Kleppner - Mechanics.pdf"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extra/DART.md",
+                "file": "books/Kleppner - Mechanics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extra/DART.md",
+                "file": "books/Kleppner - Mechanics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extra/DART.md"
+                "file": "books/Kleppner - Mechanics.pdf"
               }
             }
           },
@@ -153,8 +152,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5a750b4ca32b9df",
+  "active": "bc67116444f624d3",
   "lastOpenFiles": [
+    "Extra/DART.md",
     "101/PHY101/Newton Laws.md",
     "Excalidraw/Drawing 2022-12-04 23.59.30.excalidraw.md",
     "books/Kleppner - Mechanics.pdf",
@@ -163,7 +163,6 @@
     "101/BIO101/Introduction to Biology/Five Unifying Themes in Biology.md",
     "101/BIO101/Introduction to Biology/Scientific Study of Life.md",
     "101/BIO101/Bio Course.md",
-    "101/BIO101/Introduction to Biology/Lifes Heirarchy.md",
-    "101/CHEM101/To-Do.md"
+    "101/BIO101/Introduction to Biology/Lifes Heirarchy.md"
   ]
 }
