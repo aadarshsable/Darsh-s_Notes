@@ -40,9 +40,29 @@
                 "file": "books/Kleppner - Mechanics.pdf"
               }
             }
+          },
+          {
+            "id": "d702e57ff7aa4f74",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Kleppner - Mechanics.pdf"
+              }
+            }
+          },
+          {
+            "id": "35e7f1a9ace1ebb0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Solutions To Kleppner.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -92,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -109,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "books/Solutions To Kleppner.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "books/Solutions To Kleppner.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf"
+                "file": "books/Solutions To Kleppner.pdf"
               }
             }
           },
@@ -187,17 +206,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2896418c9247cbaf",
+  "active": "35e7f1a9ace1ebb0",
   "lastOpenFiles": [
+    "books/Kleppner - Mechanics.pdf",
+    "books/Solutions To Kleppner.pdf",
     "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "books/Campbell Biology Concepts Connections.pdf",
     "101/BIO101/Introduction to Biology/Scientific Study of Life.md",
     "101/BIO101/Introduction to Biology/Lifes Heirarchy.md",
     "101/BIO101/Bio Course.md",
     "101/BIO101/Notes/Bio101-Topic 2.pdf",
-    "books/Kleppner - Mechanics.pdf",
     "Extra/DART.md",
-    "101/PHY101/Newton Laws.md",
-    "Excalidraw/Drawing 2022-12-04 23.59.30.excalidraw.md"
+    "101/PHY101/Newton Laws.md"
   ]
 }
