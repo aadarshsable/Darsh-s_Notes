@@ -33,22 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "773667daca1f1e3a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fd8b99e6ef3822ae",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "books/Campbell Biology Concepts Connections.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -195,11 +178,11 @@
   },
   "active": "c5248f7238d5fa8c",
   "lastOpenFiles": [
+    "books/Campbell Biology Concepts Connections.pdf",
+    "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "101/BIO101/Introduction to Biology/Scientific Study of Life.md",
     "101/BIO101/Introduction to Biology/Lifes Heirarchy.md",
     "101/BIO101/Bio Course.md",
-    "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
-    "books/Campbell Biology Concepts Connections.pdf",
     "101/BIO101/Notes/Bio101-Topic 2.pdf",
     "books/Kleppner - Mechanics.pdf",
     "Extra/DART.md",
