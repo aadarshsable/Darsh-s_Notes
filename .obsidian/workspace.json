@@ -38,9 +38,29 @@
                 "file": "101/MTH101/Notes/Notes/Lecture11.pdf"
               }
             }
+          },
+          {
+            "id": "1fc7cb62eb2990c2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf"
+              }
+            }
+          },
+          {
+            "id": "6fa52747a2aa7e24",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/PHY101/Papers & Stuff/N3L in EM theory.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -90,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -106,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture11.pdf",
+                "file": "101/PHY101/Papers & Stuff/N3L in EM theory.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture11.pdf",
+                "file": "101/PHY101/Papers & Stuff/N3L in EM theory.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture11.pdf"
+                "file": "101/PHY101/Papers & Stuff/N3L in EM theory.pdf"
               }
             }
           },
@@ -184,8 +205,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35e7f1a9ace1ebb0",
+  "active": "6fa52747a2aa7e24",
   "lastOpenFiles": [
+    "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
+    "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Group Theory/6.Cosets.md",
     "books/Solutions To Kleppner.pdf",
     "books/Kleppner - Mechanics.pdf",
@@ -193,8 +216,6 @@
     "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "books/Campbell Biology Concepts Connections.pdf",
     "101/BIO101/Introduction to Biology/Scientific Study of Life.md",
-    "101/BIO101/Introduction to Biology/Lifes Heirarchy.md",
-    "101/BIO101/Bio Course.md",
-    "101/BIO101/Notes/Bio101-Topic 2.pdf"
+    "101/BIO101/Introduction to Biology/Lifes Heirarchy.md"
   ]
 }
