@@ -35,9 +35,11 @@
             "id": "2896418c9247cbaf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf"
+                "file": "101/MTH101/Group Theory/1.Groups.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -112,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "101/MTH101/Group Theory/1.Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "101/MTH101/Group Theory/1.Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf"
+                "file": "101/MTH101/Group Theory/1.Groups.md"
               }
             }
           },
@@ -209,8 +210,8 @@
   },
   "active": "2896418c9247cbaf",
   "lastOpenFiles": [
-    "books/Solutions To Kleppner.pdf",
     "books/Kleppner - Mechanics.pdf",
+    "books/Solutions To Kleppner.pdf",
     "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "books/Campbell Biology Concepts Connections.pdf",
     "101/BIO101/Introduction to Biology/Scientific Study of Life.md",
