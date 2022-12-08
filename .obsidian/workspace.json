@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "72287dda06c62c27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/BIO101/Introduction to Biology/Scientific Study of Life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5248f7238d5fa8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2896418c9247cbaf",
             "type": "leaf",
             "state": {
@@ -57,14 +33,16 @@
             "id": "35e7f1a9ace1ebb0",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Solutions To Kleppner.pdf"
+                "file": "101/MTH101/Group Theory/6.Cosets.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Solutions To Kleppner.pdf",
+                "file": "101/MTH101/Group Theory/6.Cosets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Solutions To Kleppner.pdf",
+                "file": "101/MTH101/Group Theory/6.Cosets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Solutions To Kleppner.pdf"
+                "file": "101/MTH101/Group Theory/6.Cosets.md"
               }
             }
           },
@@ -210,8 +188,8 @@
   },
   "active": "35e7f1a9ace1ebb0",
   "lastOpenFiles": [
-    "books/Kleppner - Mechanics.pdf",
     "books/Solutions To Kleppner.pdf",
+    "books/Kleppner - Mechanics.pdf",
     "101/MTH101/Group Theory/1.Groups.md",
     "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "books/Campbell Biology Concepts Connections.pdf",
