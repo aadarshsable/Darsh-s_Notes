@@ -43,9 +43,11 @@
             "id": "1fc7cb62eb2990c2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf"
+                "file": "101/MTH101/Group Theory/6.Cosets.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -110,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
+                "file": "101/MTH101/Group Theory/6.Cosets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
+                "file": "101/MTH101/Group Theory/6.Cosets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf"
+                "file": "101/MTH101/Group Theory/6.Cosets.md"
               }
             }
           },
@@ -207,8 +208,8 @@
   },
   "active": "1fc7cb62eb2990c2",
   "lastOpenFiles": [
-    "101/PHY101/Papers & Stuff/N3L in EM theory.pdf",
     "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
+    "101/PHY101/Papers & Stuff/N3L in EM theory.pdf",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Group Theory/6.Cosets.md",
     "books/Solutions To Kleppner.pdf",
