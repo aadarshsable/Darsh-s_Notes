@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
+                "file": "101/MTH101/Notes/Notes/Lecture09.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
+                "file": "101/MTH101/Notes/Notes/Lecture09.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md"
+                "file": "101/MTH101/Notes/Notes/Lecture09.pdf"
               }
             }
           },
@@ -204,8 +203,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05206a88faa87fe2",
+  "active": "d9daf4fab5fe8af8",
   "lastOpenFiles": [
+    "101/MTH101/Group Theory/7.Modular Arthimetic.md",
     "101/MTH101/Notes/Notes/Lecture09.pdf",
     "101/MTH101/Group Theory/6.Cosets.md",
     "101/MTH101/Notes/Notes/Doubts-2 (Smart ones).md",
@@ -214,7 +214,6 @@
     "101/MTH101/Group Theory/3.Isomorphism.md",
     "101/MTH101/Group Theory/2.Symmetry.md",
     "books/Kleppner - Mechanics.pdf",
-    "101/PHY101/Papers & Stuff/N3L in EM theory.pdf",
-    "101/MTH101/Notes/Notes/Lecture11.pdf"
+    "101/PHY101/Papers & Stuff/N3L in EM theory.pdf"
   ]
 }
