@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "59873a3f40ea0900",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf"
-              }
-            }
-          },
-          {
             "id": "05206a88faa87fe2",
             "type": "leaf",
             "state": {
@@ -42,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "eb5d518432d28102",
@@ -57,8 +47,19 @@
                 "file": "101/MTH101/Notes/Notes/Lecture09.pdf"
               }
             }
+          },
+          {
+            "id": "59873a3f40ea0900",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
