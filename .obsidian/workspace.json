@@ -55,9 +55,11 @@
             "id": "59873a3f40ea0900",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf"
+                "file": "101/MTH101/Group Theory/2.Symmetry.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -138,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
+                "file": "101/MTH101/Group Theory/2.Symmetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
+                "file": "101/MTH101/Group Theory/2.Symmetry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf"
+                "file": "101/MTH101/Group Theory/2.Symmetry.md"
               }
             }
           },
@@ -218,15 +220,15 @@
   },
   "active": "59873a3f40ea0900",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/6.Cosets.md",
+    "101/MTH101/Group Theory/3.Isomorphism.md",
+    "101/MTH101/Group Theory/4.Sub-Groups.md",
     "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
+    "101/MTH101/Group Theory/6.Cosets.md",
     "101/PHY101/Papers & Stuff/N3L in EM theory.pdf",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
     "books/Solutions To Kleppner.pdf",
     "books/Kleppner - Mechanics.pdf",
     "101/MTH101/Group Theory/1.Groups.md",
-    "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
-    "books/Campbell Biology Concepts Connections.pdf",
-    "101/BIO101/Introduction to Biology/Scientific Study of Life.md"
+    "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md"
   ]
 }
