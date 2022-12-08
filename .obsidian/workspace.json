@@ -28,6 +28,35 @@
                 "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf"
               }
             }
+          },
+          {
+            "id": "05206a88faa87fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "eb5d518432d28102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9daf4fab5fe8af8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Notes/Lecture09.pdf"
+              }
+            }
           }
         ]
       }
@@ -95,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/6.Cosets.md",
+                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/6.Cosets.md",
+                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/6.Cosets.md"
+                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md"
               }
             }
           },
@@ -173,17 +202,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1fc7cb62eb2990c2",
+  "active": "05206a88faa87fe2",
   "lastOpenFiles": [
-    "101/MTH101/Notes/Notes/Doubts-2 (Smart ones).md",
+    "101/MTH101/Notes/Notes/Lecture09.pdf",
     "101/MTH101/Group Theory/6.Cosets.md",
+    "101/MTH101/Notes/Notes/Doubts-2 (Smart ones).md",
     "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
     "101/MTH101/Group Theory/4.Sub-Groups.md",
     "101/MTH101/Group Theory/3.Isomorphism.md",
     "101/MTH101/Group Theory/2.Symmetry.md",
     "books/Kleppner - Mechanics.pdf",
     "101/PHY101/Papers & Stuff/N3L in EM theory.pdf",
-    "101/MTH101/Notes/Notes/Lecture11.pdf",
-    "books/Solutions To Kleppner.pdf"
+    "101/MTH101/Notes/Notes/Lecture11.pdf"
   ]
 }
