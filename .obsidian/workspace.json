@@ -58,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
+                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
+                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md"
+                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf"
               }
             }
           },
@@ -203,10 +204,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05206a88faa87fe2",
+  "active": "59873a3f40ea0900",
   "lastOpenFiles": [
-    "101/MTH101/Notes/Notes/Lecture09.pdf",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
+    "101/MTH101/Notes/Notes/Lecture09.pdf",
     "101/MTH101/Group Theory/6.Cosets.md",
     "101/MTH101/Notes/Notes/Doubts-2 (Smart ones).md",
     "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
