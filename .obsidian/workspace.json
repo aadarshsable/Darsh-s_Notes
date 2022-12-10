@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/notes.md",
+                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "6b49521e044252e1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/MTH101/Notes/Tutorials/ProblemSet1.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e7b94e836e3cd81f",
@@ -112,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/ProblemSet1.pdf",
+                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/ProblemSet1.pdf",
+                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/ProblemSet1.pdf"
+                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md"
               }
             }
           },
@@ -190,13 +179,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b49521e044252e1",
+  "active": "05206a88faa87fe2",
   "lastOpenFiles": [
     "101/MTH101/Notes/Tutorials/notes.md",
+    "101/MTH101/Notes/Tutorials/ProblemSet1.pdf",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
     "101/MTH101/data/Images/Pasted image 20221204141901.png",
     "101/MTH101/Notes/Notes/Lecture09.pdf",
-    "101/MTH101/Notes/Tutorials/ProblemSet1.pdf",
     "101/MTH101/Group Theory/3.Isomorphism.md",
     "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
     "101/MTH101/Group Theory/6.Cosets.md",
