@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "07b29527f883347f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Notes/Lecture10.pdf"
+              }
+            }
+          },
+          {
             "id": "1db5cd33baa4e3c6",
             "type": "leaf",
             "state": {
@@ -104,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -121,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "101/MTH101/Notes/Notes/Lecture10.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf",
+                "file": "101/MTH101/Notes/Notes/Lecture10.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Kleppner - Mechanics.pdf"
+                "file": "101/MTH101/Notes/Notes/Lecture10.pdf"
               }
             }
           },
@@ -199,17 +208,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1db5cd33baa4e3c6",
+  "active": "07b29527f883347f",
   "lastOpenFiles": [
     "101/MTH101/Group Theory/8.Cyclic Groups.md",
+    "101/BIO101/Bio Course.md",
+    "books/Kleppner - Mechanics.pdf",
     "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "101/MTH101/Group Theory/4.Sub-Groups.md",
     "books/Campbell Biology Concepts Connections.pdf",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Notes/Tutorials/notes.md",
-    "101/MTH101/Notes/Tutorials/ProblemSet1.pdf",
-    "101/MTH101/data/Images/Pasted image 20221204141901.png",
-    "101/MTH101/Notes/Notes/Lecture09.pdf"
+    "101/MTH101/Notes/Tutorials/ProblemSet1.pdf"
   ]
 }
