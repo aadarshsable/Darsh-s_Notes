@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "07b29527f883347f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture10.pdf"
-              }
-            }
-          },
-          {
             "id": "1db5cd33baa4e3c6",
             "type": "leaf",
             "state": {
@@ -64,7 +54,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "d7aa50c484d286b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07b29527f883347f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Notes/Lecture10.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
