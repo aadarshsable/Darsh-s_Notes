@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
+                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
+                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
+                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md"
+                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md"
               }
             }
           },
@@ -217,6 +218,7 @@
   },
   "active": "e4fcd4afb5308f47",
   "lastOpenFiles": [
+    "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "101/MTH101/Group Theory/8.Cyclic Groups.md",
     "101/MTH101/Group Theory/4.Sub-Groups.md",
     "books/Campbell Biology Concepts Connections.pdf",
@@ -225,7 +227,6 @@
     "101/MTH101/Notes/Tutorials/notes.md",
     "101/MTH101/Notes/Tutorials/ProblemSet1.pdf",
     "101/MTH101/data/Images/Pasted image 20221204141901.png",
-    "101/MTH101/Notes/Notes/Lecture09.pdf",
-    "101/MTH101/Group Theory/3.Isomorphism.md"
+    "101/MTH101/Notes/Notes/Lecture09.pdf"
   ]
 }
