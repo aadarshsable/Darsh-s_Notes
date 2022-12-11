@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4fcd4afb5308f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e7b94e836e3cd81f",
@@ -96,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
+                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
+                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md"
+                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md"
               }
             }
           },
@@ -191,10 +203,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "05206a88faa87fe2",
+  "active": "e4fcd4afb5308f47",
   "lastOpenFiles": [
-    "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
+    "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Notes/Tutorials/notes.md",
     "101/MTH101/Notes/Tutorials/ProblemSet1.pdf",
     "101/MTH101/data/Images/Pasted image 20221204141901.png",
