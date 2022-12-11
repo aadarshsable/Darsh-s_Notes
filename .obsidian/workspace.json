@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "102bf9f9a0b0b418",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Campbell Biology Concepts Connections.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "e7b94e836e3cd81f",
@@ -125,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
+                "file": "books/Campbell Biology Concepts Connections.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
+                "file": "books/Campbell Biology Concepts Connections.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md"
+                "file": "books/Campbell Biology Concepts Connections.pdf"
               }
             }
           },
@@ -203,8 +213,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e4fcd4afb5308f47",
+  "active": "102bf9f9a0b0b418",
   "lastOpenFiles": [
+    "101/MTH101/Group Theory/8.Cyclic Groups.md",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Notes/Tutorials/notes.md",
@@ -213,7 +224,6 @@
     "101/MTH101/Notes/Notes/Lecture09.pdf",
     "101/MTH101/Group Theory/3.Isomorphism.md",
     "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
-    "101/MTH101/Group Theory/6.Cosets.md",
-    "101/MTH101/Notes/Notes/Doubts-2 (Smart ones).md"
+    "101/MTH101/Group Theory/6.Cosets.md"
   ]
 }
