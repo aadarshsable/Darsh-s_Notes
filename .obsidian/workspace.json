@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1f7b1a1946e85572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/MTH101/Group Theory/4.Sub-Groups.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "e7b94e836e3cd81f",
@@ -109,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -126,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
+                "file": "101/MTH101/Group Theory/4.Sub-Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
+                "file": "101/MTH101/Group Theory/4.Sub-Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md"
+                "file": "101/MTH101/Group Theory/4.Sub-Groups.md"
               }
             }
           },
@@ -204,10 +215,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e4fcd4afb5308f47",
+  "active": "1f7b1a1946e85572",
   "lastOpenFiles": [
-    "books/Campbell Biology Concepts Connections.pdf",
     "101/MTH101/Group Theory/8.Cyclic Groups.md",
+    "books/Campbell Biology Concepts Connections.pdf",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Notes/Tutorials/notes.md",
