@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "1db5cd33baa4e3c6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Kleppner - Mechanics.pdf"
+              }
+            }
+          },
+          {
             "id": "1f7b1a1946e85572",
             "type": "leaf",
             "state": {
@@ -44,34 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "e7b94e836e3cd81f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fd41c942ca1a28c1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture09.pdf"
-              }
-            }
-          },
-          {
-            "id": "4544ce8e3625ba75",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture10.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
+                "file": "books/Kleppner - Mechanics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
+                "file": "books/Kleppner - Mechanics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md"
+                "file": "books/Kleppner - Mechanics.pdf"
               }
             }
           },
@@ -216,10 +199,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e4fcd4afb5308f47",
+  "active": "1db5cd33baa4e3c6",
   "lastOpenFiles": [
-    "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "101/MTH101/Group Theory/8.Cyclic Groups.md",
+    "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "101/MTH101/Group Theory/4.Sub-Groups.md",
     "books/Campbell Biology Concepts Connections.pdf",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
