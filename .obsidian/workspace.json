@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
+                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
+                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
+                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md"
+                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md"
               }
             }
           },
@@ -218,8 +217,8 @@
   },
   "active": "e4fcd4afb5308f47",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/4.Sub-Groups.md",
     "101/MTH101/Group Theory/8.Cyclic Groups.md",
+    "101/MTH101/Group Theory/4.Sub-Groups.md",
     "books/Campbell Biology Concepts Connections.pdf",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
