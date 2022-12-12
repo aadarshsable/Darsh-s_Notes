@@ -52,6 +52,16 @@
             }
           },
           {
+            "id": "a009bb4381a9279f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/PHY101/Papers & Stuff/MID-SEM Solution.pdf"
+              }
+            }
+          },
+          {
             "id": "1f7b1a1946e85572",
             "type": "leaf",
             "state": {
@@ -64,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -131,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/PHY101/Papers & Stuff/MidsemExam2022Locked.pdf",
+                "file": "101/PHY101/Papers & Stuff/MID-SEM Solution.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/PHY101/Papers & Stuff/MidsemExam2022Locked.pdf",
+                "file": "101/PHY101/Papers & Stuff/MID-SEM Solution.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/PHY101/Papers & Stuff/MidsemExam2022Locked.pdf"
+                "file": "101/PHY101/Papers & Stuff/MID-SEM Solution.pdf"
               }
             }
           },
@@ -209,8 +218,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "55deb759bdccc29d",
+  "active": "a009bb4381a9279f",
   "lastOpenFiles": [
+    "101/PHY101/Papers & Stuff/MidsemExam2022Locked.pdf",
     "books/Kleppner - Mechanics.pdf",
     "101/MTH101/Group Theory/8.Cyclic Groups.md",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
@@ -219,7 +229,6 @@
     "101/MTH101/Group Theory/4.Sub-Groups.md",
     "books/Campbell Biology Concepts Connections.pdf",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
-    "101/MTH101/Notes/Tutorials/notes.md",
-    "101/MTH101/Notes/Tutorials/ProblemSet1.pdf"
+    "101/MTH101/Notes/Tutorials/notes.md"
   ]
 }
