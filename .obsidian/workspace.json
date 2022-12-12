@@ -42,6 +42,16 @@
             }
           },
           {
+            "id": "55deb759bdccc29d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/PHY101/Papers & Stuff/MidsemExam2022Locked.pdf"
+              }
+            }
+          },
+          {
             "id": "1f7b1a1946e85572",
             "type": "leaf",
             "state": {
@@ -54,23 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "d7aa50c484d286b7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "07b29527f883347f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture10.pdf"
-              }
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
+                "file": "101/PHY101/Papers & Stuff/MidsemExam2022Locked.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
+                "file": "101/PHY101/Papers & Stuff/MidsemExam2022Locked.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md"
+                "file": "101/PHY101/Papers & Stuff/MidsemExam2022Locked.pdf"
               }
             }
           },
@@ -215,12 +209,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e4fcd4afb5308f47",
+  "active": "55deb759bdccc29d",
   "lastOpenFiles": [
-    "101/MTH101/Notes/Notes/Lecture10.pdf",
-    "101/MTH101/Group Theory/8.Cyclic Groups.md",
-    "101/BIO101/Bio Course.md",
     "books/Kleppner - Mechanics.pdf",
+    "101/MTH101/Group Theory/8.Cyclic Groups.md",
+    "101/MTH101/Notes/Notes/Lecture10.pdf",
+    "101/BIO101/Bio Course.md",
     "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "101/MTH101/Group Theory/4.Sub-Groups.md",
     "books/Campbell Biology Concepts Connections.pdf",
