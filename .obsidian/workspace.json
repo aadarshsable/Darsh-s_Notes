@@ -18,26 +18,31 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "1df984a161e5a7b1",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "9aa9a580ee6192a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/0.Theorems.md",
+                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "24afc1ebe7a7e49d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Notes/Lecture10.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/0.Theorems.md",
+                "file": "101/MTH101/Notes/Notes/Lecture10.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/0.Theorems.md",
+                "file": "101/MTH101/Notes/Notes/Lecture10.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/0.Theorems.md"
+                "file": "101/MTH101/Notes/Notes/Lecture10.pdf"
               }
             }
           },
@@ -181,15 +186,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9aa9a580ee6192a0",
+  "active": "24afc1ebe7a7e49d",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/4.Sub-Groups.md",
+    "101/MTH101/Group Theory/8.Cyclic Groups.md",
     "101/MTH101/Group Theory/0.Theorems.md",
+    "101/MTH101/Group Theory/4.Sub-Groups.md",
     "101/MTH101/Group Theory/3.Isomorphism.md",
     "101/MTH101/Group Theory/2.Symmetry.md",
     "101/MTH101/data/Cases for n-gon Symmetry.md",
     "101/MTH101/Group Theory/1.Groups.md",
-    "101/MTH101/Group Theory/8.Cyclic Groups.md",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
     "books/Kleppner - Mechanics.pdf"
