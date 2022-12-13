@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7432e5849fdf3db4",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
+                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
+                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md"
+                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md"
               }
             }
           },
@@ -216,17 +217,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35f7a9fc9e82c456",
+  "active": "cb1a7ca62fa0d926",
   "lastOpenFiles": [
+    "101/MTH101/Group Theory/0.Theorems.md",
+    "101/MTH101/Group Theory/9.Cyclic Groups.md",
+    "101/MTH101/Group Theory/7.Modular Arthimetic.md",
     "101/MTH101/Group Theory/4.Sub-Groups.md",
     "101/MTH101/Group Theory/8.Subset of Subgroups.md",
-    "101/MTH101/Group Theory/9.Cyclic Groups.md",
-    "101/MTH101/Group Theory/0.Theorems.md",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Group Theory/3.Isomorphism.md",
     "101/MTH101/Group Theory/2.Symmetry.md",
     "101/MTH101/data/Cases for n-gon Symmetry.md",
-    "101/MTH101/Group Theory/1.Groups.md",
-    "101/MTH101/Group Theory/7.Modular Arthimetic.md"
+    "101/MTH101/Group Theory/1.Groups.md"
   ]
 }
