@@ -55,7 +55,12 @@ American Dental Association has supported flouridation of community drinking wat
 
 ## Atoms consist of protons, neutrons, and electrons
 
+stoooopid
+i like sucking balls :3
+it's a hobby */./*
+------
 
+## Radioactive Isotopes ca
 
 
 

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
+                "file": "101/BIO101/Bio Course.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,16 +47,16 @@
         "currentTab": 2
       },
       {
-        "id": "7432e5849fdf3db4",
+        "id": "981c100ef169fff3",
         "type": "tabs",
         "children": [
           {
-            "id": "24afc1ebe7a7e49d",
+            "id": "3479a78a4a728225",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture10.pdf"
+                "file": "books/Campbell Biology Concepts Connections.pdf"
               }
             }
           }
@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
+                "file": "101/BIO101/Bio Course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
+                "file": "101/BIO101/Bio Course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md"
+                "file": "101/BIO101/Bio Course.md"
               }
             }
           },
@@ -207,15 +206,15 @@
   },
   "active": "cb1a7ca62fa0d926",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/8.Subset of Subgroups.md",
+    "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
+    "books/Campbell Biology Concepts Connections.pdf",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
+    "101/MTH101/Group Theory/8.Subset of Subgroups.md",
     "101/MTH101/Group Theory/6.Cosets.md",
     "101/MTH101/Group Theory/0.Theorems.md",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
     "101/MTH101/Group Theory/4.Sub-Groups.md",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
-    "101/MTH101/Group Theory/3.Isomorphism.md",
-    "101/MTH101/Group Theory/2.Symmetry.md",
-    "101/MTH101/data/Cases for n-gon Symmetry.md"
+    "101/MTH101/Group Theory/3.Isomorphism.md"
   ]
 }
