@@ -58,9 +58,14 @@ American Dental Association has supported flouridation of community drinking wat
 stoooopid
 i like sucking balls :3
 it's a hobby */./*
+
 ------
 
-## Radioactive Isotopes ca
+## Radioactive Isotopes can help or harm us
+
+Radioactive elements are useful as tracers
+
+
 
 
 
