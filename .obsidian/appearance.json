@@ -4,5 +4,6 @@
   "baseFontSize": 19,
   "nativeMenus": true,
   "translucency": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "monospaceFontFamily": "Cascadia Mono"
 }
