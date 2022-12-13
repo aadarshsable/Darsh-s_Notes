@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/3.Isomorphism.md",
+                "file": "101/MTH101/Group Theory/4.Sub-Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/0.Theorems.md",
+                "file": "101/MTH101/Group Theory/4.Sub-Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/0.Theorems.md",
+                "file": "101/MTH101/Group Theory/4.Sub-Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/0.Theorems.md"
+                "file": "101/MTH101/Group Theory/4.Sub-Groups.md"
               }
             }
           },
@@ -181,17 +181,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9aa9a580ee6192a0",
+  "active": "35f7a9fc9e82c456",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/3.Isomorphism.md",
     "101/MTH101/Group Theory/0.Theorems.md",
+    "101/MTH101/Group Theory/4.Sub-Groups.md",
+    "101/MTH101/Group Theory/3.Isomorphism.md",
     "101/MTH101/Group Theory/2.Symmetry.md",
     "101/MTH101/data/Cases for n-gon Symmetry.md",
     "101/MTH101/Group Theory/1.Groups.md",
     "101/MTH101/Group Theory/8.Cyclic Groups.md",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
-    "books/Kleppner - Mechanics.pdf",
-    "101/PHY101/Papers & Stuff/MidsemExam2022Locked.pdf"
+    "books/Kleppner - Mechanics.pdf"
   ]
 }
