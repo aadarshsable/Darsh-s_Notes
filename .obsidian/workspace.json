@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/8.Cyclic Groups.md",
+                "file": "101/MTH101/Group Theory/8.Subset of Subgroups.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "7432e5849fdf3db4",
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/0.Theorems.md",
+                "file": "101/MTH101/Group Theory/8.Subset of Subgroups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/0.Theorems.md",
+                "file": "101/MTH101/Group Theory/8.Subset of Subgroups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/0.Theorems.md"
+                "file": "101/MTH101/Group Theory/8.Subset of Subgroups.md"
               }
             }
           },
@@ -205,10 +205,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb38b1c9cae76e7b",
+  "active": "9aa9a580ee6192a0",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/8.Cyclic Groups.md",
     "101/MTH101/Group Theory/0.Theorems.md",
+    "101/MTH101/Group Theory/8.Subset of Subgroups.md",
     "101/MTH101/Group Theory/4.Sub-Groups.md",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Group Theory/3.Isomorphism.md",
