@@ -61,10 +61,6 @@ it's a hobby */./*
 
 ------
 
-## Radioactive Isotopes can help or harm us
-
-Radioactive elements are useful as tracers
-
 
 
 
