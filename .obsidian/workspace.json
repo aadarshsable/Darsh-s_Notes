@@ -118,8 +118,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -265,11 +265,11 @@
   },
   "active": "0f5a5694448785d7",
   "lastOpenFiles": [
+    "101/MTH101/Notes/Notes/Lecture11.pdf",
+    "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Group Theory/0.Theorems.md",
     "101/MTH101/Group Theory/8.Subset of Subgroups.md",
-    "101/MTH101/Group Theory/9.Cyclic Groups.md",
-    "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
     "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "101/BIO101/Bio Course.md",
