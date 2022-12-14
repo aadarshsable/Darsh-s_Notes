@@ -21,3 +21,7 @@ Now lets try to understand this with the help of an example
 
 Check the cyclicity of $U(27)$ and find all its generators
 
+From Eulers Function ($\phi$) tells us how many elements $U(27)$ will have 
+
+First we check for Cyclicity
+To check without our theorem, we take one element and raise it to the powers of 
