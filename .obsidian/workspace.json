@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "981c100ef169fff3",
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/Cool Stuff.md",
+                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/Cool Stuff.md",
+                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/Cool Stuff.md"
+                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md"
               }
             }
           },
@@ -274,10 +274,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1cae1d26bd480085",
+  "active": "0f5a5694448785d7",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/MTH101/Group Theory/Cool Stuff.md",
+    "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/MTH101/Notes/Notes/Lecture13.pdf",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
     "101/MTH101/Group Theory/8.Subset of Subgroups.md",
