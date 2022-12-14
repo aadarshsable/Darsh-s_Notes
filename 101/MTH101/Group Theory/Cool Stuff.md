@@ -35,4 +35,13 @@ Lets do this for the element $2$ of $U(27)$
 Haven't written till $18$ but if we check for $\bar{2}^{18}=1$
 Meaning $\bar{2}$ is a generator of $U(27)$
 
-By our **Theorem** 
+By our **Primitive root modulo m** we can just tell that $\bar{2}$ will be a generator
+
+Now that we have a generator we can use **Theorem** to get other generators
+
+Raise $\bar{2}$ to the powers of $R$
+$$
+\begin{align}
+\bar{2^{5}}&= \overline{128} = 
+\end{align}
+$$
