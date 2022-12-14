@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "d20d25263c3ccdda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/MTH101/Group Theory/0.Theorems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0f5a5694448785d7",
             "type": "leaf",
             "state": {
@@ -80,32 +92,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "981c100ef169fff3",
         "type": "tabs",
         "children": [
-          {
-            "id": "3479a78a4a728225",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "books/Campbell Biology Concepts Connections.pdf"
-              }
-            }
-          },
-          {
-            "id": "18d459443cf80c40",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture10.pdf"
-              }
-            }
-          },
           {
             "id": "b01cdf58ba9af0ec",
             "type": "leaf",
@@ -116,8 +108,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,15 +254,15 @@
   },
   "active": "0f5a5694448785d7",
   "lastOpenFiles": [
+    "101/MTH101/Group Theory/0.Theorems.md",
+    "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
-    "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
     "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "101/BIO101/Bio Course.md",
     "books/Campbell Biology Concepts Connections.pdf",
     "101/MTH101/Group Theory/8.Subset of Subgroups.md",
-    "101/MTH101/Group Theory/6.Cosets.md",
-    "101/MTH101/Group Theory/0.Theorems.md"
+    "101/MTH101/Group Theory/6.Cosets.md"
   ]
 }
