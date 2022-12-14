@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "b9db589c61796212",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "20442553e90b31d1",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "981c100ef169fff3",
@@ -168,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -185,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
+                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
+                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md"
+                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md"
               }
             }
           },
@@ -263,17 +274,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f5a5694448785d7",
+  "active": "b9db589c61796212",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/0.Theorems.md",
+    "101/MTH101/Group Theory/6.Cosets.md",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
+    "101/MTH101/Group Theory/0.Theorems.md",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Group Theory/8.Subset of Subgroups.md",
     "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
     "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "101/BIO101/Bio Course.md",
-    "books/Campbell Biology Concepts Connections.pdf",
-    "101/MTH101/Group Theory/6.Cosets.md"
+    "books/Campbell Biology Concepts Connections.pdf"
   ]
 }
