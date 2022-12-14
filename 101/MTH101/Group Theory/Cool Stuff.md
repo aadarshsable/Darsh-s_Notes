@@ -42,6 +42,10 @@ Now that we have a generator we can use **Theorem** to get other generators
 Raise $\bar{2}$ to the powers of $R$
 $$
 \begin{align}
-\bar{2^{5}}&= \overline{128} = 
+\bar{2^{5}}&= \overline{32} = \overline{5}\\
+\bar{2}^{7} &= \overline{128} = \overline{20}\\
+&\text{and so on....}
 \end{align}
 $$
+Thus our generators comes out to be 
+$\bar{2}, \bar{5}, \overline{11}, \{}$
