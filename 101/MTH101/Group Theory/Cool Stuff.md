@@ -21,7 +21,12 @@ Now lets try to understand this with the help of an example
 
 Check the cyclicity of $U(27)$ and find all its generators
 
-From Eulers Function ($\phi$) tells us how many elements $U(27)$ will have 
+From Eulers Function ($\phi$) tells us how many elements $U(27)$ will have $18$ elements lets denote it by $W$
+Meaning order of the group $U(27)$ will be $18$
+Thus using Langrange's Theorem we can say the element $a$ will have the order $R = \{1,5,7,11,13,18\}$
+
 
 First we check for Cyclicity
-To check without our theorem, we take one element and raise it to the powers of 
+To check without our theorem, we take one element from $W$ and raise it to the powers of $R$ 
+Then, if any element say $a^{n} =1$ once then the group $U(m)$ is Cyclic
+Lets do 
