@@ -1,3 +1,4 @@
 ## Finding If a Group is Cyclic
 
-#### Primitive root 
+#### Primitive root modulo m
+
