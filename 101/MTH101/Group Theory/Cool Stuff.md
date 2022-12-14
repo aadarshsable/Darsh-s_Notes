@@ -29,4 +29,10 @@ Thus using Langrange's Theorem we can say the element $a$ will have the order $R
 First we check for Cyclicity
 To check without our theorem, we take one element from $W$ and raise it to the powers of $R$ 
 Then, if any element say $a^{n} =1$ once then the group $U(m)$ is Cyclic
-Lets do 
+Lets do this for the element $2$ of $U(27)$
+
+![[Pasted image 20221214225856.png]]
+Haven't written till $18$ but if we check for $\bar{2}^{18}=1$
+Meaning $\bar{2}$ is a generator of $U(27)$
+
+By our **Theorem** 
