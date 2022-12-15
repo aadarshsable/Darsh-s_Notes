@@ -23,7 +23,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "books/Alen Hadzovic, Duward Shriver, Mark Weller, Tina Overton, Jonathan Rourke, Fraser Armstrong - Solutions Manual for Inorganic Chemistry [Shriver’s Inorganic Chemistry, 6e]-W. H. Freeman (2014).pdf"
+                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Alen Hadzovic, Duward Shriver, Mark Weller, Tina Overton, Jonathan Rourke, Fraser Armstrong - Solutions Manual for Inorganic Chemistry [Shriver’s Inorganic Chemistry, 6e]-W. H. Freeman (2014).pdf",
+                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Alen Hadzovic, Duward Shriver, Mark Weller, Tina Overton, Jonathan Rourke, Fraser Armstrong - Solutions Manual for Inorganic Chemistry [Shriver’s Inorganic Chemistry, 6e]-W. H. Freeman (2014).pdf",
+                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Alen Hadzovic, Duward Shriver, Mark Weller, Tina Overton, Jonathan Rourke, Fraser Armstrong - Solutions Manual for Inorganic Chemistry [Shriver’s Inorganic Chemistry, 6e]-W. H. Freeman (2014).pdf"
+                "file": "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf"
               }
             }
           },
@@ -174,6 +174,7 @@
   },
   "active": "136d798c2544d8c7",
   "lastOpenFiles": [
+    "books/Alen Hadzovic, Duward Shriver, Mark Weller, Tina Overton, Jonathan Rourke, Fraser Armstrong - Solutions Manual for Inorganic Chemistry [Shriver’s Inorganic Chemistry, 6e]-W. H. Freeman (2014).pdf",
     "books/B Sury - Group Theory_ Selected Problems.pdf",
     "101/CHEM101/Notes/CHM101_7th class.pdf",
     "101/CHEM101/Notes/chm101_2nd and 3rd class.pdf",
@@ -182,7 +183,6 @@
     "101/MTH101/Group Theory/Cool Stuff.md",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/MTH101/Group Theory/0.Theorems.md",
-    "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
-    "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md"
+    "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md"
   ]
 }
