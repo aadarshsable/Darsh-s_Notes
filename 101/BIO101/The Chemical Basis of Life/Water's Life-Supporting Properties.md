@@ -79,6 +79,21 @@ A substance that donates hydrogen ions to solutions
 #### Base
 A substance that reduces the hydrogen ions concentration of a solution. 
 
+A Human body has a pH of $7.4$
+A person cant survive for than a few minutes if the blood pH drops to $7.0$ or rises to $7.8$
 
+A ***Buffer*** minimizes the changes in pH by accepting $H^{+}$ when it is in excess and donating $H^{+}$ when it is depleted.
+
+----
+
+## Scientists study the effects of rising atmospheric $CO_{2}$ on coral reef ecosystems
+
+#### Ocean Acidification
+$CO_{2}$ dissolving in seawater lowers the pH of the ocean.
+currently the ocean pH is about $8.1$ and will drop $0.3-0.5$ by end of century
+
+#### Calcification
+Coral animals combining calcium and carbonate ions to form their calcium carbonate skeletons. As seawater acidifies, the extra hydrogen ions combine with the carbonate ions ($CO_{3}^{2-}$) to form bicarbonate ions
+This reactions reduces the carbonate ion concentration available to corals and other shell-nuilding animals
 
 
