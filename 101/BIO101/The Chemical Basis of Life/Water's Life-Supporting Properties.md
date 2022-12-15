@@ -60,7 +60,25 @@ $Q.$ Explain how freezing water can crack boulders
 
 Water's versatility as a solvent results from the polarity of its molecules.
 A compound doesnt need to be ionic to dissolbe in water. 
-A spoonful of sugar will also dissolve in a glass of water.
+A spoonful of sugar will also dissolve in a glass of water. Polar molecules such as sugar dissolve as water molecules surround them and form hydrogen bonds with their polar regions.
+
+
+$Q.$ Why are blood and most other biological fluids classified as aqueous solutions?
+> The solvent in these fuild is water   
+   (uh what????)
+
+-----
+## The chemistry of life is sensitive to acidic and basic conditions
+
+In Liquid water, a very small percentage of the water molecules dissociate or break apart into hydrogen ions ( $H^{+} \:\:\text{and} \:\:OH^{-}$) 
+These ions are very reactive, and changes in their concentration can drastically affect a cell's proteins and other complex molecules.
+
+#### Acid
+A substance that donates hydrogen ions to solutions
+
+#### Base
+A substance that reduces the hydrogen ions concentration of a solution. 
+
 
 
 
