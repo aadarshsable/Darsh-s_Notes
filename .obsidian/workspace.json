@@ -4,31 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cd5cab3eedc41cdb",
+        "id": "0ff15622bb0794ec",
         "type": "tabs",
         "children": [
           {
-            "id": "dd992b41c45df6e6",
+            "id": "c2f1b9f0c13a765d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "books/Arthur Israel Vogel - A Text-Book of Practical Organic Chemistry Including Qualitative Organic Analysis-Longman (1974) (1).pdf"
-              }
-            }
-          },
-          {
-            "id": "a15e199485430c65",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "books/Arthur Israel Vogel - A Text-Book of Practical Organic Chemistry Including Qualitative Organic Analysis-Longman (1974) (1).pdf"
+                "file": "101/CHEM101/Notes/chm101_2nd and 3rd class.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -95,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Arthur Israel Vogel - A Text-Book of Practical Organic Chemistry Including Qualitative Organic Analysis-Longman (1974) (1).pdf",
+                "file": "101/CHEM101/Notes/chm101_2nd and 3rd class.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Arthur Israel Vogel - A Text-Book of Practical Organic Chemistry Including Qualitative Organic Analysis-Longman (1974) (1).pdf",
+                "file": "101/CHEM101/Notes/chm101_2nd and 3rd class.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Arthur Israel Vogel - A Text-Book of Practical Organic Chemistry Including Qualitative Organic Analysis-Longman (1974) (1).pdf"
+                "file": "101/CHEM101/Notes/chm101_2nd and 3rd class.pdf"
               }
             }
           },
@@ -173,7 +161,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a15e199485430c65",
+  "active": "c2f1b9f0c13a765d",
   "lastOpenFiles": [
     "books/Arthur Israel Vogel - A Text-Book of Practical Organic Chemistry Including Qualitative Organic Analysis-Longman (1974) (1).pdf",
     "101/BIO101/Bio Course.md",
