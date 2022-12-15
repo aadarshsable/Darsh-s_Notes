@@ -19,6 +19,8 @@ $Q.$ After a hard workout, you may notice “beads” of sweat on your face. Can
 >The Cohesion of water molecules and its high surface tension hold water in droplets. The Adhesion of water to your skin helps hold the beads in place
 
 
+----
+
 ## Water's Hydrogen bonds moderate Temperature
 
 ***Thermal Energy:*** 
@@ -46,4 +48,10 @@ $Q.$ Explain the popular adage, "It's not the heat, it's the humidity."
 
 Water is less dense in solid state than in liquid due to Hydrogen-Bonds
 Ice has a relatively loosely packed structure than water
-i.e, t
+i.e, The ice crystal has fewer molecules than an equal volume of liquid water.
+
+This also explains why the whole oceons dont freeze up and only the top layer freezes
+
+$Q.$ 
+
+
