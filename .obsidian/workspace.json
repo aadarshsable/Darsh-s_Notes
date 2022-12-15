@@ -4,130 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e6051ab8421f29b5",
+        "id": "cd5cab3eedc41cdb",
         "type": "tabs",
         "children": [
           {
-            "id": "35f7a9fc9e82c456",
+            "id": "dd992b41c45df6e6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/MTH101/Group Theory/7.Modular Arthimetic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9aa9a580ee6192a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/MTH101/Group Theory/8.Subset of Subgroups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb1a7ca62fa0d926",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33f39ae70e83f80f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d20d25263c3ccdda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/MTH101/Group Theory/0.Theorems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f5a5694448785d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cae1d26bd480085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/MTH101/Group Theory/Cool Stuff.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20442553e90b31d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/BIO101/Bio Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 5
-      },
-      {
-        "id": "981c100ef169fff3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b01cdf58ba9af0ec",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture11.pdf"
-              }
-            }
-          },
-          {
-            "id": "b001e6099f8a7339",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture10.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -196,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md"
-              }
+              "state": {}
             }
           },
           {
@@ -274,17 +155,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f5a5694448785d7",
+  "active": "dd992b41c45df6e6",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/8.Subset of Subgroups.md",
-    "101/MTH101/Group Theory/9.Cyclic Groups.md",
+    "101/BIO101/Bio Course.md",
     "101/MTH101/Group Theory/Cool Stuff.md",
+    "101/MTH101/Group Theory/9.Cyclic Groups.md",
+    "101/MTH101/Group Theory/0.Theorems.md",
+    "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
+    "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
+    "101/MTH101/Group Theory/8.Subset of Subgroups.md",
     "101/MTH101/Notes/Notes/Lecture13.pdf",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
-    "101/MTH101/Group Theory/6.Cosets.md",
-    "101/MTH101/Group Theory/0.Theorems.md",
-    "101/MTH101/Notes/Notes/Lecture11.pdf",
-    "101/MTH101/Notes/Notes/Lecture10.pdf",
-    "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md"
+    "101/MTH101/Group Theory/6.Cosets.md"
   ]
 }
