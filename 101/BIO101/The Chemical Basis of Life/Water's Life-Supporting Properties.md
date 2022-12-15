@@ -22,5 +22,6 @@ $Q.$ After a hard workout, you may notice “beads” of sweat on your face. Can
 ## Water's Hydrogen bonds moderate Temperature
 
 ***Thermal Energy:*** Energy associated with the random movement of atoms and molecules
-***Head:*** Transfer of thermal energy from 
+***Head:*** Transfer of thermal energy from warmer to a cooler body of matter
+***Temperature:*** The Intensity of heat
 
