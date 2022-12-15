@@ -31,4 +31,19 @@ $Q.$ After a hard workout, you may notice “beads” of sweat on your face. Can
 >The Intensity of heat i.e, the average speed of molecules in a body of matter
 
 As the breaking and rejoining of hydrogen bonds involves a lot of energy, water acts as a good moderator. For ex. Earth's giant water supply moderates temperatures, helping to keep temperatures within limits that permit life.
-Also, as humans are $60$% water, it also helps moderator our temperatu
+Also, as humans are $60$% water, it also helps moderator our temperature.
+
+When a substance evaporates, the surface of the liquid that remains behind coolds down. Because the molecules with the greatest energy leave.
+
+
+$Q.$ Explain the popular adage, "It's not the heat, it's the humidity."
+>HIgh humidity hampers cooling by slowing the evaporation of sweat.
+
+
+-----
+
+## Ice floats because it is less dense than liquid water
+
+Water is less dense in solid state than in liquid due to Hydrogen-Bonds
+Ice has a relatively loosely packed structure than water
+i.e, t
