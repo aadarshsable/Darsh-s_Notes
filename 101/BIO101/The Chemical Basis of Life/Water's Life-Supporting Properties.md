@@ -59,7 +59,7 @@ $Q.$ Explain how freezing water can crack boulders
 ## Water is the solvent of Life
 
 Water's versatility as a solvent results from the polarity of its molecules.
-A compound doesnt need to be ionic to dissolbe in water. 
+A compound doesnt need to be ionic to dissole in water. 
 A spoonful of sugar will also dissolve in a glass of water. Polar molecules such as sugar dissolve as water molecules surround them and form hydrogen bonds with their polar regions.
 
 
@@ -94,6 +94,9 @@ currently the ocean pH is about $8.1$ and will drop $0.3-0.5$ by end of century
 
 #### Calcification
 Coral animals combining calcium and carbonate ions to form their calcium carbonate skeletons. As seawater acidifies, the extra hydrogen ions combine with the carbonate ions ($CO_{3}^{2-}$) to form bicarbonate ions
-This reactions reduces the carbonate ion concentration available to corals and other shell-nuilding animals
+This reactions reduces the carbonate ion concentration available to corals and other shell-building animals.
+Scientists predict that ocean acidification will cause the carbonate ion concentration to decrease by $40$% hy $2100$
 
+*The effect of carbonate ion concentration of calcification rate in and artificial coral reef system*
+![[Pasted image 20221216005127.png]]
 
