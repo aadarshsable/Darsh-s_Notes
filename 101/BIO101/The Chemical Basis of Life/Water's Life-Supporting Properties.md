@@ -30,5 +30,5 @@ $Q.$ After a hard workout, you may notice “beads” of sweat on your face. Can
 ***Temperature:***
 >The Intensity of heat i.e, the average speed of molecules in a body of matter
 
-
-
+As the breaking and rejoining of hydrogen bonds involves a lot of energy, water acts as a good moderator. For ex. Earth's giant water supply moderates temperatures, helping to keep temperatures within limits that permit life.
+Also, as humans are $60$% water, it also helps moderator our temperatu
