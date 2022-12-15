@@ -52,6 +52,15 @@ i.e, The ice crystal has fewer molecules than an equal volume of liquid water.
 
 This also explains why the whole oceons dont freeze up and only the top layer freezes
 
-$Q.$ 
+$Q.$ Explain how freezing water can crack boulders
+>Water in the cervices of a boulder expands as it freezes because the water molecules become spaced farther apart as ice crystallizes (cause its less dense)
+
+---------
+## Water is the solvent of Life
+
+Water's versatility as a solvent results from the polarity of its molecules.
+A compound doesnt need to be ionic to dissolbe in water. 
+A spoonful of sugar will also dissolve in a glass of water.
+
 
 
