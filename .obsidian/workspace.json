@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +173,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dd992b41c45df6e6",
+  "active": "a15e199485430c65",
   "lastOpenFiles": [
     "books/Arthur Israel Vogel - A Text-Book of Practical Organic Chemistry Including Qualitative Organic Analysis-Longman (1974) (1).pdf",
     "101/BIO101/Bio Course.md",
