@@ -16,6 +16,16 @@
                 "file": "books/Arthur Israel Vogel - A Text-Book of Practical Organic Chemistry Including Qualitative Organic Analysis-Longman (1974) (1).pdf"
               }
             }
+          },
+          {
+            "id": "a15e199485430c65",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Arthur Israel Vogel - A Text-Book of Practical Organic Chemistry Including Qualitative Organic Analysis-Longman (1974) (1).pdf"
+              }
+            }
           }
         ]
       }
@@ -164,6 +174,7 @@
   },
   "active": "dd992b41c45df6e6",
   "lastOpenFiles": [
+    "books/Arthur Israel Vogel - A Text-Book of Practical Organic Chemistry Including Qualitative Organic Analysis-Longman (1974) (1).pdf",
     "101/BIO101/Bio Course.md",
     "101/MTH101/Group Theory/Cool Stuff.md",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
@@ -172,7 +183,6 @@
     "101/BIO101/The Chemical Basis of Life/Elements, Atoms, and Compounds.md",
     "101/MTH101/Group Theory/8.Subset of Subgroups.md",
     "101/MTH101/Notes/Notes/Lecture13.pdf",
-    "101/MTH101/Group Theory/7.Modular Arthimetic.md",
-    "101/MTH101/Group Theory/6.Cosets.md"
+    "101/MTH101/Group Theory/7.Modular Arthimetic.md"
   ]
 }
