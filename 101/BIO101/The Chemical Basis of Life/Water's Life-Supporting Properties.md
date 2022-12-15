@@ -97,6 +97,18 @@ Coral animals combining calcium and carbonate ions to form their calcium carbona
 This reactions reduces the carbonate ion concentration available to corals and other shell-building animals.
 Scientists predict that ocean acidification will cause the carbonate ion concentration to decrease by $40$% hy $2100$
 
-*The effect of carbonate ion concentration of calcification rate in and artificial coral reef system*
+*The effect of carbonate ion concentration of calcification rate in an artificial coral reef system*
 ![[Pasted image 20221216005127.png]]
+
+Keeping pH, temperature, and calcium ion concentration constant we see that
+Lower the rate of Calcification the slower the growth of coral animals
+
+Thus Ocean acidification and reduction in carbonate ion concentration will negatively affect coral reefs.
+
+Even in a non controlled experiment, Scientists saw the same pattern with less structurally complex and slower-growing corals.
+
+
+----
+
+## The search for extraterrestrial life centres on the search for water
 
