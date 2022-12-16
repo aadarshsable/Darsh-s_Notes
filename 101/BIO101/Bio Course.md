@@ -111,4 +111,14 @@ Overview: The molecule that supports all of life
 - [ ] Membrane Structure and Function (again?)
 - [ ] Mosaicism
 - [ ] Permeability of Lipid Bilayer
-- [ ] T
+- [ ] Transport Proteins
+- [ ] IMP points (CHECK NOTES)
+- [ ] Proteins facilitate Passive Transport
+- [ ] Active Transport
+- [ ] Passive transport of ions 
+- [ ] Membrane Potential 
+- [ ] |-----> Factors contributing
+- [ ] Electrogenic Pump
+- [ ] Contransport
+- [ ] Exocytosis/Endocytosis
+- [ ] Receptor-Mediated Endocytosis
