@@ -90,4 +90,25 @@ Overview: The molecule that supports all of life
 - [ ] General Membrane Characteristics
 - [ ] The fluidity of membranes
 - [ ] Sidedness of the plasma membrane
-- [ ] 
+- [ ] Membrane Carbohydrates
+- [ ] Role of Carbohydrates
+- [ ] |---> Plasma membrane > Membrane Proteins > Transmembrane Proteins >Functional Classification
+- [ ] The Structure of a Transport Protein
+- [ ] Chemical Compositions
+
+- [ ] Cholesterol
+- [ ] Membranes are Bifacial
+- [ ] Sidedness of Plasma Membrane (just one diagram in notes)
+- [ ] Membrane Proteins
+- [ ] Extrinsic membrane protein
+- [ ] Intrinsic membrane proteins
+- [ ] Check notes for cell diagram
+- [ ] Movement across the cell membrane
+- [ ] The diffusion of solutes across membranes
+- [ ] Osmosis
+- [ ] The water balance of living cells
+- [ ] Traffic Across Membranes
+- [ ] Membrane Structure and Function (again?)
+- [ ] Mosaicism
+- [ ] Permeability of Lipid Bilayer
+- [ ] T
