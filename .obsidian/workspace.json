@@ -13,6 +13,22 @@
             "state": {
               "type": "pdf",
               "state": {
+                "file": "101/MTH101/Notes/Tutorials/Tutorial01.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6b00dc3bae1995b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7dca44332396f2b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
                 "file": "101/MTH101/Notes/Tutorials/Tutorial01_solutions.pdf"
               }
             }
@@ -67,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -161,9 +178,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19f90326af4bcb77",
+  "active": "e7dca44332396f2b",
   "lastOpenFiles": [
     "101/MTH101/Notes/Tutorials/Tutorial01.pdf",
+    "101/MTH101/Notes/Tutorials/Tutorial01_solutions.pdf",
     "101/MTH101/Notes/Tutorials/ProblemSet1.pdf",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
@@ -171,7 +189,6 @@
     "101/MTH101/Group Theory/Cool Stuff.md",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/MTH101/Notes/Notes/Lecture13.pdf",
-    "101/MTH101/Group Theory/7.Modular Arthimetic.md",
-    "101/MTH101/Group Theory/8.Subset of Subgroups.md"
+    "101/MTH101/Group Theory/7.Modular Arthimetic.md"
   ]
 }
