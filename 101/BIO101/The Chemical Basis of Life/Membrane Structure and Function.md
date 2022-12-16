@@ -11,4 +11,18 @@ This model illustrates the structure and function of a plasma membrane.
 ## The spontaneous formation of membranes was a critical step in the origin of life
 
 #### Phospholipids
-Probably among the first organic molecules that formed from chemical reactions on early Earth
+- Among the first organic molecules that formed from chemical reactions on early Earth
+- These lipids could spontaneously self-assemble into simple membranes.
+	  We can demonstrate this by shaking phospholipids and water. The lipids will form a bilayer surrounding around water-filled bubbles
+
+$Q.$ *What is the basic requirement for life to form?*
+> A membrane that not only encolses a successful assembly of molecules but also regulates chemical exchanges with the environment.
+> For regulation the membrane should contain proteins embedded into it, cause only simple lipid bilayers are not sufficient
+
+
+---------------------
+## Passive Transport is diffusion across a mem
+
+ 
+
+
