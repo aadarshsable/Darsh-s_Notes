@@ -11,8 +11,10 @@
             "id": "19f90326af4bcb77",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Tutorials/Tutorial01_solutions.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "101/MTH101/Notes/Tutorials/Tutorial01_solutions.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "101/MTH101/Notes/Tutorials/Tutorial01_solutions.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "101/MTH101/Notes/Tutorials/Tutorial01_solutions.pdf"
+              }
             }
           },
           {
@@ -157,6 +163,8 @@
   },
   "active": "19f90326af4bcb77",
   "lastOpenFiles": [
+    "101/MTH101/Notes/Tutorials/Tutorial01.pdf",
+    "101/MTH101/Notes/Tutorials/ProblemSet1.pdf",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/BIO101/Bio Course.md",
@@ -164,8 +172,6 @@
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/MTH101/Notes/Notes/Lecture13.pdf",
     "101/MTH101/Group Theory/7.Modular Arthimetic.md",
-    "101/MTH101/Group Theory/8.Subset of Subgroups.md",
-    "101/MTH101/Group Theory/6.Cosets.md",
-    "101/MTH101/Group Theory/0.Theorems.md"
+    "101/MTH101/Group Theory/8.Subset of Subgroups.md"
   ]
 }
