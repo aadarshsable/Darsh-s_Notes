@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_3rd class.pdf"
+                "file": "101/CHEM101/Notes/CHM101_7th class.pdf"
               }
             }
           }
@@ -67,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -83,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_3rd class.pdf",
+                "file": "101/CHEM101/Notes/CHM101_7th class.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_3rd class.pdf",
+                "file": "101/CHEM101/Notes/CHM101_7th class.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_3rd class.pdf"
+                "file": "101/CHEM101/Notes/CHM101_7th class.pdf"
               }
             }
           },
@@ -163,6 +164,8 @@
   },
   "active": "55ffc469deb6a226",
   "lastOpenFiles": [
+    "101/CHEM101/Notes/chm101_5th and 6th class.pdf",
+    "101/CHEM101/Notes/chm101_3rd class.pdf",
     "Extra/bs.md",
     "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
     "101/BIO101/Bio Course.md",
@@ -170,8 +173,6 @@
     "101/MTH101/data/Images/Pasted image 20221214225856.png",
     "101/BIO101/data/images/Pasted image 20221216005127.png",
     "101/BIO101/data/images/Pasted image 20221216172711.png",
-    "101/BIO101/data/images/Pasted image 20221216182320.png",
-    "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
-    "books/Campbell Biology Concepts Connections.pdf"
+    "101/BIO101/data/images/Pasted image 20221216182320.png"
   ]
 }
