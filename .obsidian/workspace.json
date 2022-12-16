@@ -8,12 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "55ffc469deb6a226",
+            "id": "7d140dece8dc9fad",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "101/CHEM101/Notes/CHM101_7th class.pdf"
+                "file": "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf"
+              }
+            }
+          },
+          {
+            "id": "2d65dc135830036b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b3c191733f243d0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52b54d4d1a6a45ee",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Campbell Biology Concepts Connections.pdf"
               }
             }
           }
@@ -84,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/CHEM101/Notes/CHM101_7th class.pdf",
+                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/CHEM101/Notes/CHM101_7th class.pdf",
+                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/CHEM101/Notes/CHM101_7th class.pdf"
+                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md"
               }
             }
           },
@@ -162,17 +191,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "55ffc469deb6a226",
+  "active": "2d65dc135830036b",
   "lastOpenFiles": [
+    "books/Campbell Biology Concepts Connections.pdf",
+    "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
+    "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
+    "101/CHEM101/Notes/CHM101_7th class.pdf",
     "101/CHEM101/Notes/chm101_5th and 6th class.pdf",
     "101/CHEM101/Notes/chm101_3rd class.pdf",
     "Extra/bs.md",
-    "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
     "101/BIO101/Bio Course.md",
-    "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
     "101/MTH101/data/Images/Pasted image 20221214225856.png",
-    "101/BIO101/data/images/Pasted image 20221216005127.png",
-    "101/BIO101/data/images/Pasted image 20221216172711.png",
-    "101/BIO101/data/images/Pasted image 20221216182320.png"
+    "101/BIO101/data/images/Pasted image 20221216005127.png"
   ]
 }
