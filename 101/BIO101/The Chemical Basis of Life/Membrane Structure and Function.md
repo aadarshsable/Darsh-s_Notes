@@ -21,7 +21,14 @@ $Q.$ *What is the basic requirement for life to form?*
 
 
 ---------------------
-## Passive Transport is diffusion across a mem
+## Passive Transport is diffusion across a membrane with no energy investment
+
+***Diffusion:*** 
+- The tendency for particles of any substance to spread out into the available space
+- Two or more subtances diffuse independenty of each other, i.e, each diffuses down its own concentration gradient
+- Because cell does not have to do work when molecules diffuse across its membrane, such movement is caled ***PASSIVE TRANSPORT***
+
+
 
  
 
