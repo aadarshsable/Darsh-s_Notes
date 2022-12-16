@@ -8,29 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0973ab25b68c053",
+            "id": "55ffc469deb6a226",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "books/Campbell Biology Concepts Connections.pdf"
-              }
-            }
-          },
-          {
-            "id": "55ffc469deb6a226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Extra/bs.md",
-                "mode": "source",
-                "source": false
+                "file": "101/CHEM101/Notes/chm101_3rd class.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Extra/bs.md",
+                "file": "101/CHEM101/Notes/chm101_3rd class.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Extra/bs.md",
+                "file": "101/CHEM101/Notes/chm101_3rd class.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Extra/bs.md"
+                "file": "101/CHEM101/Notes/chm101_3rd class.pdf"
               }
             }
           },
@@ -176,6 +163,7 @@
   },
   "active": "55ffc469deb6a226",
   "lastOpenFiles": [
+    "Extra/bs.md",
     "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
     "101/BIO101/Bio Course.md",
     "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
@@ -184,7 +172,6 @@
     "101/BIO101/data/images/Pasted image 20221216172711.png",
     "101/BIO101/data/images/Pasted image 20221216182320.png",
     "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
-    "books/Campbell Biology Concepts Connections.pdf",
-    "101/BIO101/Notes/Bio101-Topic 2.pdf"
+    "books/Campbell Biology Concepts Connections.pdf"
   ]
 }
