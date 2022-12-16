@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
+                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,16 +39,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "571d74bf1c2a8c2a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "books/Campbell Biology Concepts Connections.pdf"
-              }
-            }
-          },
-          {
             "id": "77b688d82b928b0b",
             "type": "leaf",
             "state": {
@@ -59,8 +49,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8c7a750ac0c18ee",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Notes/Lecture12.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
+                "file": "101/MTH101/Notes/Notes/Lecture12.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
+                "file": "101/MTH101/Notes/Notes/Lecture12.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md"
+                "file": "101/MTH101/Notes/Notes/Lecture12.pdf"
               }
             }
           },
@@ -205,17 +205,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b64f51b7706bf729",
+  "active": "a8c7a750ac0c18ee",
   "lastOpenFiles": [
-    "books/Campbell Biology Concepts Connections.pdf",
+    "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
+    "books/Campbell Biology Concepts Connections.pdf",
     "101/MTH101/Group Theory/3.Isomorphism.md",
     "101/MTH101/Group Theory/2.Symmetry.md",
     "101/MTH101/Group Theory/0.Theorems.md",
     "101/MTH101/Group Theory/1.Groups.md",
     "101/CHEM101/Notes/chm101_2nd and 3rd class.pdf",
     "books/Joseph A. Gallian - Contemporary abstract algebra-Houghton Mifflin Harcourt (HMH) (1989).pdf",
-    "books/Alen Hadzovic, Duward Shriver, Mark Weller, Tina Overton, Jonathan Rourke, Fraser Armstrong - Solutions Manual for Inorganic Chemistry [Shriver’s Inorganic Chemistry, 6e]-W. H. Freeman (2014).pdf",
-    "books/B Sury - Group Theory_ Selected Problems.pdf"
+    "books/Alen Hadzovic, Duward Shriver, Mark Weller, Tina Overton, Jonathan Rourke, Fraser Armstrong - Solutions Manual for Inorganic Chemistry [Shriver’s Inorganic Chemistry, 6e]-W. H. Freeman (2014).pdf"
   ]
 }
