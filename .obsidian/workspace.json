@@ -16,6 +16,16 @@
                 "file": "101/CHEM101/Notes/CHM101_7th class.pdf"
               }
             }
+          },
+          {
+            "id": "3511615a4b589400",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf"
+              }
+            }
           }
         ]
       }
@@ -163,9 +173,9 @@
   },
   "active": "2139499b545195ac",
   "lastOpenFiles": [
-    "101/CHEM101/Notes/chm101_5th and 6th class.pdf",
-    "101/CHEM101/Notes/CHM101_7th class.pdf",
     "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
+    "101/CHEM101/Notes/CHM101_7th class.pdf",
+    "101/CHEM101/Notes/chm101_5th and 6th class.pdf",
     "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
     "books/Campbell Biology Concepts Connections.pdf",
     "101/CHEM101/Notes/chm101_3rd class.pdf",
