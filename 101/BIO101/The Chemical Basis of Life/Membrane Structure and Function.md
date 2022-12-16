@@ -39,5 +39,3 @@ $Q.$ Can ions and polar molecules also diffuse across the hydrophobic interior o
 
 ## Osmosis is the diffusion of water across a membrane
 
-
-
