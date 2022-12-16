@@ -21,9 +21,11 @@
             "id": "55ffc469deb6a226",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf"
+                "file": "Extra/bs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
+                "file": "Extra/bs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
+                "file": "Extra/bs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf"
+                "file": "Extra/bs.md"
               }
             }
           },
@@ -174,9 +176,9 @@
   },
   "active": "55ffc469deb6a226",
   "lastOpenFiles": [
+    "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
     "101/BIO101/Bio Course.md",
     "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
-    "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
     "101/MTH101/data/Images/Pasted image 20221214225856.png",
     "101/BIO101/data/images/Pasted image 20221216005127.png",
     "101/BIO101/data/images/Pasted image 20221216172711.png",
