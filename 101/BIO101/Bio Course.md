@@ -53,26 +53,72 @@ Overview: The molecule that supports all of life
 
 #### Concept 3.1: The Polarity of water molecules results in hydrogen bonding
 
-- [ ] Done?
+- [x] Done?
 
 #### Concept 3.2: Four emergent properties of water contribute to Earth's fitness for life
 
-- [ ] Done?
-- [ ] Cohesion
-- [ ] Moderation of Temperature
-- [ ] Heat and Temperature
+- [x] Done?
+- [x] Cohesion
+- [x] Moderation of Temperature
+- [x] Heat and Temperature
 - [ ] Water's High Specific Heat
 - [ ] Evaporative Cooling
-- [ ] Insulation of Bodies of Water by Floating Ice
-- [ ] The solvent of LIfe
+- [x] Insulation of Bodies of Water by Floating Ice
+- [x] The solvent of LIfe
 - [ ] Hydrophilic and Hydrophobic Substances
-- [ ] Solute of Concentration in Aqueous Solutions
+- [x] Solute of Concentration in Aqueous Solutions
 
 #### Concept 3.3: Acidic and Basic conditions affect living organisms
 
-- [ ] Effects of Chnages in pH
-- [ ] Acids and Bases
-- [ ] The pH Scale
-- [ ] Buffers
+- [x] Effects of Chnages in pH
+- [x] Acids and Bases
+- [x] The pH Scale
+- [x] Buffers
 - [ ] Threats to Water Quality on Earth
-- [ ] 
+
+----------------
+
+# Plasma Membrane
+
+- [ ] What is Plasma Membrane (detailed/compositions)
+- [ ] Definition of Plasma Membrane
+- [ ] Membrane Structure and Function
+- [ ] Phospholipids
+- [ ] Phospholipid bilayer
+- [ ] Membrane Models (3 in Total)
+- [ ] Fluid Mosaic Model
+- [ ] General Membrane Characteristics
+- [ ] The fluidity of membranes
+- [ ] Sidedness of the plasma membrane
+- [ ] Membrane Carbohydrates
+- [ ] Role of Carbohydrates
+- [ ] |---> Plasma membrane > Membrane Proteins > Transmembrane Proteins >Functional Classification
+- [ ] The Structure of a Transport Protein
+- [ ] Chemical Compositions
+
+- [ ] Cholesterol
+- [ ] Membranes are Bifacial
+- [ ] Sidedness of Plasma Membrane (just one diagram in notes)
+- [ ] Membrane Proteins
+- [ ] Extrinsic membrane protein
+- [ ] Intrinsic membrane proteins
+- [ ] Check notes for cell diagram
+- [ ] Movement across the cell membrane
+- [ ] The diffusion of solutes across membranes
+- [ ] Osmosis
+- [ ] The water balance of living cells
+- [ ] Traffic Across Membranes
+- [ ] Membrane Structure and Function (again?)
+- [ ] Mosaicism
+- [ ] Permeability of Lipid Bilayer
+- [ ] Transport Proteins
+- [ ] IMP points (CHECK NOTES)
+- [ ] Proteins facilitate Passive Transport
+- [ ] Active Transport
+- [ ] Passive transport of ions 
+- [ ] Membrane Potential 
+- [ ] |-----> Factors contributing
+- [ ] Electrogenic Pump
+- [ ] Contransport
+- [ ] Exocytosis/Endocytosis
+- [ ] Receptor-Mediated Endocytosis
