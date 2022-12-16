@@ -27,7 +27,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/CHEM101/Notes/CHM101_7th class.pdf",
+                "file": "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/CHEM101/Notes/CHM101_7th class.pdf",
+                "file": "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/CHEM101/Notes/CHM101_7th class.pdf"
+                "file": "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf"
               }
             }
           },
@@ -171,10 +172,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2139499b545195ac",
+  "active": "3511615a4b589400",
   "lastOpenFiles": [
-    "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
     "101/CHEM101/Notes/CHM101_7th class.pdf",
+    "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
     "101/CHEM101/Notes/chm101_5th and 6th class.pdf",
     "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
     "books/Campbell Biology Concepts Connections.pdf",
