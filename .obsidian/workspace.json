@@ -13,18 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
+                "file": "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a231225ff046a7fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "51bd1a2227864e04",
         "type": "tabs",
         "children": [
+          {
+            "id": "a0973ab25b68c053",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Campbell Biology Concepts Connections.pdf"
+              }
+            }
+          },
           {
             "id": "77b688d82b928b0b",
             "type": "leaf",
@@ -112,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
+                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
+                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md"
+                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md"
               }
             }
           },
@@ -190,14 +213,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b64f51b7706bf729",
+  "active": "a231225ff046a7fd",
   "lastOpenFiles": [
-    "101/MTH101/Notes/Notes/Lecture11.pdf",
+    "books/Campbell Biology Concepts Connections.pdf",
+    "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
+    "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Group Theory/3.Isomorphism.md",
     "101/MTH101/Notes/Notes/Lecture12.pdf",
-    "101/BIO101/The Chemical Basis of Life/Water's Life-Supporting Properties.md",
-    "books/Campbell Biology Concepts Connections.pdf",
     "101/MTH101/Group Theory/2.Symmetry.md",
     "101/MTH101/Group Theory/0.Theorems.md",
     "101/MTH101/Group Theory/1.Groups.md",
