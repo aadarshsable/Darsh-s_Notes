@@ -18,22 +18,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "22a3228fd9d3d46b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5c2297d9e3cc4800",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -83,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -180,15 +163,15 @@
   },
   "active": "43cfc5b8e5ce9225",
   "lastOpenFiles": [
+    "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
+    "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
     "101/BIO101/data/images/Pasted image 20221217174527.png",
     "101/BIO101/data/images/Pasted image 20221217174116.png",
     "101/BIO101/data/images/Pasted image 20221217172056.png",
-    "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
     "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
     "Pasted image 20221217172057.png",
     "101/BIO101/data/images/Pasted image 20221217163705.png",
     "101/BIO101/data/images/Pasted image 20221217164308.png",
-    "101/BIO101/data/images/Pasted image 20221217163035.png",
-    "101/BIO101/data/images/Pasted image 20221217162211.png"
+    "101/BIO101/data/images/Pasted image 20221217163035.png"
   ]
 }
