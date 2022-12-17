@@ -140,12 +140,21 @@ We know what Osmosis is :)
 ##### Passive Transport for ions depends on:
 - Concentration gradient of the ion
 - Effect of the membrane potential of the ion
-- The ***Electrochemical Gradient*** is the diffusion gradient created from the combined effetcs of both of the above
+- The ***Electrochemical Gradient*** ( **a measure of the free energy available to carry out the useful work of transporting the molecule across the membrane**.) is the diffusion gradient created from the combined effetcs of both of the above
+
+
 ### Active Transport
 - Endergonic process by which a transport protein pumps a molecule across a membrane against its concentration gradient.
 - These mantain concentration gradeints across membranes
 - Use ATP as energy source.
 - Ex. Sodium-Potassium Pump
+
+
+![[Pasted image 20221217162106.png]]
+
+### Two models for facilitated diffusion/transport
+
+![[Pasted image 20221217162211.png]]
 
 
 ----
@@ -161,4 +170,7 @@ We know what Osmosis is :)
 - Larger, uncharged will not get through easily (Ex, Glucose)
 - All ions have trouble getting through hydrophobic layer
 
+-----
+
+## Membrane Potential
 
