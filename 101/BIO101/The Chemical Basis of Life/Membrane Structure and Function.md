@@ -209,4 +209,16 @@ Here the $H^{+}$ requires ATP (active transport) where as the Glucose doesnt (in
 - Exportation of macromolecules by the fusion of vesicles with membrane
 - Vesicle comes from ER or Golgi
 - Used by ***secretory cells*** to export products
-- 
+
+### Endocytosis
+- Importation of macromolecules into a cell by ofrming vesicles from membrane
+- Used by cells to incorporate extracellular substances
+
+***Phagocytosis:*** 
+> Cell eating solid particles involved. Cells enguls them with pseudopods. The vessicle then fuses with a food vacoule
+
+***Pinocytosis:***
+> Cell drinking fluid droplets involved
+
+***Receptor-Mediated Endocytosis:***
+> 
