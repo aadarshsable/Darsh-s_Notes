@@ -30,6 +30,16 @@
             }
           },
           {
+            "id": "1f0104625f6e387d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20221217132820_923.png"
+              }
+            }
+          },
+          {
             "id": "43cfc5b8e5ce9225",
             "type": "leaf",
             "state": {
@@ -38,7 +48,14 @@
                 "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf"
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "22a3228fd9d3d46b",
+        "type": "tabs",
+        "children": [
           {
             "id": "5c2297d9e3cc4800",
             "type": "leaf",
@@ -49,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -117,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
+                "file": "Pasted Image 20221217132820_923.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
+                "file": "Pasted Image 20221217132820_923.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md"
+                "file": "Pasted Image 20221217132820_923.png"
               }
             }
           },
@@ -195,13 +210,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3511615a4b589400",
+  "active": "1f0104625f6e387d",
   "lastOpenFiles": [
-    "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
+    "Pasted Image 20221217132805_921.png",
     "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
+    "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
     "Excalidraw/Drawing 2022-12-17 13.27.49.excalidraw.md",
     "Pasted Image 20221217132820_923.png",
-    "Pasted Image 20221217132805_921.png",
     "Excalidraw/Drawing 2022-11-30 03.38.33.excalidraw.png",
     "Excalidraw/Drawing 2022-12-17 13.27.49.excalidraw.png",
     "101/CHEM101/Notes/CHM101_7th class.pdf",

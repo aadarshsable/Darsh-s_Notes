@@ -96,6 +96,7 @@ An important class of such markers are the major histrocompatability (MHC) Prote
 
 
 ### Transport Protein
+Integral Membrane Proteins that transport specific ions or molecules across the membrane.
 
 ![[Pasted image 20221217135244.png]]
 
@@ -105,6 +106,10 @@ An important class of such markers are the major histrocompatability (MHC) Prote
   - Glycolipids
   - Sterol 
   - Cholesterol
+
+Hydrophilic Substances like ions and moderately sized polar molecules through transport proteins. They may provide a hydrphilic tunnel or may bind to, and physically carry a substance across.
+
+![[Pasted image 20221217160843.png]]
 
 -----
 
@@ -123,4 +128,16 @@ $Q.$ Can ions and polar molecules also diffuse across the hydrophobic interior o
 We know what Osmosis is :)
 
 ----
+
+## Permeability of Lipid Bilayer
+
+### Non-Polar Molecules
+- Dissolve in membranes, cross with ease
+- Smaller ones will cross faster
+
+### Polar Molecules
+- Small, unchraged molecules can slip through
+- Larger, uncharged will not get through easily (Ex, Glucose)
+- All ions have trouble getting through hydrophobic layer
+
 
