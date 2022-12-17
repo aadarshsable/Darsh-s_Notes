@@ -200,7 +200,7 @@ A process where a single ATP-powered pump actively transports (with the hellp of
 
 Here the $H^{+}$ requires ATP (active transport) where as the Glucose doesnt (indirect/passive transport)
 Can be seen in Sodium-Potassium Pump
-![[Pasted image 20221217172056.png]]![[Pasted image 20221217164308.png]]
+![[Pasted image 20221217164308.png]]
 
 -----
 
@@ -222,4 +222,12 @@ Can be seen in Sodium-Potassium Pump
 > Cell drinking fluid droplets involved
 
 ***Receptor-Mediated Endocytosis:***
->  c
+>  - Receptor proteins for specific molecules are embedded in regions of the membrane that are lined by a layer of coat proteins. The plasma membrane indents to form a coated pit, whose receptor proteins pick up particular molecules from the extracellular fluid. The coated pit pinches closed to form a vesicle, which then releases the molecules into the cytoplasm.
+>  - A Layer of CLATHARIN, a fibrous protein, lines and reinforces the coated pit, probably causing it to deepen the pit to form a vessicle
+>  - Example: Cholesterol and LDL's
+
+![[Pasted image 20221217174116.png]]
+
+
+
+
