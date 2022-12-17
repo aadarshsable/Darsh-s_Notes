@@ -109,6 +109,9 @@ Integral Membrane Proteins that transport specific ions or molecules across the 
 
 Hydrophilic Substances like ions and moderately sized polar molecules through transport proteins. They may provide a hydrphilic tunnel or may bind to, and physically carry a substance across.
 
+
+### Functions of Membrane Proteins
+
 ![[Pasted image 20221217160843.png]]
 
 -----
@@ -117,7 +120,7 @@ Hydrophilic Substances like ions and moderately sized polar molecules through tr
 
 ***Diffusion:*** 
 - The tendency for particles of any substance to spread out into the available space
-- Two or more subtances diffuse independenty of each other, i.e, each diffuses down its own concentration gradient
+- Two or more subtances diffuse independenty of each other, i.e, each diffuses down its own ***concentration gradient***
 - Because cell does not have to do work when molecules diffuse across its membrane, such movement is caled ***PASSIVE TRANSPORT***
   i.e, the cells does not expend energy to transport substances that are diffusing down their concentration levels
 - Much of the **Traffic** across membranes occurs by diffusion.
@@ -126,6 +129,24 @@ $Q.$ Can ions and polar molecules also diffuse across the hydrophobic interior o
 > They can if they are moving down their concentration gradients and if they have tranport proteins to help them cross.
 
 We know what Osmosis is :)
+
+### Passive Transport
+- down Concentration Gradient
+- Helps polar molecules get through lipid bilayers
+- Can be saturated with solute (rate limited)
+- Can be due to conformational changes
+- Can be gated channels
+
+##### Passive Transport for ions depends on:
+- Concentration gradient of the ion
+- Effect of the membrane potential of the ion
+- The ***Electrochemical Gradient*** is the diffusion gradient created from the combined effetcs of both of the above
+### Active Transport
+- Endergonic process by which a transport protein pumps a molecule across a membrane against its concentration gradient.
+- These mantain concentration gradeints across membranes
+- Use ATP as energy source.
+- Ex. Sodium-Potassium Pump
+
 
 ----
 
