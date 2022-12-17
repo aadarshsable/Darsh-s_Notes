@@ -196,9 +196,17 @@ We know what Osmosis is :)
 
 
 ### Contransport
-A process where a single ATP-powered pump actively transports one solute, and inderctrly drives the transport of other solutes against their concentration gradients.
+A process where a single ATP-powered pump actively transports (with the hellp of ATP) one solute, and indirectly drives the transport of other solutes against their concentration gradients.
 
-
+Here the $H^{+}$ requires ATP (active transport) where as the Glucose doesnt (indirect/passive transport)
+![[Pasted image 20221217164308.png]]
 
 -----
 
+## Exocytosis and Endocytosis
+
+### Exocytosis
+- Exportation of macromolecules by the fusion of vesicles with membrane
+- Vesicle comes from ER or Golgi
+- Used by ***secretory cells*** to export products
+- 

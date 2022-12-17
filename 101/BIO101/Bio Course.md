@@ -80,45 +80,45 @@ Overview: The molecule that supports all of life
 
 # Plasma Membrane
 
-- [ ] What is Plasma Membrane (detailed/compositions)
-- [ ] Definition of Plasma Membrane
-- [ ] Membrane Structure and Function
-- [ ] Phospholipids
-- [ ] Phospholipid bilayer
-- [ ] Membrane Models (3 in Total)
-- [ ] Fluid Mosaic Model
-- [ ] General Membrane Characteristics
-- [ ] The fluidity of membranes
+- [x] What is Plasma Membrane (detailed/compositions)
+- [x] Definition of Plasma Membrane
+- [x] Membrane Structure and Function
+- [x] Phospholipids
+- [x] Phospholipid bilayer
+- [x] Membrane Models (3 in Total)
+- [x] Fluid Mosaic Model
+- [x] General Membrane Characteristics
+- [x] The fluidity of membranes
 - [ ] Sidedness of the plasma membrane
 - [ ] Membrane Carbohydrates
 - [ ] Role of Carbohydrates
-- [ ] |---> Plasma membrane > Membrane Proteins > Transmembrane Proteins >Functional Classification
-- [ ] The Structure of a Transport Protein
-- [ ] Chemical Compositions
+- [x] |---> Plasma membrane > Membrane Proteins > Transmembrane Proteins >Functional Classification
+- [x] The Structure of a Transport Protein
+- [x] Chemical Compositions
 
-- [ ] Cholesterol
+- [x] Cholesterol
 - [ ] Membranes are Bifacial
 - [ ] Sidedness of Plasma Membrane (just one diagram in notes)
-- [ ] Membrane Proteins
-- [ ] Extrinsic membrane protein
-- [ ] Intrinsic membrane proteins
+- [x] Membrane Proteins
+- [x] Extrinsic membrane protein
+- [x] Intrinsic membrane proteins
 - [ ] Check notes for cell diagram
-- [ ] Movement across the cell membrane
-- [ ] The diffusion of solutes across membranes
+- [x] Movement across the cell membrane
+- [x] The diffusion of solutes across membranes
 - [ ] Osmosis
 - [ ] The water balance of living cells
-- [ ] Traffic Across Membranes
-- [ ] Membrane Structure and Function (again?)
+- [x] Traffic Across Membranes
+- [x] Membrane Structure and Function (again?)
 - [ ] Mosaicism
-- [ ] Permeability of Lipid Bilayer
-- [ ] Transport Proteins
+- [x] Permeability of Lipid Bilayer
+- [x] Transport Proteins
 - [ ] IMP points (CHECK NOTES)
-- [ ] Proteins facilitate Passive Transport
-- [ ] Active Transport
-- [ ] Passive transport of ions 
-- [ ] Membrane Potential 
-- [ ] |-----> Factors contributing
-- [ ] Electrogenic Pump
-- [ ] Contransport
+- [x] Proteins facilitate Passive Transport
+- [x] Active Transport
+- [x] Passive transport of ions 
+- [x] Membrane Potential 
+- [x] |-----> Factors contributing
+- [x] Electrogenic Pump
+- [x] Contransport
 - [ ] Exocytosis/Endocytosis
 - [ ] Receptor-Mediated Endocytosis
