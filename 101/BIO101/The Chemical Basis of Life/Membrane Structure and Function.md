@@ -29,6 +29,8 @@ Additional **Gobular Proteins** aree also embedded into the lipid bilayer
 ![[Pasted image 20221216182320.png]]
 - The Phospholipids can arrange themselves latteraly very easily and move faster than the proteins
 
+### Types of Phospholipids
+
 
 $Q.$ *What is the basic requirement for life to form?*
 > A membrane that not only encolses a successful assembly of molecules but also regulates chemical exchanges with the environment.
@@ -84,3 +86,26 @@ Recognizes specific ligand and alters cell's fucntion is ome way. For ex, Antidu
 
 #### 4. Enzyme
 Catalyzes reaciton isnide or outside cell. For Ex, lactase protruding from epithelial cells lining your small intestine splits the dissacharide lactose in the milk you drinki
+
+#### 5. Linker
+Anchors filaments inside and outside to the plasma membrane, providing structural stability. May also participate in movement of the cell or link two cells together.
+
+### Peripheral Proteins
+
+#### 1. Cell identity Marker
+Distinguishes your cells from anyone else's. (***Unless an identical Twin***).
+An important class of such markers are the major histrocompatability (MHC) Proteins
+
+### Transport Protein
+
+![[Pasted image 20221217135244.png]]
+
+- Composed of Lipids, Proteins and Carbohydrates
+- Lipids of cell membrane are
+  - Phospholipids
+  - Glycolipids
+  - Sterol 
+  - Cholesterol
+
+-----
+
