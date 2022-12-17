@@ -183,8 +183,22 @@ We know what Osmosis is :)
 
 - Negatively charged proteins in the cells interior
 - Plasma membrane's selective permeability to various ions
-- The ***Sodium-Potassium pump*** is an Electrogenic Pump.
-   It is the major one in Animals, ***Proton Pump*** is major one in Plants, bacteria, fungi (also mitochondria and chloroplasts use it to make ATP)
 
+***Electrogenic Pump:*** A transport Protein which generates voltage across a membrane
+
+- The ***Sodium-Potassium pump*** ($Na^{+}/K^{+}$ ATPase) is the major one in Animals, ***Proton Pump*** is major one in Plants, bacteria, fungi (also mitochondria and chloroplasts use it to make ATP)
+
+***Sodium-Potassium Pump***
+![[Pasted image 20221217163705.png]]
+
+***Proton Pump***
 ![[Pasted image 20221217163035.png]]
+
+
+### Contransport
+A process where a single ATP-powered pump actively transports one solute, and inderctrly drives the transport of other solutes against their concentration gradients.
+
+
+
+-----
 
