@@ -46,12 +46,11 @@ As Temperature decreases the phospholipids come close to each other i.e, the *di
 Similarly, Fluidity increases with increase in Temperature
 
 #### Cholesterol (buffer)
-Cholesterol inserts itself between the phospholipids
+Cholesterol inserts itself between the phospholipids through Transmembrane Proteins
 At Low Temperature, due to insertion of cholesterol the distance between the Phospholipids increases thus Fluidity increases.
 At High Temperature, insertion of cholesterol brings the phospholipids close together as they were already far apart, which decreases the Fluidity
 
 #### Saturated and Unsatured FattyAcids
-
 Satured Fattyacids decreases the Fluidity while
 Unsatured fattyacids increases the Fluidity
 
