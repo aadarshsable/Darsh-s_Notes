@@ -188,7 +188,7 @@ We know what Osmosis is :)
 
 - The ***Sodium-Potassium pump*** ($Na^{+}/K^{+}$ ATPase) is the major one in Animals, ***Proton Pump*** is major one in Plants, bacteria, fungi (also mitochondria and chloroplasts use it to make ATP)
 
-***Sodium-Potassium Pump***
+***Sodium-Potassium Pump (A Cotransporter)***
 ![[Pasted image 20221217163705.png]]
 
 ***Proton Pump***
@@ -199,7 +199,8 @@ We know what Osmosis is :)
 A process where a single ATP-powered pump actively transports (with the hellp of ATP) one solute, and indirectly drives the transport of other solutes against their concentration gradients.
 
 Here the $H^{+}$ requires ATP (active transport) where as the Glucose doesnt (indirect/passive transport)
-![[Pasted image 20221217164308.png]]
+Can be seen in Sodium-Potassium Pump
+![[Pasted image 20221217172056.png]]![[Pasted image 20221217164308.png]]
 
 -----
 
@@ -221,4 +222,4 @@ Here the $H^{+}$ requires ATP (active transport) where as the Glucose doesnt (in
 > Cell drinking fluid droplets involved
 
 ***Receptor-Mediated Endocytosis:***
-> 
+>  c
