@@ -21,10 +21,8 @@
             "id": "3511615a4b589400",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20221217162106.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -120,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20221217162106.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20221217162106.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Pasted image 20221217162106.png"
-              }
+              "state": {}
             }
           },
           {
@@ -198,17 +192,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3511615a4b589400",
+  "active": "f3a32b05078690b7",
   "lastOpenFiles": [
+    "Pasted image 20221217172056.png",
+    "101/BIO101/data/images/Pasted image 20221217163705.png",
+    "101/BIO101/data/images/Pasted image 20221217164308.png",
+    "101/BIO101/data/images/Pasted image 20221217163035.png",
+    "101/BIO101/data/images/Pasted image 20221217162211.png",
+    "101/BIO101/data/images/Pasted image 20221217162106.png",
     "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
     "101/BIO101/Bio Course.md",
     "101/BIO101/data/images/Pasted image 20221217160843.png",
-    "101/BIO101/data/images/Pasted image 20221217135723.png",
-    "101/BIO101/data/images/Pasted image 20221217135244.png",
-    "Pasted Image 20221217132820_923.png",
-    "Pasted Image 20221217132805_921.png",
-    "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
-    "Excalidraw/Drawing 2022-12-17 13.27.49.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-30 03.38.33.excalidraw.png"
+    "101/BIO101/data/images/Pasted image 20221217135723.png"
   ]
 }
