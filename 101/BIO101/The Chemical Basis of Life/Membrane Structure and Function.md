@@ -29,6 +29,16 @@ $Q.$ *What is the basic requirement for life to form?*
 > For regulation the membrane should contain proteins embedded into it, cause only simple lipid bilayers are not sufficient
 
 -----
+## Membrane Fluidity
+
+#### Temperature
+As Temperature decreases the phospholipids come close to each other i.e, the *distance* between them decreases, which decreases the Fluidity
+Similarly, Fluidity increases with increase in Temperature
+
+#### Cholesterol
+Cholesterol inserts itself between the phospholipids
+At Low Temperature, due to insertion of cholesterol the distance between the Phospholipids increases thus Fluidity increases.
+At High Temperature, 
 
 
 ---------------------
