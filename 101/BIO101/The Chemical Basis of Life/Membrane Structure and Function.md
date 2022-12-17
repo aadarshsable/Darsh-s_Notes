@@ -12,8 +12,10 @@ The ***Lipid Bilayer model*** is a subset of ***Fluid Mosaic Model*** as it also
 Additional **Gobular Proteins** aree also embedded into the lipid bilayer
 
 ### Cell Recognition
-The **Glycolipids** & **Glycoproteins** also help in cell recognition
-They are usually branched **
+- The **Glycolipids** & **Glycoproteins** also help in cell recognition
+- They are usually branched *oligosaccharides* (<15 monomers)
+- They are covalently bonded to lipids and proteins respectively
+
 
 ------------------
 
@@ -66,6 +68,4 @@ $Q.$ Can ions and polar molecules also diffuse across the hydrophobic interior o
 > They can if they are moving down their concentration gradients and if they have tranport proteins to help them cross.
 
  ----
-
-## Osmosis is the diffusion of water across a membrane
 
