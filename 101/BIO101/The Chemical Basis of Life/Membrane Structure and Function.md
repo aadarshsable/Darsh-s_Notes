@@ -30,6 +30,8 @@ Additional **Gobular Proteins** aree also embedded into the lipid bilayer
 - The Phospholipids can arrange themselves latteraly very easily and move faster than the proteins
 
 ### Types of Phospholipids
+![[Pasted image 20221217135723.png]]
+
 
 
 $Q.$ *What is the basic requirement for life to form?*
@@ -57,23 +59,13 @@ Unsatured fattyacids increases the Fluidity
 
 
 ---------------------
-## Passive Transport is diffusion across a membrane with no energy investment
-
-***Diffusion:*** 
-- The tendency for particles of any substance to spread out into the available space
-- Two or more subtances diffuse independenty of each other, i.e, each diffuses down its own concentration gradient
-- Because cell does not have to do work when molecules diffuse across its membrane, such movement is caled ***PASSIVE TRANSPORT***
-  i.e, the cells does not expend energy to transport substances that are diffusing down their concentration levels
-- Much of the **Traffic** across membranes occurs by diffusion.
-
-$Q.$ Can ions and polar molecules also diffuse across the hydrophobic interior of a membrane?
-> They can if they are moving down their concentration gradients and if they have tranport proteins to help them cross.
-
- ----
 
 ## Membrane Proteins
 
-### Integral Proteins
+### Integral Proteins (Intrinsic)
+- Directly incorporated within the lipid bilayer and tightly bound
+- Provides a channel for the water-soluble substances
+- ***Transmembrane Proteins & Transport Proteins***
 
 #### 1. Ion Channel
 Allows specific ion to move through water-filled pore. Most plasma membranes include specific chanells for several common ions.
@@ -82,7 +74,7 @@ Allows specific ion to move through water-filled pore. Most plasma membranes inc
 Transports specific substances across membrane by changing shape. For Ex, Amino acids, needed to synthesize new proteins, enter body cells via transporters
 
 #### 3. Receptor
-Recognizes specific ligand and alters cell's fucntion is ome way. For ex, Antiduretic hormone binds to rececptors in the kidneys and changes the water permeability of certain plasma membranes.
+Recognizes specific ligand and alters cell's fucntion is one way. For ex, Antiduretic hormone binds to rececptors in the kidneys and changes the water permeability of certain plasma membranes.
 
 #### 4. Enzyme
 Catalyzes reaciton isnide or outside cell. For Ex, lactase protruding from epithelial cells lining your small intestine splits the dissacharide lactose in the milk you drinki
@@ -90,11 +82,15 @@ Catalyzes reaciton isnide or outside cell. For Ex, lactase protruding from epith
 #### 5. Linker
 Anchors filaments inside and outside to the plasma membrane, providing structural stability. May also participate in movement of the cell or link two cells together.
 
-### Peripheral Proteins
+
+### Peripheral Proteins (Extrinsic)
+- On Membrane surface and located entirely outside of the lipid bilayer
+- Either on the extracellular or cytoplasmic surface
 
 #### 1. Cell identity Marker
 Distinguishes your cells from anyone else's. (***Unless an identical Twin***).
 An important class of such markers are the major histrocompatability (MHC) Proteins
+
 
 ### Transport Protein
 
@@ -109,3 +105,16 @@ An important class of such markers are the major histrocompatability (MHC) Prote
 
 -----
 
+## Passive Transport is diffusion across a membrane with no energy investment
+
+***Diffusion:*** 
+- The tendency for particles of any substance to spread out into the available space
+- Two or more subtances diffuse independenty of each other, i.e, each diffuses down its own concentration gradient
+- Because cell does not have to do work when molecules diffuse across its membrane, such movement is caled ***PASSIVE TRANSPORT***
+  i.e, the cells does not expend energy to transport substances that are diffusing down their concentration levels
+- Much of the **Traffic** across membranes occurs by diffusion.
+
+$Q.$ Can ions and polar molecules also diffuse across the hydrophobic interior of a membrane?
+> They can if they are moving down their concentration gradients and if they have tranport proteins to help them cross.
+
+ 
