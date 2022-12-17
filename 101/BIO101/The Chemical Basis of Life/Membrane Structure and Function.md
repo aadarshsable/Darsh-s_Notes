@@ -1,10 +1,15 @@
 ## Membranes are fluid mosaics of lipids and proteins with many functions
 
 Biologists use the fluid mosaic model to describe a membrane's structure 
-i.e, a diverse protein molecules suspended ina fluid phsopholipid bilayer.
+i.e, a diverse protein molecules suspended in a fluid phsopholipid bilayer.
 This model illustrates the structure and function of a plasma membrane.
 
 [Fluid Mosaic Model](<Fluid Mosaic Model>)
+
+![[Pasted image 20221217115506.png]]
+
+The ***Lipid Bilayer model*** is a subset of ***Fluid Mosaic Model*** as it also contains Lipid Bilayers but with additional **Proteins** and **Glycolipids**
+
 
 ------------------
 
@@ -16,6 +21,8 @@ This model illustrates the structure and function of a plasma membrane.
 	  We can demonstrate this by shaking phospholipids and water. The lipids will form a bilayer surrounding around water-filled bubbles
 	  
 ![[Pasted image 20221216182320.png]]
+- The Phospholipids can arrange themselves latteraly very easily and move faster than the proteins
+
 
 $Q.$ *What is the basic requirement for life to form?*
 > A membrane that not only encolses a successful assembly of molecules but also regulates chemical exchanges with the environment.
