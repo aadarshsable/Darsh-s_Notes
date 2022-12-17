@@ -11,6 +11,10 @@ This model illustrates the structure and function of a plasma membrane.
 The ***Lipid Bilayer model*** is a subset of ***Fluid Mosaic Model*** as it also contains Lipid Bilayers but with additional **Proteins** and **Glycolipids**
 Additional **Gobular Proteins** aree also embedded into the lipid bilayer
 
+- ***Fluid Mosaic Model*** was formated by Singer-Nicolson (1972)
+- ***Lipid Bilayer Model*** was formated by Gorter and Grender (1925)
+- ***Sandwich Model*** was formated by Danielli-Dawson (1935)
+
 ### Cell Recognition
 - The **Glycolipids** & **Glycoproteins** also help in cell recognition
 - They are usually branched *oligosaccharides* (<15 monomers)
@@ -119,3 +123,4 @@ $Q.$ Can ions and polar molecules also diffuse across the hydrophobic interior o
 We know what Osmosis is :)
 
 ----
+
