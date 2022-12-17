@@ -228,6 +228,11 @@ Can be seen in Sodium-Potassium Pump
 
 ![[Pasted image 20221217174116.png]]
 
+#### Three types of Endocytosis
+![[Pasted image 20221217174527.png]]
+
+----------
+
 
 
 
