@@ -11,6 +11,10 @@ This model illustrates the structure and function of a plasma membrane.
 The ***Lipid Bilayer model*** is a subset of ***Fluid Mosaic Model*** as it also contains Lipid Bilayers but with additional **Proteins** and **Glycolipids**
 Additional **Gobular Proteins** aree also embedded into the lipid bilayer
 
+### Cell Recognition
+The **Glycolipids** & **Glycoproteins** also help in cell recognition
+They are usually branched **
+
 ------------------
 
 ## The spontaneous formation of membranes was a critical step in the origin of life
@@ -35,10 +39,17 @@ $Q.$ *What is the basic requirement for life to form?*
 As Temperature decreases the phospholipids come close to each other i.e, the *distance* between them decreases, which decreases the Fluidity
 Similarly, Fluidity increases with increase in Temperature
 
-#### Cholesterol
+#### Cholesterol (buffer)
 Cholesterol inserts itself between the phospholipids
 At Low Temperature, due to insertion of cholesterol the distance between the Phospholipids increases thus Fluidity increases.
-At High Temperature, 
+At High Temperature, insertion of cholesterol brings the phospholipids close together as they were already far apart, which decreases the Fluidity
+
+#### Saturated and Unsatured FattyAcids
+
+Satured Fattyacids decreases the Fluidity while
+Unsatured fattyacids increases the Fluidity
+
+![[Drawing 2022-12-17 13.27.49.excalidraw.png]]
 
 
 ---------------------
