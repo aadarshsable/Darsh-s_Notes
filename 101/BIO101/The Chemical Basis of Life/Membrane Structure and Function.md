@@ -116,4 +116,6 @@ An important class of such markers are the major histrocompatability (MHC) Prote
 $Q.$ Can ions and polar molecules also diffuse across the hydrophobic interior of a membrane?
 > They can if they are moving down their concentration gradients and if they have tranport proteins to help them cross.
 
- 
+We know what Osmosis is :)
+
+----
