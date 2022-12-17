@@ -69,3 +69,18 @@ $Q.$ Can ions and polar molecules also diffuse across the hydrophobic interior o
 
  ----
 
+## Membrane Proteins
+
+### Integral Proteins
+
+#### 1. Ion Channel
+Allows specific ion to move through water-filled pore. Most plasma membranes include specific chanells for several common ions.
+
+#### 2. Transporter
+Transports specific substances across membrane by changing shape. For Ex, Amino acids, needed to synthesize new proteins, enter body cells via transporters
+
+#### 3. Receptor
+Recognizes specific ligand and alters cell's fucntion is ome way. For ex, Antiduretic hormone binds to rececptors in the kidneys and changes the water permeability of certain plasma membranes.
+
+#### 4. Enzyme
+Catalyzes reaciton isnide or outside cell. For Ex, lactase protruding from epithelial cells lining your small intestine splits the dissacharide lactose in the milk you drinki
