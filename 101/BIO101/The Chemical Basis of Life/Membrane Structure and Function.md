@@ -9,7 +9,7 @@ This model illustrates the structure and function of a plasma membrane.
 ![[Pasted image 20221217115506.png]]
 
 The ***Lipid Bilayer model*** is a subset of ***Fluid Mosaic Model*** as it also contains Lipid Bilayers but with additional **Proteins** and **Glycolipids**
-
+Additional **Gobular Proteins** aree also embedded into the lipid bilayer
 
 ------------------
 
@@ -27,6 +27,8 @@ The ***Lipid Bilayer model*** is a subset of ***Fluid Mosaic Model*** as it also
 $Q.$ *What is the basic requirement for life to form?*
 > A membrane that not only encolses a successful assembly of molecules but also regulates chemical exchanges with the environment.
 > For regulation the membrane should contain proteins embedded into it, cause only simple lipid bilayers are not sufficient
+
+-----
 
 
 ---------------------

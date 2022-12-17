@@ -30,6 +30,16 @@
             }
           },
           {
+            "id": "5c2297d9e3cc4800",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf"
+              }
+            }
+          },
+          {
             "id": "43cfc5b8e5ce9225",
             "type": "leaf",
             "state": {
@@ -187,12 +197,12 @@
   "active": "3511615a4b589400",
   "lastOpenFiles": [
     "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
+    "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
+    "101/CHEM101/Notes/CHM101_7th class.pdf",
     "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
     "books/Chem/Duward Shriver, Mark Weller, Tina Overton, Jonathan Rourke, Fraser Armstrong - Inorganic Chemistry-Macmillan Education (W. H. Freeman) (c2014).pdf",
     "101/BIO101/Bio Course.md",
-    "101/CHEM101/Notes/CHM101_7th class.pdf",
     "101/CHEM101/Notes/chm101_5th and 6th class.pdf",
-    "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
     "books/Bio/Campbell Biology Concepts Connections.pdf",
     "101/CHEM101/Notes/chm101_3rd class.pdf",
     "Extra/bs.md"
