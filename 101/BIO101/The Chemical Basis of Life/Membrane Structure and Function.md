@@ -174,3 +174,17 @@ We know what Osmosis is :)
 
 ## Membrane Potential
 
+- Voltage across membranes happens when anions/cations are unequally distributed across cell membranes 
+- Potential ranges from $-50 \rightarrow -200$ mv
+- Negative sign indicates the inside of the cell is charged
+- Affects traffic of charged substances across membrane, favours diffusion of anions out, cations in.
+
+### Factors contributing to Membrane Potential
+
+- Negatively charged proteins in the cells interior
+- Plasma membrane's selective permeability to various ions
+- The ***Sodium-Potassium pump*** is an Electrogenic Pump.
+   It is the major one in Animals, ***Proton Pump*** is major one in Plants, bacteria, fungi (also mitochondria and chloroplasts use it to make ATP)
+
+![[Pasted image 20221217163035.png]]
+
