@@ -33,7 +33,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "books/Chem/Duward Shriver, Mark Weller, Tina Overton, Jonathan Rourke, Fraser Armstrong - Inorganic Chemistry-Macmillan Education (W. H. Freeman) (c2014).pdf"
+                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Chem/Duward Shriver, Mark Weller, Tina Overton, Jonathan Rourke, Fraser Armstrong - Inorganic Chemistry-Macmillan Education (W. H. Freeman) (c2014).pdf",
+                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Chem/Duward Shriver, Mark Weller, Tina Overton, Jonathan Rourke, Fraser Armstrong - Inorganic Chemistry-Macmillan Education (W. H. Freeman) (c2014).pdf",
+                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Chem/Duward Shriver, Mark Weller, Tina Overton, Jonathan Rourke, Fraser Armstrong - Inorganic Chemistry-Macmillan Education (W. H. Freeman) (c2014).pdf"
+                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf"
               }
             }
           },
@@ -182,8 +182,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3a32b05078690b7",
+  "active": "43cfc5b8e5ce9225",
   "lastOpenFiles": [
+    "books/Chem/Duward Shriver, Mark Weller, Tina Overton, Jonathan Rourke, Fraser Armstrong - Inorganic Chemistry-Macmillan Education (W. H. Freeman) (c2014).pdf",
     "101/BIO101/Bio Course.md",
     "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
     "101/CHEM101/Notes/CHM101_7th class.pdf",
@@ -192,7 +193,6 @@
     "books/Bio/Campbell Biology Concepts Connections.pdf",
     "101/CHEM101/Notes/chm101_3rd class.pdf",
     "Extra/bs.md",
-    "101/MTH101/data/Images/Pasted image 20221214225856.png",
-    "101/BIO101/data/images/Pasted image 20221216005127.png"
+    "101/MTH101/data/Images/Pasted image 20221214225856.png"
   ]
 }
