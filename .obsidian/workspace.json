@@ -18,11 +18,15 @@
             }
           },
           {
-            "id": "3511615a4b589400",
+            "id": "ef71bc3079343d37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -102,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -118,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md"
+              }
             }
           },
           {
@@ -192,17 +201,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3a32b05078690b7",
+  "active": "ef71bc3079343d37",
   "lastOpenFiles": [
+    "101/BIO101/Notes/Bio 101-Topic 3-Membranes.pdf",
+    "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
+    "Pasted image 20221217172057.png",
     "Pasted image 20221217172056.png",
     "101/BIO101/data/images/Pasted image 20221217163705.png",
     "101/BIO101/data/images/Pasted image 20221217164308.png",
     "101/BIO101/data/images/Pasted image 20221217163035.png",
     "101/BIO101/data/images/Pasted image 20221217162211.png",
     "101/BIO101/data/images/Pasted image 20221217162106.png",
-    "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
-    "101/BIO101/Bio Course.md",
-    "101/BIO101/data/images/Pasted image 20221217160843.png",
-    "101/BIO101/data/images/Pasted image 20221217135723.png"
+    "101/BIO101/Bio Course.md"
   ]
 }

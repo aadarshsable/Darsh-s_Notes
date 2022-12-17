@@ -133,14 +133,14 @@ We know what Osmosis is :)
 ### Passive Transport
 - down Concentration Gradient
 - Helps polar molecules get through lipid bilayers
-- Can be saturated with solute (rate limited)
+- Can be saturated with solute (rate limited) (all carriers get occupied)
 - Can be due to conformational changes
-- Can be gated channels
+- Can be gated channels (open clossing of the proteins)
 
 ##### Passive Transport for ions depends on:
 - Concentration gradient of the ion
 - Effect of the membrane potential of the ion
-- The ***Electrochemical Gradient*** ( **a measure of the free energy available to carry out the useful work of transporting the molecule across the membrane**.) is the diffusion gradient created from the combined effetcs of both of the above
+- The ***Electrochemical Gradient*** (**a measure of the free energy available to carry out the useful work of transporting the molecule across the membrane**.) is the diffusion gradient created from the combined effetcs of both of the above
 
 
 ### Active Transport
