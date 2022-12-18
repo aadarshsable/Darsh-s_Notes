@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_8-12 class.pdf"
+                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_8-12 class.pdf",
+                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_8-12 class.pdf",
+                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_8-12 class.pdf"
+                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf"
               }
             }
           },
@@ -175,8 +175,8 @@
   },
   "active": "43cfc5b8e5ce9225",
   "lastOpenFiles": [
-    "101/CHEM101/GOC.md",
     "101/CHEM101/Notes/chm101_8-12 class.pdf",
+    "101/CHEM101/GOC.md",
     "101/CHEM101/Notes/CHM101_7th class.pdf",
     "101/CHEM101/Notes/CHM101_19-21st class_cycloalkanes.pdf",
     "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
