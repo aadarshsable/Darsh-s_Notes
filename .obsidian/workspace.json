@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "21b1e9b269965bbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/BIO101/2.The Chemical Basis of Life/Membrane Structure and Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f3f156707e437f0c",
             "type": "leaf",
             "state": {
@@ -207,14 +219,14 @@
   },
   "active": "beb54a3a1ebbb562",
   "lastOpenFiles": [
-    "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
+    "101/BIO101/2.The Chemical Basis of Life/Membrane Structure and Function.md",
     "101/CHEM101/Notes/CHM101_19-21st class_cycloalkanes.pdf",
+    "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
     "101/CHEM101/GOC.md",
     "101/CHEM101/Notes/chm101_8-12 class.pdf",
     "books/Chem/Jonathan Clayden, Nick Greeves, Stuart Warren, Peter Wothers - Organic Chemistry-Oxford University Press, USA (2000).pdf",
     "101/CHEM101/Notes/chm101_4th class.pdf",
     "101/CHEM101/Notes/chm101_3rd class.pdf",
-    "101/BIO101/2.The Chemical Basis of Life/Membrane Structure and Function.md",
     "books/Fijics/Kleppner - Mechanics.pdf",
     "101/CHEM101/Notes/CHM101_7th class.pdf"
   ]

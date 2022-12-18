@@ -1,7 +1,7 @@
 ## Membranes are fluid mosaics of lipids and proteins with many functions
 
 Biologists use the fluid mosaic model to describe a membrane's structure 
-i.e, a diverse protein molecules suspended in a fluid phsopholipid bilayer.
+i.e, a diverse protein molecules suspended in a fluid phospholipid bilayer.
 This model illustrates the structure and function of a plasma membrane.
 
 [Fluid Mosaic Model](<Fluid Mosaic Model>)
@@ -9,11 +9,11 @@ This model illustrates the structure and function of a plasma membrane.
 ![[Pasted image 20221217115506.png]]
 
 The ***Lipid Bilayer model*** is a subset of ***Fluid Mosaic Model*** as it also contains Lipid Bilayers but with additional **Proteins** and **Glycolipids**
-Additional **Gobular Proteins** aree also embedded into the lipid bilayer
+Additional **Gobular Proteins** are also embedded into the lipid bilayer
 
-- ***Fluid Mosaic Model*** was formated by Singer-Nicolson (1972)
-- ***Lipid Bilayer Model*** was formated by Gorter and Grender (1925)
-- ***Sandwich Model*** was formated by Danielli-Dawson (1935)
+- ***Fluid Mosaic Model*** was formatted by Singer-Nicolson (1972)
+- ***Lipid Bilayer Model*** was formatted by Gorter and Grender (1925)
+- ***Sandwich Model*** was formatted by Danielli-Dawson (1935)
 
 ### Cell Recognition
 - The **Glycolipids** & **Glycoproteins** also help in cell recognition
@@ -196,9 +196,9 @@ We know what Osmosis is :)
 
 
 ### Contransport
-A process where a single ATP-powered pump actively transports (with the hellp of ATP) one solute, and indirectly drives the transport of other solutes against their concentration gradients.
+A process where a single ATP-powered pump actively transports (with the help of ATP) one solute, and indirectly drives the transport of other solutes against their concentration gradients.
 
-Here the $H^{+}$ requires ATP (active transport) where as the Glucose doesnt (indirect/passive transport)
+Here the $H^{+}$ requires ATP (active transport) where as the Glucose doesn't (indirect/passive transport)
 Can be seen in Sodium-Potassium Pump
 ![[Pasted image 20221217164308.png]]
 
@@ -212,11 +212,11 @@ Can be seen in Sodium-Potassium Pump
 - Used by ***secretory cells*** to export products
 
 ### Endocytosis
-- Importation of macromolecules into a cell by ofrming vesicles from membrane
+- Importation of macromolecules into a cell by forming vesicles from membrane
 - Used by cells to incorporate extracellular substances
 
 ***Phagocytosis:*** 
-> Cell eating solid particles involved. Cells enguls them with pseudopods. The vessicle then fuses with a food vacoule
+> Cell eating solid particles involved. Cells engulfs them with pseudopods. The vesicle then fuses with a food vacuoles
 
 ***Pinocytosis:***
 > Cell drinking fluid droplets involved
