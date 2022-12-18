@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "beb54a3a1ebbb562",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/CHEM101/Notes/chm101_8-12 class.pdf"
+              }
+            }
+          },
+          {
             "id": "b2af0f04df2d4743",
             "type": "leaf",
             "state": {
@@ -39,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
+                "file": "books/Fijics/Kleppner - Mechanics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
+                "file": "books/Fijics/Kleppner - Mechanics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf"
+                "file": "books/Fijics/Kleppner - Mechanics.pdf"
               }
             }
           },
@@ -183,12 +194,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "43cfc5b8e5ce9225",
+  "active": "b2af0f04df2d4743",
   "lastOpenFiles": [
-    "books/Fijics/Kleppner - Mechanics.pdf",
-    "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
     "101/CHEM101/Notes/chm101_8-12 class.pdf",
+    "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
     "101/CHEM101/GOC.md",
+    "books/Fijics/Kleppner - Mechanics.pdf",
     "101/CHEM101/Notes/CHM101_7th class.pdf",
     "101/CHEM101/Notes/CHM101_19-21st class_cycloalkanes.pdf",
     "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
