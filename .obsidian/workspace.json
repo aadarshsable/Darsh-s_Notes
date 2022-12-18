@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "e044e60cf9ab12cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/BIO101/2.The Chemical Basis of Life/Membrane Structure and Function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b2af0f04df2d4743",
             "type": "leaf",
             "state": {
@@ -196,13 +208,13 @@
   },
   "active": "beb54a3a1ebbb562",
   "lastOpenFiles": [
-    "books/Fijics/Kleppner - Mechanics.pdf",
+    "101/BIO101/2.The Chemical Basis of Life/Membrane Structure and Function.md",
     "101/CHEM101/Notes/chm101_8-12 class.pdf",
+    "books/Fijics/Kleppner - Mechanics.pdf",
     "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
     "101/CHEM101/GOC.md",
     "101/CHEM101/Notes/CHM101_7th class.pdf",
     "101/CHEM101/Notes/CHM101_19-21st class_cycloalkanes.pdf",
-    "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
     "101/BIO101/data/images/Pasted image 20221217174527.png",
     "101/BIO101/data/images/Pasted image 20221217174116.png",
     "101/BIO101/data/images/Pasted image 20221217172056.png"
