@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Tutorial01_solutions.pdf",
+                "file": "101/MTH101/Notes/Tutorials/Tutorial01.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Tutorial01_solutions.pdf",
+                "file": "101/MTH101/Notes/Tutorials/Tutorial01.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Tutorial01_solutions.pdf"
+                "file": "101/MTH101/Notes/Tutorials/Tutorial01.pdf"
               }
             }
           },
@@ -178,10 +178,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e7dca44332396f2b",
+  "active": "19f90326af4bcb77",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/MTH101/Notes/Tutorials/Tutorial01_solutions.pdf",
+    "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "Pasted Image 20221217132820_923.png",
     "Pasted Image 20221217132805_921.png",
     "Pasted image 20221217135723.png",
