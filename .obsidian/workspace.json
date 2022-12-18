@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_8-12 class.pdf",
+                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_8-12 class.pdf",
+                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/CHEM101/Notes/chm101_8-12 class.pdf"
+                "file": "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf"
               }
             }
           },
@@ -206,10 +205,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "beb54a3a1ebbb562",
+  "active": "43cfc5b8e5ce9225",
   "lastOpenFiles": [
-    "101/BIO101/2.The Chemical Basis of Life/Membrane Structure and Function.md",
     "101/CHEM101/Notes/chm101_8-12 class.pdf",
+    "101/BIO101/2.The Chemical Basis of Life/Membrane Structure and Function.md",
     "books/Fijics/Kleppner - Mechanics.pdf",
     "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
     "101/CHEM101/GOC.md",
