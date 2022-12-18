@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "efdfed6641a2a0dd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "608d415eee5ea2d4",
@@ -125,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/10.Permutations.md",
+                "file": "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/10.Permutations.md",
+                "file": "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/10.Permutations.md"
+                "file": "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf"
               }
             }
           },
@@ -203,17 +213,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d64c3e69cb77d391",
+  "active": "efdfed6641a2a0dd",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/MTH101/Group Theory/10.Permutations.md",
+    "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf",
+    "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/MTH101/Notes/Notes/Lecture12.pdf",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Group Theory/Cool Stuff.md",
     "101/CHEM101/GOC.md",
     "books/Fijics/Kleppner - Mechanics.pdf",
     "101/BIO101/2.The Chemical Basis of Life/Membrane Structure and Function.md",
-    "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
-    "101/CHEM101/Notes/CHM101_19-21st class_cycloalkanes.pdf"
+    "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf"
   ]
 }
