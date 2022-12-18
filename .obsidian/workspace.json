@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/Cool Stuff.md",
+                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,6 +32,16 @@
               "type": "pdf",
               "state": {
                 "file": "101/MTH101/Notes/Notes/Lecture11.pdf"
+              }
+            }
+          },
+          {
+            "id": "c723f80571935775",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Notes/Lecture12.pdf"
               }
             }
           }
@@ -85,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -101,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/Cool Stuff.md",
+                "file": "101/MTH101/Notes/Notes/Lecture11.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/Cool Stuff.md",
+                "file": "101/MTH101/Notes/Notes/Lecture11.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/Cool Stuff.md"
+                "file": "101/MTH101/Notes/Notes/Lecture11.pdf"
               }
             }
           },
@@ -179,17 +190,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6343171228f09cb7",
+  "active": "9656002d05f1294e",
   "lastOpenFiles": [
+    "101/MTH101/Notes/Notes/Lecture12.pdf",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
-    "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Group Theory/Cool Stuff.md",
+    "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/CHEM101/GOC.md",
     "books/Fijics/Kleppner - Mechanics.pdf",
     "101/BIO101/2.The Chemical Basis of Life/Membrane Structure and Function.md",
     "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
     "101/CHEM101/Notes/CHM101_19-21st class_cycloalkanes.pdf",
-    "101/CHEM101/Notes/chm101_8-12 class.pdf",
-    "books/Chem/Jonathan Clayden, Nick Greeves, Stuart Warren, Peter Wothers - Organic Chemistry-Oxford University Press, USA (2000).pdf"
+    "101/CHEM101/Notes/chm101_8-12 class.pdf"
   ]
 }
