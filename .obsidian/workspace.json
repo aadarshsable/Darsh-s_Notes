@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
+                "file": "101/MTH101/Group Theory/Cool Stuff.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
+                "file": "101/MTH101/Group Theory/Cool Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md",
+                "file": "101/MTH101/Group Theory/Cool Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/9.Cyclic Groups.md"
+                "file": "101/MTH101/Group Theory/Cool Stuff.md"
               }
             }
           },
@@ -180,10 +179,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3a32b05078690b7",
+  "active": "6343171228f09cb7",
   "lastOpenFiles": [
-    "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
+    "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Group Theory/Cool Stuff.md",
     "101/CHEM101/GOC.md",
     "books/Fijics/Kleppner - Mechanics.pdf",
