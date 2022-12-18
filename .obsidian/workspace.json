@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf",
+                "file": "101/CHEM101/Notes/chm101_8-12 class.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf",
+                "file": "101/CHEM101/Notes/chm101_8-12 class.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf"
+                "file": "101/CHEM101/Notes/chm101_8-12 class.pdf"
               }
             }
           },
@@ -194,12 +194,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b2af0f04df2d4743",
+  "active": "beb54a3a1ebbb562",
   "lastOpenFiles": [
+    "books/Fijics/Kleppner - Mechanics.pdf",
     "101/CHEM101/Notes/chm101_8-12 class.pdf",
     "101/CHEM101/Notes/chm101_14-18th class_stereochemistry.pdf",
     "101/CHEM101/GOC.md",
-    "books/Fijics/Kleppner - Mechanics.pdf",
     "101/CHEM101/Notes/CHM101_7th class.pdf",
     "101/CHEM101/Notes/CHM101_19-21st class_cycloalkanes.pdf",
     "101/BIO101/The Chemical Basis of Life/Membrane Structure and Function.md",
