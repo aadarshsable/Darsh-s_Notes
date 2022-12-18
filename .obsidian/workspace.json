@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "608d415eee5ea2d4",
@@ -55,6 +55,16 @@
               "type": "pdf",
               "state": {
                 "file": "101/MTH101/Notes/Notes/Lecture11.pdf"
+              }
+            }
+          },
+          {
+            "id": "007d7fdd299f676a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Notes/Lecture13.pdf"
               }
             }
           },
@@ -119,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -135,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf",
+                "file": "101/MTH101/Notes/Notes/Lecture13.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf",
+                "file": "101/MTH101/Notes/Notes/Lecture13.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf"
+                "file": "101/MTH101/Notes/Notes/Lecture13.pdf"
               }
             }
           },
@@ -213,7 +224,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "efdfed6641a2a0dd",
+  "active": "007d7fdd299f676a",
   "lastOpenFiles": [
     "101/MTH101/Group Theory/10.Permutations.md",
     "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf",
