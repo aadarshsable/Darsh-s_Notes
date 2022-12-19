@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Fijics/Solutions To Kleppner.pdf",
+                "file": "books/Fijics/Kleppner - Mechanics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Fijics/Solutions To Kleppner.pdf",
+                "file": "books/Fijics/Kleppner - Mechanics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Fijics/Solutions To Kleppner.pdf"
+                "file": "books/Fijics/Kleppner - Mechanics.pdf"
               }
             }
           },
@@ -172,10 +172,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "272a4eb6973581b0",
+  "active": "f4f119da9391888e",
   "lastOpenFiles": [
-    "books/Fijics/Kleppner - Mechanics.pdf",
     "books/Fijics/Solutions To Kleppner.pdf",
+    "books/Fijics/Kleppner - Mechanics.pdf",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Notes/Notes/Lecture13.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial03.pdf",
