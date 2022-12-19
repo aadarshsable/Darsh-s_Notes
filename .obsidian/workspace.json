@@ -16,8 +16,19 @@
                 "file": "books/Fijics/Kleppner - Mechanics.pdf"
               }
             }
+          },
+          {
+            "id": "272a4eb6973581b0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Fijics/Solutions To Kleppner.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -84,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf",
+                "file": "books/Fijics/Solutions To Kleppner.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf",
+                "file": "books/Fijics/Solutions To Kleppner.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf"
+                "file": "books/Fijics/Solutions To Kleppner.pdf"
               }
             }
           },
@@ -162,8 +172,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f4f119da9391888e",
+  "active": "272a4eb6973581b0",
   "lastOpenFiles": [
+    "books/Fijics/Kleppner - Mechanics.pdf",
+    "books/Fijics/Solutions To Kleppner.pdf",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Notes/Notes/Lecture13.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial03.pdf",
@@ -171,8 +183,6 @@
     "101/MTH101/Group Theory/10.Permutations.md",
     "101/MTH101/Group Theory/11.Constructing Groups.md",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
-    "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf",
-    "101/MTH101/Notes/Tutorials/Tutorial02.pdf",
-    "101/MTH101/Notes/Tutorials/Tutorial01.pdf"
+    "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf"
   ]
 }
