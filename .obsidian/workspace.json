@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f4f119da9391888e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf"
-              }
-            }
-          },
-          {
             "id": "0a589667bf275358",
             "type": "leaf",
             "state": {
@@ -70,8 +60,19 @@
                 "file": "101/MTH101/Notes/Notes/Lecture13.pdf"
               }
             }
+          },
+          {
+            "id": "f4f119da9391888e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Fijics/Kleppner - Mechanics.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
