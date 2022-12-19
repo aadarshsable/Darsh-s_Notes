@@ -4,89 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "608d415eee5ea2d4",
+        "id": "bbc3c678b3c107a5",
         "type": "tabs",
-        "dimension": 50.06702412868632,
         "children": [
           {
-            "id": "9656002d05f1294e",
+            "id": "f4f119da9391888e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture11.pdf"
-              }
-            }
-          },
-          {
-            "id": "631f67c7d7cd7c8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/MTH101/Group Theory/11.Constructing Groups.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9f9d5cc5d00ad07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/MTH101/Group Theory/10.Permutations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da232734f0c844ae",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/MTH101/Notes/Tutorials/ProblemSet2.pdf"
-              }
-            }
-          },
-          {
-            "id": "967683b043a2ca5e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/MTH101/Notes/Tutorials/Tutorial03.pdf"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "891ecb6fb5421535",
-        "type": "tabs",
-        "dimension": 49.93297587131367,
-        "children": [
-          {
-            "id": "007d7fdd299f676a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture13.pdf"
-              }
-            }
-          },
-          {
-            "id": "d0ddd2c0aec1eded",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture11.pdf"
+                "file": "books/Fijics/Kleppner - Mechanics.pdf"
               }
             }
           }
@@ -140,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -157,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/11.Constructing Groups.md",
+                "file": "books/Fijics/Kleppner - Mechanics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/11.Constructing Groups.md",
+                "file": "books/Fijics/Kleppner - Mechanics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/11.Constructing Groups.md"
+                "file": "books/Fijics/Kleppner - Mechanics.pdf"
               }
             }
           },
@@ -235,16 +161,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "631f67c7d7cd7c8f",
+  "active": "f4f119da9391888e",
   "lastOpenFiles": [
+    "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Notes/Notes/Lecture13.pdf",
+    "101/MTH101/Notes/Tutorials/Tutorial03.pdf",
+    "101/MTH101/Notes/Tutorials/ProblemSet2.pdf",
+    "101/MTH101/Group Theory/10.Permutations.md",
     "101/MTH101/Group Theory/11.Constructing Groups.md",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
-    "101/MTH101/Group Theory/10.Permutations.md",
-    "101/MTH101/Notes/Notes/Lecture11.pdf",
-    "101/MTH101/Notes/Tutorials/ProblemSet2.pdf",
     "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf",
-    "101/MTH101/Notes/Tutorials/Tutorial03.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial02.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial01.pdf"
   ]
