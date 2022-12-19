@@ -91,8 +91,19 @@
                 "file": "101/MTH101/Notes/Notes/Lecture13.pdf"
               }
             }
+          },
+          {
+            "id": "d0ddd2c0aec1eded",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Notes/Notes/Lecture11.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,13 +252,13 @@
   "lastOpenFiles": [
     "101/MTH101/Group Theory/10.Permutations.md",
     "101/MTH101/Group Theory/11.Constructing Groups.md",
+    "101/MTH101/Group Theory/9.Cyclic Groups.md",
+    "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Notes/Tutorials/ProblemSet2.pdf",
     "101/MTH101/Notes/Notes/Lecture13.pdf",
-    "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial03.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial02.pdf",
-    "101/MTH101/Notes/Tutorials/Tutorial01.pdf",
-    "101/MTH101/Notes/Notes/Lecture12.pdf"
+    "101/MTH101/Notes/Tutorials/Tutorial01.pdf"
   ]
 }
