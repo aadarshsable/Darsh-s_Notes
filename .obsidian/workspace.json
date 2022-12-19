@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture13.pdf",
+                "file": "101/MTH101/Group Theory/11.Constructing Groups.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture13.pdf",
+                "file": "101/MTH101/Group Theory/11.Constructing Groups.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Notes/Notes/Lecture13.pdf"
+                "file": "101/MTH101/Group Theory/11.Constructing Groups.md"
               }
             }
           },
@@ -235,14 +235,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "007d7fdd299f676a",
+  "active": "631f67c7d7cd7c8f",
   "lastOpenFiles": [
+    "101/MTH101/Notes/Notes/Lecture13.pdf",
     "101/MTH101/Group Theory/11.Constructing Groups.md",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/MTH101/Group Theory/10.Permutations.md",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Notes/Tutorials/ProblemSet2.pdf",
-    "101/MTH101/Notes/Notes/Lecture13.pdf",
     "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial03.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial02.pdf",
