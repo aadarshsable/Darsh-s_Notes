@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "0a589667bf275358",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf"
+              }
+            }
+          },
+          {
             "id": "272a4eb6973581b0",
             "type": "leaf",
             "state": {
@@ -196,15 +206,15 @@
   },
   "active": "f4f119da9391888e",
   "lastOpenFiles": [
-    "books/Fijics/Solutions To Kleppner.pdf",
+    "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
     "books/Fijics/Kleppner - Mechanics.pdf",
+    "books/Fijics/Solutions To Kleppner.pdf",
     "101/MTH101/Group Theory/11.Constructing Groups.md",
     "101/MTH101/Notes/Notes/Lecture13.pdf",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial03.pdf",
     "101/MTH101/Notes/Tutorials/ProblemSet2.pdf",
     "101/MTH101/Group Theory/10.Permutations.md",
-    "101/MTH101/Group Theory/9.Cyclic Groups.md",
-    "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf"
+    "101/MTH101/Group Theory/9.Cyclic Groups.md"
   ]
 }
