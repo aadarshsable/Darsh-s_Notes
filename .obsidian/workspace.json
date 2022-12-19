@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/11.Constructing Groups.md",
+                "file": "books/Fijics/Kleppner - Mechanics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/11.Constructing Groups.md",
+                "file": "books/Fijics/Kleppner - Mechanics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/11.Constructing Groups.md"
+                "file": "books/Fijics/Kleppner - Mechanics.pdf"
               }
             }
           },
@@ -192,12 +191,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
-  "active": "da87682a3959a602",
+  "active": "824406c3aad7ca35",
   "lastOpenFiles": [
-    "101/MTH101/Notes/Notes/Lecture13.pdf",
     "101/MTH101/Group Theory/11.Constructing Groups.md",
+    "101/MTH101/Notes/Notes/Lecture13.pdf",
     "books/Fijics/Kleppner - Mechanics.pdf",
     "books/Fijics/Solutions To Kleppner.pdf",
     "101/MTH101/Notes/Notes/Lecture11.pdf",
