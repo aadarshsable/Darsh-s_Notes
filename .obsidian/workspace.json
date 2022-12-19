@@ -30,6 +30,18 @@
             }
           },
           {
+            "id": "e9f9d5cc5d00ad07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/MTH101/Group Theory/10.Permutations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da232734f0c844ae",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "891ecb6fb5421535",
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/11.Constructing Groups.md",
+                "file": "101/MTH101/Group Theory/10.Permutations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/11.Constructing Groups.md",
+                "file": "101/MTH101/Group Theory/10.Permutations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/11.Constructing Groups.md"
+                "file": "101/MTH101/Group Theory/10.Permutations.md"
               }
             }
           },
@@ -211,10 +223,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "631f67c7d7cd7c8f",
+  "active": "e9f9d5cc5d00ad07",
   "lastOpenFiles": [
-    "101/MTH101/Notes/Notes/Lecture13.pdf",
     "101/MTH101/Group Theory/11.Constructing Groups.md",
+    "101/MTH101/Notes/Notes/Lecture13.pdf",
     "101/MTH101/Notes/Tutorials/ProblemSet2.pdf",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "101/MTH101/Notes/Tutorials/Quiz1_solutions.pdf",
