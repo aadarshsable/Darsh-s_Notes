@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Tutorial01.pdf"
+                "file": "101/MTH101/Notes/Tutorials/Tutorial02.pdf"
               }
             }
           }
@@ -29,7 +29,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Tutorial01_solutions.pdf"
+                "file": "101/MTH101/Notes/Tutorials/Tutorial02 solutions.pdf"
               }
             }
           }
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Tutorial01.pdf",
+                "file": "101/MTH101/Notes/Tutorials/Tutorial02 solutions.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Tutorial01.pdf",
+                "file": "101/MTH101/Notes/Tutorials/Tutorial02 solutions.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Tutorial01.pdf"
+                "file": "101/MTH101/Notes/Tutorials/Tutorial02 solutions.pdf"
               }
             }
           },
@@ -177,17 +178,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19f90326af4bcb77",
+  "active": "e7dca44332396f2b",
   "lastOpenFiles": [
-    "101/MTH101/Group Theory/0.Theorems.md",
+    "101/MTH101/Notes/Tutorials/Tutorial02.pdf",
+    "101/MTH101/Notes/Tutorials/Tutorial02 solutions.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial01.pdf",
+    "101/MTH101/Group Theory/0.Theorems.md",
     "101/MTH101/Notes/Tutorials/Tutorial01_solutions.pdf",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "Pasted Image 20221217132820_923.png",
     "Pasted Image 20221217132805_921.png",
     "Pasted image 20221217135723.png",
-    "101/MTH101/Group Theory/Cool Stuff.md",
-    "101/MTH101/Notes/Tutorials/ProblemSet1.pdf",
-    "101/MTH101/Notes/Notes/Lecture10.pdf"
+    "101/MTH101/Group Theory/Cool Stuff.md"
   ]
 }
