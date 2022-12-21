@@ -11,9 +11,11 @@
             "id": "19f90326af4bcb77",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Tutorial01.pdf"
+                "file": "101/MTH101/Group Theory/0.Theorems.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Tutorial01.pdf",
+                "file": "101/MTH101/Group Theory/0.Theorems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Tutorial01.pdf",
+                "file": "101/MTH101/Group Theory/0.Theorems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Notes/Tutorials/Tutorial01.pdf"
+                "file": "101/MTH101/Group Theory/0.Theorems.md"
               }
             }
           },
@@ -180,13 +181,13 @@
   },
   "active": "19f90326af4bcb77",
   "lastOpenFiles": [
+    "101/MTH101/Notes/Tutorials/Tutorial01.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial01_solutions.pdf",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "Pasted Image 20221217132820_923.png",
     "Pasted Image 20221217132805_921.png",
     "Pasted image 20221217135723.png",
     "101/MTH101/Group Theory/Cool Stuff.md",
-    "101/MTH101/Notes/Tutorials/Tutorial01.pdf",
     "101/MTH101/Notes/Tutorials/ProblemSet1.pdf",
     "101/MTH101/Notes/Notes/Lecture10.pdf",
     "101/MTH101/Notes/Notes/Lecture11.pdf"
