@@ -45,8 +45,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/6.Cosets.md",
+                "file": "101/MTH101/Notes/Tutorials/Tutorial02 solutions.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/6.Cosets.md",
+                "file": "101/MTH101/Notes/Tutorials/Tutorial02 solutions.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/6.Cosets.md"
+                "file": "101/MTH101/Notes/Tutorials/Tutorial02 solutions.pdf"
               }
             }
           },
@@ -190,10 +190,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bfb0f4c6ba7ca034",
+  "active": "e7dca44332396f2b",
   "lastOpenFiles": [
-    "101/MTH101/Notes/Tutorials/Tutorial02 solutions.pdf",
     "101/MTH101/Group Theory/6.Cosets.md",
+    "101/MTH101/Notes/Tutorials/Tutorial02 solutions.pdf",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
     "101/MTH101/Notes/Tutorials/Tutorial02.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial01.pdf",
