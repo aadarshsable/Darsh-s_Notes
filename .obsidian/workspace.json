@@ -44,16 +44,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7f4d1bea4e1df614",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
           }
         ]
       }
