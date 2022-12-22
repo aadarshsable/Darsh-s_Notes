@@ -32,8 +32,21 @@
                 "file": "101/MTH101/Notes/Tutorials/Tutorial02 solutions.pdf"
               }
             }
+          },
+          {
+            "id": "bfb0f4c6ba7ca034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/MTH101/Group Theory/6.Cosets.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
+                "file": "101/MTH101/Group Theory/6.Cosets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
+                "file": "101/MTH101/Group Theory/6.Cosets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/5.Lagrange's Theorem.md"
+                "file": "101/MTH101/Group Theory/6.Cosets.md"
               }
             }
           },
@@ -177,46 +190,10 @@
     "width": 300,
     "collapsed": true
   },
-  "floating": {
-    "id": "07fbd1a9ea93b5c9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9e21f7139e4feada",
-        "type": "window",
-        "children": [
-          {
-            "id": "60f1669de36c1abf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "4ffb71934fc29c76",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "4ffb71934fc29c76",
+  "active": "bfb0f4c6ba7ca034",
   "lastOpenFiles": [
     "101/MTH101/Notes/Tutorials/Tutorial02 solutions.pdf",
+    "101/MTH101/Group Theory/6.Cosets.md",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
     "101/MTH101/Notes/Tutorials/Tutorial02.pdf",
     "101/MTH101/Notes/Tutorials/Tutorial01.pdf",
@@ -224,7 +201,6 @@
     "101/MTH101/Notes/Tutorials/Tutorial01_solutions.pdf",
     "101/MTH101/Group Theory/9.Cyclic Groups.md",
     "Pasted Image 20221217132820_923.png",
-    "Pasted Image 20221217132805_921.png",
-    "Pasted image 20221217135723.png"
+    "Pasted Image 20221217132805_921.png"
   ]
 }
