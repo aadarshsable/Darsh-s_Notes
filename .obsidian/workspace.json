@@ -65,9 +65,11 @@
             "id": "f4f119da9391888e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf"
+                "file": "101/BIO101/2.The Chemical Basis of Life/Membrane Structure and Function.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -122,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -139,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf",
+                "file": "101/BIO101/2.The Chemical Basis of Life/Membrane Structure and Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf",
+                "file": "101/BIO101/2.The Chemical Basis of Life/Membrane Structure and Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf"
+                "file": "101/BIO101/2.The Chemical Basis of Life/Membrane Structure and Function.md"
               }
             }
           },
@@ -219,15 +220,15 @@
   },
   "active": "f4f119da9391888e",
   "lastOpenFiles": [
+    "101/MTH101/Group Theory/7.Modular Arthimetic.md",
+    "101/MTH101/Group Theory/9.Cyclic Groups.md",
+    "books/Fijics/Kleppner - Mechanics.pdf",
     "Extra/Rough.md",
     "101/MTH101/Group Theory/11.Constructing Groups.md",
     "Extra/bs.md",
     "101/MTH101/data/Images/Pasted image 20221219020412.png",
-    "books/Fijics/Kleppner - Mechanics.pdf",
     "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
     "books/Fijics/Solutions To Kleppner.pdf",
-    "101/MTH101/Notes/Notes/Lecture13.pdf",
-    "101/MTH101/Notes/Notes/Lecture11.pdf",
-    "101/MTH101/Notes/Tutorials/Tutorial03.pdf"
+    "101/MTH101/Notes/Notes/Lecture13.pdf"
   ]
 }
