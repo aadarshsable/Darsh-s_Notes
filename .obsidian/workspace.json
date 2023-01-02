@@ -8,24 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96e1a56a3fc167f4",
+            "id": "543d94fef87835c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Extra/bs.md",
-                "mode": "source",
-                "source": false
+                "file": "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf"
               }
             }
           },
           {
-            "id": "37c6156737c539a9",
+            "id": "527dfe5508a9f3c8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/MTH101/Group Theory/Notes/Notes/Lecture14.pdf"
+              }
+            }
+          },
+          {
+            "id": "8dadd181ad1c0782",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "101/MTH101/Group Theory/Notes/Tutorials/notes.md",
+                "file": "101/MTH101/Group Theory/0.Theorems.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Group Theory/Notes/Tutorials/notes.md",
+                "file": "101/MTH101/Group Theory/Notes/Notes/Lecture14.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Group Theory/Notes/Tutorials/notes.md",
+                "file": "101/MTH101/Group Theory/Notes/Notes/Lecture14.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Group Theory/Notes/Tutorials/notes.md"
+                "file": "101/MTH101/Group Theory/Notes/Notes/Lecture14.pdf"
               }
             }
           },
@@ -188,17 +196,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37c6156737c539a9",
+  "active": "527dfe5508a9f3c8",
   "lastOpenFiles": [
+    "101/MTH101/Group Theory/0.Theorems.md",
+    "101/MTH101/Group Theory/Notes/Notes/Lecture14.pdf",
+    "101/MTH101/Group Theory/Notes/Notes/DOUBTS.md",
+    "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
+    "101/MTH101/Group Theory/Notes/Tutorials/notes.md",
     "101/MTH101/Linear Algebra/Untitled.md",
     "101/MTH101/Untitled.md",
     "Extra/bs.md",
     "Extra/Rough.md",
-    "Extra/Profs.md",
-    "books/Fijics/Kleppner - Mechanics.pdf",
-    "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
-    "books/Fijics/Solutions To Kleppner.pdf",
-    "101/MTH101/Notes/Notes/Lecture13.pdf",
-    "101/MTH101/Group Theory/9.Cyclic Groups.md"
+    "Extra/Profs.md"
   ]
 }
