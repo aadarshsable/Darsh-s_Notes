@@ -8,22 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a589667bf275358",
+            "id": "96e1a56a3fc167f4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf"
+                "file": "Extra/bs.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "96e1a56a3fc167f4",
+            "id": "37c6156737c539a9",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.9"
+                "file": "101/MTH101/Group Theory/Notes/Tutorials/notes.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf",
+                "file": "101/MTH101/Group Theory/Notes/Tutorials/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf",
+                "file": "101/MTH101/Group Theory/Notes/Tutorials/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf"
+                "file": "101/MTH101/Group Theory/Notes/Tutorials/notes.md"
               }
             }
           },
@@ -184,17 +188,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "96e1a56a3fc167f4",
+  "active": "37c6156737c539a9",
   "lastOpenFiles": [
-    "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
-    "books/Fijics/Solutions To Kleppner.pdf",
+    "101/MTH101/Linear Algebra/Untitled.md",
+    "101/MTH101/Untitled.md",
     "Extra/bs.md",
     "Extra/Rough.md",
-    "101/MTH101/Notes/Notes/Lecture13.pdf",
-    "101/MTH101/Group Theory/9.Cyclic Groups.md",
-    "101/BIO101/2.The Chemical Basis of Life/Membrane Structure and Function.md",
-    "101/MTH101/Group Theory/7.Modular Arthimetic.md",
+    "Extra/Profs.md",
     "books/Fijics/Kleppner - Mechanics.pdf",
-    "101/MTH101/Group Theory/11.Constructing Groups.md"
+    "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
+    "books/Fijics/Solutions To Kleppner.pdf",
+    "101/MTH101/Notes/Notes/Lecture13.pdf",
+    "101/MTH101/Group Theory/9.Cyclic Groups.md"
   ]
 }
