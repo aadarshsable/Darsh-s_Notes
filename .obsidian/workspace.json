@@ -16,8 +16,19 @@
                 "file": "books/Fijics/Kleppner - Mechanics.pdf"
               }
             }
+          },
+          {
+            "id": "52dc2a977b8d228f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -84,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf",
+                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf",
+                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf"
+                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf"
               }
             }
           },
@@ -174,8 +184,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3a32b05078690b7",
+  "active": "52dc2a977b8d228f",
   "lastOpenFiles": [
+    "books/Fijics/Kleppner - Mechanics.pdf",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
     "101/MTH101/Group Theory/0.Theorems.md",
     "101/MTH101/Group Theory/Notes/Notes/Lecture13.pdf",
@@ -184,7 +195,6 @@
     "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
     "101/MTH101/Group Theory/Notes/Tutorials/notes.md",
     "101/MTH101/Linear Algebra/Untitled.md",
-    "101/MTH101/Untitled.md",
-    "Extra/bs.md"
+    "101/MTH101/Untitled.md"
   ]
 }
