@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "d1ac8d76d4f25584",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ec511971153dad9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aaa984a7d97b650e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Fijics/Kleppner - Mechanics.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a38464dbb3b15dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1d76f4a440a9aea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3a32b05078690b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "856a1527e0f18e51",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "606d56d6c4388c1f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ea4b12653eb92a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a2ddb7bf8d40eaf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "300a2cc661126d66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books/Fijics/Kleppner - Mechanics.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a70c60e3100e8e85",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "books/Fijics/Kleppner - Mechanics.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c0f17390e624e91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fe0fa11daf7c88f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "books/Fijics/Kleppner - Mechanics.pdf"
+              }
+            }
+          },
+          {
+            "id": "77740d1398a87009",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "824406c3aad7ca35",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc67116444f624d3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "101/BIO101/Notes/Bio101-Topic 2.pdf"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f3a32b05078690b7",
+  "lastOpenFiles": [
+    "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
+    "101/MTH101/Group Theory/0.Theorems.md",
+    "101/MTH101/Group Theory/Notes/Notes/Lecture13.pdf",
+    "101/MTH101/Group Theory/Notes/Notes/Lecture14.pdf",
+    "101/MTH101/Group Theory/Notes/Notes/DOUBTS.md",
+    "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
+    "101/MTH101/Group Theory/Notes/Tutorials/notes.md",
+    "101/MTH101/Linear Algebra/Untitled.md",
+    "101/MTH101/Untitled.md",
+    "Extra/bs.md"
+  ]
+}
