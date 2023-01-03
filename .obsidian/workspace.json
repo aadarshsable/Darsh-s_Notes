@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "7ec511971153dad9",
+        "id": "81c240b760489f70",
         "type": "tabs",
         "children": [
           {
@@ -16,7 +16,13 @@
                 "file": "books/Fijics/Kleppner - Mechanics.pdf"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7ec511971153dad9",
+        "type": "tabs",
+        "children": [
           {
             "id": "52dc2a977b8d228f",
             "type": "leaf",
@@ -27,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -187,6 +193,7 @@
   "active": "52dc2a977b8d228f",
   "lastOpenFiles": [
     "books/Fijics/Kleppner - Mechanics.pdf",
+    "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
     "101/MTH101/Group Theory/0.Theorems.md",
     "101/MTH101/Group Theory/Notes/Notes/Lecture13.pdf",
@@ -194,7 +201,6 @@
     "101/MTH101/Group Theory/Notes/Notes/DOUBTS.md",
     "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
     "101/MTH101/Group Theory/Notes/Tutorials/notes.md",
-    "101/MTH101/Linear Algebra/Untitled.md",
-    "101/MTH101/Untitled.md"
+    "101/MTH101/Linear Algebra/Untitled.md"
   ]
 }
