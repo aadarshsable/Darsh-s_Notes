@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
+                "file": "books/Fijics/Kleppner - Mechanics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
+                "file": "books/Fijics/Kleppner - Mechanics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf"
+                "file": "books/Fijics/Kleppner - Mechanics.pdf"
               }
             }
           },
@@ -190,10 +190,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52dc2a977b8d228f",
+  "active": "aaa984a7d97b650e",
   "lastOpenFiles": [
-    "books/Fijics/Kleppner - Mechanics.pdf",
     "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
+    "books/Fijics/Kleppner - Mechanics.pdf",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
     "101/MTH101/Group Theory/0.Theorems.md",
     "101/MTH101/Group Theory/Notes/Notes/Lecture13.pdf",
