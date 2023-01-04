@@ -48,4 +48,7 @@ $$
 \end{align}
 $$
 Thus our generators comes out to be 
-$\bar{2}, \bar{5}, \overline{11}, \{}$
+$\bar{2}, \bar{5}, \overline{11}, \overline{20}\dots$
+
+
+
