@@ -28,25 +28,19 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c93328cf7cf571c2",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "f9aabfeccc0ce5ac",
+            "id": "f681245d0a0b7240",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "101/MTH101/Linear Algebra/Notes/Lecture1.pdf"
+                "file": "books/Bio/Campbell Biology Concepts Connections.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -113,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "101/MTH101/Linear Algebra/Linear Equations.md",
+                "file": "books/Bio/Campbell Biology Concepts Connections.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "101/MTH101/Linear Algebra/Linear Equations.md",
+                "file": "books/Bio/Campbell Biology Concepts Connections.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "101/MTH101/Linear Algebra/Linear Equations.md"
+                "file": "books/Bio/Campbell Biology Concepts Connections.pdf"
               }
             }
           },
@@ -203,11 +196,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d8cf8fc002203ef",
+  "active": "f681245d0a0b7240",
   "lastOpenFiles": [
+    "101/MTH101/Linear Algebra/Linear Equations.md",
     "101/MTH101/Linear Algebra/Notes/Lecture1.pdf",
     "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
-    "101/MTH101/Linear Algebra/Linear Equations.md",
     "books/Fijics/Kleppner - Mechanics.pdf",
     "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
