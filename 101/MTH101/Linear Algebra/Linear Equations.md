@@ -22,7 +22,26 @@ Solution Set: $S = \{( -\frac{16}{5} \frac{,19}{5}) \}$
 
 $$
 \begin{align}
-x_{1}-x_{2} &= 3 \\
-2x_{1}-3x_{2} 
+x_{1}-x_{2} &= 3  \:\:\:\:\:\:\:(1)\\
+2x_{1}-3x_{2} &= 1  \:\:\:\:\:\:\:\:(2)\\
+-x_{1} + 2x_{2} &= -1 \:\:\:\:\: (3)
 \end{align}
 $$
+
+Add $(-2)$x$Eq(1)$ to $Eq(2)$
+$0-x_{2} = -5$         ---- $(4)$
+Add $(Eq(1)$ to $Eq(3)$
+$0+x_{2}=2$            ----- $(5)$
+
+Now we have
+$$
+\begin{align}
+x_{1} - x_{2} &= 3 \\
+-x_{2} &= -5 \\
+x_{2} &= 2
+\end{align}
+$$
+This system has no solutions
+Thus,
+Solution Set: $S = \phi = \{\:\}$
+
