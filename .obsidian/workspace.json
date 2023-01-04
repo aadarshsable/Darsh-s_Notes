@@ -18,29 +18,33 @@
             }
           },
           {
-            "id": "5d8cf8fc002203ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "101/MTH101/Linear Algebra/Linear Equations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f681245d0a0b7240",
+            "id": "377c5bbf1f5ac6bb",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "books/Bio/Campbell Biology Concepts Connections.pdf"
+                "file": "books/Fijics/Kleppner - Mechanics.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "873199255424bc40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "207ad2159eee1b6d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea4b12653eb92a09",
@@ -106,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Bio/Campbell Biology Concepts Connections.pdf",
+                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Bio/Campbell Biology Concepts Connections.pdf",
+                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Bio/Campbell Biology Concepts Connections.pdf"
+                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf"
               }
             }
           },
@@ -196,17 +201,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f681245d0a0b7240",
+  "active": "207ad2159eee1b6d",
   "lastOpenFiles": [
-    "101/MTH101/Linear Algebra/Linear Equations.md",
-    "101/MTH101/Linear Algebra/Notes/Lecture1.pdf",
-    "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
     "books/Fijics/Kleppner - Mechanics.pdf",
+    "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
+    "101/MTH101/Linear Algebra/Linear Equations.md",
+    "books/Bio/Campbell Biology Concepts Connections.pdf",
+    "101/MTH101/Linear Algebra/Notes/Lecture1.pdf",
     "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
     "101/MTH101/Group Theory/0.Theorems.md",
     "101/MTH101/Group Theory/Notes/Notes/Lecture13.pdf",
-    "101/MTH101/Group Theory/Notes/Notes/Lecture14.pdf",
-    "101/MTH101/Group Theory/Notes/Notes/DOUBTS.md"
+    "101/MTH101/Group Theory/Notes/Notes/Lecture14.pdf"
   ]
 }
