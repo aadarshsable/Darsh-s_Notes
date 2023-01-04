@@ -17,6 +17,7 @@ Eq$(3)$ gives us $x_{2}$  which then we can plug in Eq$(2)$ to get value of $x_{
 
 Solution Set: $S = \{( -\frac{16}{5} \frac{,19}{5}) \}$
 
+--------------
 
 #### Example-2
 
@@ -44,4 +45,23 @@ $$
 This system has no solutions
 Thus,
 Solution Set: $S = \phi = \{\:\}$
+
+----------------
+
+#### Example 3
+
+$$
+\begin{align}
+x_{1} +x_{2} - x_{3} &= 4 \:\:\:\:\:\:\:\:(1) \\
+2x_{1} - x_{2} + 3x_{3} &=1 \:\:\:\:\:\:\:\:(2)
+\end{align}
+$$
+Add $Eq(1) \cdot (-2)$  to  $Eq(2)$
+$$
+\begin{align}
+x_{1} + x_{2} - x_{3} &= 4 \\
+0 - 3x_{2} + 5x_{3} &= -7
+\end{align}
+$$
+Divide $Eq(3)$  by  $(-3)$
 
