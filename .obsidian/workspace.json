@@ -8,28 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aaa984a7d97b650e",
+            "id": "3f1ab1c7ee164ba8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf"
+                "file": "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf"
+              }
+            }
+          },
+          {
+            "id": "5d8cf8fc002203ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "101/MTH101/Linear Algebra/Linear Equations.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "7ec511971153dad9",
+        "id": "c93328cf7cf571c2",
         "type": "tabs",
         "children": [
           {
-            "id": "52dc2a977b8d228f",
+            "id": "f9aabfeccc0ce5ac",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "books/Fijics/Kleppner Kolenkow Solutions 2.pdf"
+                "file": "101/MTH101/Linear Algebra/Notes/Lecture1.pdf"
               }
             }
           }
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf",
+                "file": "101/MTH101/Linear Algebra/Linear Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf",
+                "file": "101/MTH101/Linear Algebra/Linear Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/Fijics/Kleppner - Mechanics.pdf"
+                "file": "101/MTH101/Linear Algebra/Linear Equations.md"
               }
             }
           },
@@ -190,17 +203,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aaa984a7d97b650e",
+  "active": "5d8cf8fc002203ef",
   "lastOpenFiles": [
-    "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
+    "101/MTH101/Linear Algebra/Notes/Lecture1.pdf",
+    "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
+    "101/MTH101/Linear Algebra/Linear Equations.md",
     "books/Fijics/Kleppner - Mechanics.pdf",
+    "books/Fijics/Kleppner Kolenkow Solutions 2.pdf",
     "101/MTH101/Group Theory/5.Lagrange's Theorem.md",
     "101/MTH101/Group Theory/0.Theorems.md",
     "101/MTH101/Group Theory/Notes/Notes/Lecture13.pdf",
     "101/MTH101/Group Theory/Notes/Notes/Lecture14.pdf",
-    "101/MTH101/Group Theory/Notes/Notes/DOUBTS.md",
-    "101/MTH101/Linear Algebra/Notes/2019_Full_Notes.pdf",
-    "101/MTH101/Group Theory/Notes/Tutorials/notes.md",
-    "101/MTH101/Linear Algebra/Untitled.md"
+    "101/MTH101/Group Theory/Notes/Notes/DOUBTS.md"
   ]
 }
